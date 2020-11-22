@@ -1,0 +1,222 @@
+/* stylelint-disable docusaurus/copyright-header */
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+/* You can override the default Infima variables here. */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Source+Code+Pro:wght@400;500;600;700&display=swap");
+html,
+body {
+  font-weight: 300;
+  padding: 0;
+  margin: 0;
+}
+
+.hack {
+  font-family: "Source Code Pro", monospace;
+}
+
+.row {
+  width: 100%;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 2.25rem;
+}
+
+h5 {
+  font-size: 1.5rem;
+}
+
+h6 {
+  font-size: 1.25rem;
+  font-weight: 300;
+  line-height: 30px;
+}
+
+p {
+  font-size: 1rem;
+}
+
+.small {
+  font-size: 0.9rem;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.button {
+  height: 55px;
+  width: 180px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background-color: #341f97;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  -webkit-box-shadow: 1px 1px 5px grey;
+          box-shadow: 1px 1px 5px grey;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.button:hover {
+  background-color: #2d1b82;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.button-sm {
+  height: 45px;
+  width: 120px;
+}
+
+.mr-3 {
+  margin-right: 20px;
+}
+
+.mt-1 {
+  margin-top: 3px;
+}
+
+.pb-5 {
+  padding-bottom: 40px;
+}
+
+.p-0 {
+  padding: 0;
+}
+
+.p-2 {
+  padding: 25px;
+}
+
+.pl-1 {
+  padding-left: 15px;
+}
+
+.d-flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.d-none {
+  display: none;
+}
+
+.align-items-center {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.justify-content-center {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.bg-dark {
+  background-color: black;
+}
+
+.check-list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-weight: 400;
+}
+
+.check-list .check-box {
+  background-color: #2ed573;
+  padding: 5px;
+  color: #fff;
+  border-radius: 50%;
+  margin-right: 7px;
+  width: 25px;
+  height: 25px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+@media screen and (min-width: 768px) {
+  .row-md {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .col-md-6 {
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 50%;
+            flex: 0 0 50%;
+    width: 50%;
+  }
+  .d-md-flex {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .check-container {
+    width: 75%;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .navbar {
+    padding: 0 10%;
+    margin: 0 auto;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+    position: initial;
+  }
+  .p-2 {
+    padding: 20px;
+  }
+  .container {
+    padding: 0 10%;
+  }
+  __item {
+    margin-right: 20px;
+  }
+  .coder__avatar {
+    width: 65%;
+  }
+  .check-container {
+    width: 75%;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .p-2 {
+    padding: 25px;
+  }
+  .container {
+    padding: 0;
+  }
+  .check-container {
+    width: 50%;
+  }
+}
+/*# sourceMappingURL=override.css.map */

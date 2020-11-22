@@ -1,35 +1,29 @@
 export default {
-  "title": "My Site",
-  "tagline": "The tagline of my site",
+  "title": "e-learn",
+  "tagline": "An electronic learning platform to curate learning materials for members of DSC to enhance personalized learning. This is to serve as the first point of reference for students in need of course materials",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "favicon": "img/google.png",
+  "organizationName": "kwasu-ng",
+  "projectName": "e-learn",
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "src": "img/logo.png"
       },
       "items": [
         {
-          "to": "docs/",
-          "activeBasePath": "docs",
-          "label": "Docs",
-          "position": "left"
+          "to": "learn/",
+          "activeBasePath": "learn",
+          "label": "Learning Resources",
+          "position": "right"
         },
         {
           "to": "blog",
           "label": "Blog",
-          "position": "left"
-        },
-        {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
           "position": "right"
         }
       ],
@@ -39,15 +33,32 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
           "items": [
             {
-              "label": "Style Guide",
-              "to": "docs/"
+              "html": "DSC KWASU"
             },
             {
-              "label": "Second Doc",
-              "to": "docs/doc2/"
+              "html": "© 2020 | All Rights Reserved."
+            },
+            {
+              "html": "Learn, Grow and Connect"
+            }
+          ]
+        },
+        {
+          "title": "Learning Resources",
+          "items": [
+            {
+              "label": "web",
+              "to": "learn/"
+            },
+            {
+              "label": "UI/UX",
+              "to": "learn/design/"
+            },
+            {
+              "label": "Mobile App",
+              "to": "learn/android/"
             }
           ]
         },
@@ -55,7 +66,7 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Stack Overflow",
+              "label": "Twitter",
               "href": "https://stackoverflow.com/questions/tagged/docusaurus"
             },
             {
@@ -64,6 +75,10 @@ export default {
             },
             {
               "label": "Twitter",
+              "href": "https://twitter.com/docusaurus"
+            },
+            {
+              "label": "Slack",
               "href": "https://twitter.com/docusaurus"
             }
           ]
@@ -76,13 +91,17 @@ export default {
               "to": "blog"
             },
             {
+              "label": "Official website",
+              "href": "https://dsckwasu.club"
+            },
+            {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/kwasu-ng"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2020 My Project, Inc. Built with Docusaurus."
+      "copyright": "Built with Docusaurus."
     },
     "colorMode": {
       "defaultMode": "light",
