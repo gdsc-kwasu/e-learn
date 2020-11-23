@@ -67,7 +67,7 @@ p {
   color: #fff;
   border: none;
   border-radius: 5px;
-  box-shadow: 1px 1px 5px grey;
+  // box-shadow: 1px 1px 5px rgb(223, 219, 219);
   transition: all 0.5s;
   &:hover {
     background-color: darken($color: $blue, $amount: 5);

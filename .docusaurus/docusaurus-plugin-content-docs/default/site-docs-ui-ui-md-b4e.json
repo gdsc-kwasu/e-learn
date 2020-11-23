@@ -1,0 +1,21 @@
+{
+  "unversionedId": "ui/ui",
+  "id": "ui/ui",
+  "isDocsHomePage": false,
+  "title": "User Interface",
+  "description": "This is a link to another document. This is a link to an external page.",
+  "source": "@site/docs/ui/ui.md",
+  "slug": "/ui/ui",
+  "permalink": "/docs/ui/ui",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/ui.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/ui/overview"
+  },
+  "next": {
+    "title": "User Experience",
+    "permalink": "/docs/ui/ux"
+  }
+}

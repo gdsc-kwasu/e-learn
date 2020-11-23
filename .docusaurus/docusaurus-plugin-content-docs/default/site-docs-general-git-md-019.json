@@ -1,0 +1,12 @@
+{
+  "unversionedId": "general/git",
+  "id": "general/git",
+  "isDocsHomePage": false,
+  "title": "GIT",
+  "description": "This is a link to another document. This is a link to an external page.",
+  "source": "@site/docs/general/git.md",
+  "slug": "/general/git",
+  "permalink": "/docs/general/git",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/general/git.md",
+  "version": "current"
+}

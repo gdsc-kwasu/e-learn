@@ -19,6 +19,7 @@ const features = [
         intermediate and advance learning.
       </>
     ),
+    path: "docs/",
   },
   {
     title: "UI/UX",
@@ -29,6 +30,7 @@ const features = [
         experience. UI/UX covers your needs on this.
       </>
     ),
+    path: "docs/ui/overview",
   },
   {
     title: "Mobile App Development",
@@ -39,6 +41,7 @@ const features = [
         get started? Worry less, we get you covered.
       </>
     ),
+    path: "docs/android/overview",
   },
 ];
 
@@ -69,7 +72,7 @@ const benefits = [
   },
 ];
 
-function Feature({ imageUrl, title, description }) {
+function Feature({ imageUrl, title, description, path }) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
     <div className={clsx("", styles.feature)}>
@@ -82,7 +85,7 @@ function Feature({ imageUrl, title, description }) {
         <div className="p-2">
           <h3 className="hack">{title}</h3>
           <p className="small">{description}</p>
-          <Link className={clsx("button button-sm")} to={useBaseUrl("docs/")}>
+          <Link className={clsx("button button-sm")} to={path}>
             See Outline
           </Link>
         </div>

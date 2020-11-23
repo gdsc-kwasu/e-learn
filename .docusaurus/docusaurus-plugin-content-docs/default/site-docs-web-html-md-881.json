@@ -1,0 +1,21 @@
+{
+  "unversionedId": "web/html",
+  "id": "web/html",
+  "isDocsHomePage": false,
+  "title": "HTML",
+  "description": "Course contents",
+  "source": "@site/docs/web/html.md",
+  "slug": "/web/html",
+  "permalink": "/docs/web/html",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/html.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Web Development",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "CSS",
+    "permalink": "/docs/web/css"
+  }
+}

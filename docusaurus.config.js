@@ -1,7 +1,7 @@
 module.exports = {
   title: "e-learn",
   tagline:
-    "An electronic learning platform to curate learning materials for members of DSC to enhance personalized learning. This is to serve as the first point of reference for students in need of course materials",
+    "An e-learning platform to curate learning materials for members of DSC to enhance personalized learning. This is to serve as the first point of reference for students in need of course materials",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -17,12 +17,12 @@ module.exports = {
       },
       items: [
         {
-          to: "learn/",
+          to: "docs/",
           activeBasePath: "learn",
           label: "Learning Resources",
           position: "right",
         },
-        { to: "blog", label: "Blog", position: "right" },
+        // { to: "blog", label: "Blog", position: "right" },
         // {
         //   href: 'https://github.com/facebook/docusaurus',
         //   label: 'GitHub',
@@ -51,15 +51,15 @@ module.exports = {
           items: [
             {
               label: "web",
-              to: "learn/",
+              to: "docs/",
             },
             {
               label: "UI/UX",
-              to: "learn/design/",
+              to: "docs/ui/overview",
             },
             {
               label: "Mobile App",
-              to: "learn/android/",
+              to: "docs/android/overview",
             },
           ],
         },

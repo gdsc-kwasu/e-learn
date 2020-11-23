@@ -1,6 +1,6 @@
 export default {
   "title": "e-learn",
-  "tagline": "An electronic learning platform to curate learning materials for members of DSC to enhance personalized learning. This is to serve as the first point of reference for students in need of course materials",
+  "tagline": "An e-learning platform to curate learning materials for members of DSC to enhance personalized learning. This is to serve as the first point of reference for students in need of course materials",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
@@ -16,14 +16,9 @@ export default {
       },
       "items": [
         {
-          "to": "learn/",
+          "to": "docs/",
           "activeBasePath": "learn",
           "label": "Learning Resources",
-          "position": "right"
-        },
-        {
-          "to": "blog",
-          "label": "Blog",
           "position": "right"
         }
       ],
@@ -50,15 +45,15 @@ export default {
           "items": [
             {
               "label": "web",
-              "to": "learn/"
+              "to": "docs/"
             },
             {
               "label": "UI/UX",
-              "to": "learn/design/"
+              "to": "docs/ui/overview"
             },
             {
               "label": "Mobile App",
-              "to": "learn/android/"
+              "to": "docs/android/overview"
             }
           ]
         },

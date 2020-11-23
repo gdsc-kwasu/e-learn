@@ -8,43 +8,87 @@
       {
         "collapsed": true,
         "type": "category",
-        "label": "Docusaurus",
+        "label": "Web",
         "items": [
           {
             "type": "link",
-            "label": "Style Guide",
+            "label": "Overview",
             "href": "/docs/"
           },
           {
             "type": "link",
-            "label": "Document Number 2",
-            "href": "/docs/doc2"
+            "label": "HTML",
+            "href": "/docs/web/html"
           },
           {
             "type": "link",
-            "label": "This is Document Number 3",
-            "href": "/docs/doc3"
+            "label": "CSS",
+            "href": "/docs/web/css"
+          },
+          {
+            "type": "link",
+            "label": "JavaScript",
+            "href": "/docs/web/js"
           }
         ]
       },
       {
         "collapsed": true,
         "type": "category",
-        "label": "Features",
+        "label": "UI/UX",
         "items": [
           {
             "type": "link",
-            "label": "Powered by MDX",
-            "href": "/docs/mdx"
+            "label": "Overview",
+            "href": "/docs/ui/overview"
+          },
+          {
+            "type": "link",
+            "label": "User Interface",
+            "href": "/docs/ui/ui"
+          },
+          {
+            "type": "link",
+            "label": "User Experience",
+            "href": "/docs/ui/ux"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Android",
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/docs/android/overview"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "General",
+        "items": [
+          {
+            "type": "link",
+            "label": "GIT",
+            "href": "/docs/git"
           }
         ]
       }
     ]
   },
   "permalinkToSidebar": {
+    "/docs/android/overview": "someSidebar",
+    "/docs/git": "someSidebar",
+    "/docs/ui/overview": "someSidebar",
+    "/docs/ui/ui": "someSidebar",
+    "/docs/ui/ux": "someSidebar",
     "/docs/": "someSidebar",
-    "/docs/doc2": "someSidebar",
-    "/docs/doc3": "someSidebar",
-    "/docs/mdx": "someSidebar"
+    "/docs/web/css": "someSidebar",
+    "/docs/web/html": "someSidebar",
+    "/docs/web/js": "someSidebar"
   }
 }

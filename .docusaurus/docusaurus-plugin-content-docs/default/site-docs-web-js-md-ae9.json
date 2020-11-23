@@ -1,0 +1,21 @@
+{
+  "unversionedId": "web/js",
+  "id": "web/js",
+  "isDocsHomePage": false,
+  "title": "JavaScript",
+  "description": "This is a link to another document. This is a link to an external page.",
+  "source": "@site/docs/web/js.md",
+  "slug": "/web/js",
+  "permalink": "/docs/web/js",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "CSS",
+    "permalink": "/docs/web/css"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/ui/overview"
+  }
+}

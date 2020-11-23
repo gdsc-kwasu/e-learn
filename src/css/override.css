@@ -68,8 +68,6 @@ p {
   color: #fff;
   border: none;
   border-radius: 5px;
-  -webkit-box-shadow: 1px 1px 5px grey;
-          box-shadow: 1px 1px 5px grey;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "ui/ux",
+  "id": "ui/ux",
+  "isDocsHomePage": false,
+  "title": "User Experience",
+  "description": "This is a link to another document. This is a link to an external page.",
+  "source": "@site/docs/ui/ux.md",
+  "slug": "/ui/ux",
+  "permalink": "/docs/ui/ux",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/ux.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "User Interface",
+    "permalink": "/docs/ui/ui"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/android/overview"
+  }
+}

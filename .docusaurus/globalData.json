@@ -8,26 +8,51 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "doc1",
+          "mainDocId": "web",
           "docs": [
             {
-              "id": "doc1",
+              "id": "android/overview",
+              "path": "/docs/android/overview",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "git",
+              "path": "/docs/git",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "ui/overview",
+              "path": "/docs/ui/overview",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "ui/ui",
+              "path": "/docs/ui/ui",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "ui/ux",
+              "path": "/docs/ui/ux",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "web",
               "path": "/docs/",
               "sidebar": "someSidebar"
             },
             {
-              "id": "doc2",
-              "path": "/docs/doc2",
+              "id": "web/css",
+              "path": "/docs/web/css",
               "sidebar": "someSidebar"
             },
             {
-              "id": "doc3",
-              "path": "/docs/doc3",
+              "id": "web/html",
+              "path": "/docs/web/html",
               "sidebar": "someSidebar"
             },
             {
-              "id": "mdx",
-              "path": "/docs/mdx",
+              "id": "web/js",
+              "path": "/docs/web/js",
               "sidebar": "someSidebar"
             }
           ]

@@ -89,27 +89,52 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','96b'),
+  component: ComponentCreator('/docs','8be'),
   
   routes: [
 {
   path: '/docs/',
-  component: ComponentCreator('/docs/','87d'),
+  component: ComponentCreator('/docs/','8fc'),
   exact: true,
 },
 {
-  path: '/docs/doc2',
-  component: ComponentCreator('/docs/doc2','fd3'),
+  path: '/docs/android/overview',
+  component: ComponentCreator('/docs/android/overview','409'),
   exact: true,
 },
 {
-  path: '/docs/doc3',
-  component: ComponentCreator('/docs/doc3','e02'),
+  path: '/docs/git',
+  component: ComponentCreator('/docs/git','d2f'),
   exact: true,
 },
 {
-  path: '/docs/mdx',
-  component: ComponentCreator('/docs/mdx','955'),
+  path: '/docs/ui/overview',
+  component: ComponentCreator('/docs/ui/overview','37a'),
+  exact: true,
+},
+{
+  path: '/docs/ui/ui',
+  component: ComponentCreator('/docs/ui/ui','3e7'),
+  exact: true,
+},
+{
+  path: '/docs/ui/ux',
+  component: ComponentCreator('/docs/ui/ux','bb1'),
+  exact: true,
+},
+{
+  path: '/docs/web/css',
+  component: ComponentCreator('/docs/web/css','e42'),
+  exact: true,
+},
+{
+  path: '/docs/web/html',
+  component: ComponentCreator('/docs/web/html','28c'),
+  exact: true,
+},
+{
+  path: '/docs/web/js',
+  component: ComponentCreator('/docs/web/js','031'),
   exact: true,
 },
 ]

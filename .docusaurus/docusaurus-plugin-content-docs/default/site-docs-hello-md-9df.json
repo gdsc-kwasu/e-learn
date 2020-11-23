@@ -1,0 +1,12 @@
+{
+  "unversionedId": "hello",
+  "id": "hello",
+  "isDocsHomePage": false,
+  "title": "Powered by MDX",
+  "description": "You can write JSX and use React components within your Markdown thanks to MDX.",
+  "source": "@site/docs/hello.md",
+  "slug": "/hello",
+  "permalink": "/docs/hello",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/hello.md",
+  "version": "current"
+}

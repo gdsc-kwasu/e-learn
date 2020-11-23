@@ -10,123 +10,267 @@
           "routePriority": -1,
           "sidebarFilePath": "/home/codeleaf/Documents/projects/DSCKwasu/e-learn/sidebars.js",
           "docsDirPath": "/home/codeleaf/Documents/projects/DSCKwasu/e-learn/docs",
-          "mainDocId": "doc1",
+          "mainDocId": "web",
           "sidebars": {
             "someSidebar": [
               {
                 "collapsed": true,
                 "type": "category",
-                "label": "Docusaurus",
+                "label": "Web",
                 "items": [
                   {
                     "type": "doc",
-                    "id": "doc1"
+                    "id": "web"
                   },
                   {
                     "type": "doc",
-                    "id": "doc2"
+                    "id": "web/html"
                   },
                   {
                     "type": "doc",
-                    "id": "doc3"
+                    "id": "web/css"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "web/js"
                   }
                 ]
               },
               {
                 "collapsed": true,
                 "type": "category",
-                "label": "Features",
+                "label": "UI/UX",
                 "items": [
                   {
                     "type": "doc",
-                    "id": "mdx"
+                    "id": "ui/overview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ui/ui"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ui/ux"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Android",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "android/overview"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "General",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "git"
                   }
                 ]
               }
             ]
           },
           "permalinkToSidebar": {
+            "/docs/android/overview": "someSidebar",
+            "/docs/git": "someSidebar",
+            "/docs/ui/overview": "someSidebar",
+            "/docs/ui/ui": "someSidebar",
+            "/docs/ui/ux": "someSidebar",
             "/docs/": "someSidebar",
-            "/docs/doc2": "someSidebar",
-            "/docs/doc3": "someSidebar",
-            "/docs/mdx": "someSidebar"
+            "/docs/web/css": "someSidebar",
+            "/docs/web/html": "someSidebar",
+            "/docs/web/js": "someSidebar"
           },
           "docs": [
             {
-              "unversionedId": "doc1",
-              "id": "doc1",
+              "unversionedId": "android/overview",
+              "id": "android/overview",
               "isDocsHomePage": false,
-              "title": "Style Guide",
-              "description": "You can write content using GitHub-flavored Markdown syntax.",
-              "source": "@site/docs/doc1.md",
-              "slug": "/",
-              "permalink": "/docs/",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc1.md",
-              "version": "current",
-              "sidebar_label": "Style Guide",
-              "sidebar": "someSidebar",
-              "next": {
-                "title": "Document Number 2",
-                "permalink": "/docs/doc2"
-              }
-            },
-            {
-              "unversionedId": "doc2",
-              "id": "doc2",
-              "isDocsHomePage": false,
-              "title": "Document Number 2",
-              "description": "This is a link to another document. This is a link to an external page.",
-              "source": "@site/docs/doc2.md",
-              "slug": "/doc2",
-              "permalink": "/docs/doc2",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc2.md",
+              "title": "Overview",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+              "source": "@site/docs/android/overview.md",
+              "slug": "/android/overview",
+              "permalink": "/docs/android/overview",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/android/overview.md",
               "version": "current",
               "sidebar": "someSidebar",
               "previous": {
-                "title": "Style Guide",
+                "title": "User Experience",
+                "permalink": "/docs/ui/ux"
+              },
+              "next": {
+                "title": "GIT",
+                "permalink": "/docs/git"
+              }
+            },
+            {
+              "unversionedId": "git",
+              "id": "git",
+              "isDocsHomePage": false,
+              "title": "GIT",
+              "description": "You can write JSX and use React components within your Markdown thanks to MDX.",
+              "source": "@site/docs/git.md",
+              "slug": "/git",
+              "permalink": "/docs/git",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/git.md",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/docs/android/overview"
+              }
+            },
+            {
+              "unversionedId": "ui/overview",
+              "id": "ui/overview",
+              "isDocsHomePage": false,
+              "title": "Overview",
+              "description": "This is a link to another document. This is a link to an external page.",
+              "source": "@site/docs/ui/overview.md",
+              "slug": "/ui/overview",
+              "permalink": "/docs/ui/overview",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/overview.md",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "JavaScript",
+                "permalink": "/docs/web/js"
+              },
+              "next": {
+                "title": "User Interface",
+                "permalink": "/docs/ui/ui"
+              }
+            },
+            {
+              "unversionedId": "ui/ui",
+              "id": "ui/ui",
+              "isDocsHomePage": false,
+              "title": "User Interface",
+              "description": "This is a link to another document. This is a link to an external page.",
+              "source": "@site/docs/ui/ui.md",
+              "slug": "/ui/ui",
+              "permalink": "/docs/ui/ui",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/ui.md",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/docs/ui/overview"
+              },
+              "next": {
+                "title": "User Experience",
+                "permalink": "/docs/ui/ux"
+              }
+            },
+            {
+              "unversionedId": "ui/ux",
+              "id": "ui/ux",
+              "isDocsHomePage": false,
+              "title": "User Experience",
+              "description": "This is a link to another document. This is a link to an external page.",
+              "source": "@site/docs/ui/ux.md",
+              "slug": "/ui/ux",
+              "permalink": "/docs/ui/ux",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/ux.md",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "User Interface",
+                "permalink": "/docs/ui/ui"
+              },
+              "next": {
+                "title": "Overview",
+                "permalink": "/docs/android/overview"
+              }
+            },
+            {
+              "unversionedId": "web",
+              "id": "web",
+              "isDocsHomePage": false,
+              "title": "Web Development",
+              "description": "Overview",
+              "source": "@site/docs/web.md",
+              "slug": "/",
+              "permalink": "/docs/",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web.md",
+              "version": "current",
+              "sidebar_label": "Overview",
+              "sidebar": "someSidebar",
+              "next": {
+                "title": "HTML",
+                "permalink": "/docs/web/html"
+              }
+            },
+            {
+              "unversionedId": "web/css",
+              "id": "web/css",
+              "isDocsHomePage": false,
+              "title": "CSS",
+              "description": "This is a link to another document. This is a link to an external page.",
+              "source": "@site/docs/web/css.md",
+              "slug": "/web/css",
+              "permalink": "/docs/web/css",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css.md",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "HTML",
+                "permalink": "/docs/web/html"
+              },
+              "next": {
+                "title": "JavaScript",
+                "permalink": "/docs/web/js"
+              }
+            },
+            {
+              "unversionedId": "web/html",
+              "id": "web/html",
+              "isDocsHomePage": false,
+              "title": "HTML",
+              "description": "Course contents",
+              "source": "@site/docs/web/html.md",
+              "slug": "/web/html",
+              "permalink": "/docs/web/html",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/html.md",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Web Development",
                 "permalink": "/docs/"
               },
               "next": {
-                "title": "This is Document Number 3",
-                "permalink": "/docs/doc3"
+                "title": "CSS",
+                "permalink": "/docs/web/css"
               }
             },
             {
-              "unversionedId": "doc3",
-              "id": "doc3",
+              "unversionedId": "web/js",
+              "id": "web/js",
               "isDocsHomePage": false,
-              "title": "This is Document Number 3",
-              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-              "source": "@site/docs/doc3.md",
-              "slug": "/doc3",
-              "permalink": "/docs/doc3",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc3.md",
+              "title": "JavaScript",
+              "description": "This is a link to another document. This is a link to an external page.",
+              "source": "@site/docs/web/js.md",
+              "slug": "/web/js",
+              "permalink": "/docs/web/js",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js.md",
               "version": "current",
               "sidebar": "someSidebar",
               "previous": {
-                "title": "Document Number 2",
-                "permalink": "/docs/doc2"
+                "title": "CSS",
+                "permalink": "/docs/web/css"
               },
               "next": {
-                "title": "Powered by MDX",
-                "permalink": "/docs/mdx"
-              }
-            },
-            {
-              "unversionedId": "mdx",
-              "id": "mdx",
-              "isDocsHomePage": false,
-              "title": "Powered by MDX",
-              "description": "You can write JSX and use React components within your Markdown thanks to MDX.",
-              "source": "@site/docs/mdx.md",
-              "slug": "/mdx",
-              "permalink": "/docs/mdx",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/mdx.md",
-              "version": "current",
-              "sidebar": "someSidebar",
-              "previous": {
-                "title": "This is Document Number 3",
-                "permalink": "/docs/doc3"
+                "title": "Overview",
+                "permalink": "/docs/ui/overview"
               }
             }
           ]
