@@ -89,12 +89,21 @@ export default [
 },
 {
   path: '/docs',
+<<<<<<< HEAD
   component: ComponentCreator('/docs','d66'),
+=======
+  component: ComponentCreator('/docs','627'),
+>>>>>>> fe9bd9841a61965ea0831f46145fc428f738da29
   
   routes: [
 {
   path: '/docs/',
   component: ComponentCreator('/docs/','8fc'),
+  exact: true,
+},
+{
+  path: '/docs/android/flutter',
+  component: ComponentCreator('/docs/android/flutter','039'),
   exact: true,
 },
 {
@@ -153,6 +162,7 @@ export default [
   exact: true,
 },
 {
+<<<<<<< HEAD
   path: '/docs/html/body-tags',
   component: ComponentCreator('/docs/html/body-tags','a49'),
   exact: true,
@@ -305,16 +315,25 @@ export default [
 {
   path: '/docs/ui/overview',
   component: ComponentCreator('/docs/ui/overview','37a'),
+=======
+  path: '/docs/ui/articles',
+  component: ComponentCreator('/docs/ui/articles','dfd'),
+>>>>>>> fe9bd9841a61965ea0831f46145fc428f738da29
   exact: true,
 },
 {
-  path: '/docs/ui/ui',
-  component: ComponentCreator('/docs/ui/ui','3e7'),
+  path: '/docs/ui/figma',
+  component: ComponentCreator('/docs/ui/figma','077'),
   exact: true,
 },
 {
-  path: '/docs/ui/ux',
-  component: ComponentCreator('/docs/ui/ux','bb1'),
+  path: '/docs/ui/overview',
+  component: ComponentCreator('/docs/ui/overview','37a'),
+  exact: true,
+},
+{
+  path: '/docs/ui/videos',
+  component: ComponentCreator('/docs/ui/videos','8da'),
   exact: true,
 },
 {

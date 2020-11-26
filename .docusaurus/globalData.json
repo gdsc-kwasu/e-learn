@@ -11,6 +11,11 @@
           "mainDocId": "web",
           "docs": [
             {
+              "id": "android/flutter",
+              "path": "/docs/android/flutter",
+              "sidebar": "someSidebar"
+            },
+            {
               "id": "android/overview",
               "path": "/docs/android/overview",
               "sidebar": "docs"
@@ -21,6 +26,7 @@
               "sidebar": "docs"
             },
             {
+<<<<<<< HEAD
               "id": "ui/overview",
               "path": "/docs/ui/overview",
               "sidebar": "docs"
@@ -34,6 +40,26 @@
               "id": "ui/ux",
               "path": "/docs/ui/ux",
               "sidebar": "docs"
+=======
+              "id": "ui/articles",
+              "path": "/docs/ui/articles",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "ui/figma",
+              "path": "/docs/ui/figma",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "ui/overview",
+              "path": "/docs/ui/overview",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "ui/videos",
+              "path": "/docs/ui/videos",
+              "sidebar": "someSidebar"
+>>>>>>> fe9bd9841a61965ea0831f46145fc428f738da29
             },
             {
               "id": "web",

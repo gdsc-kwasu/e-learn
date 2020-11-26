@@ -1,21 +1,21 @@
 {
-  "unversionedId": "ui/ui",
-  "id": "ui/ui",
+  "unversionedId": "ui/figma",
+  "id": "ui/figma",
   "isDocsHomePage": false,
-  "title": "User Interface",
-  "description": "This is a link to another document. This is a link to an external page.",
+  "title": "FIGMA",
+  "description": "Course contents",
   "source": "@site/docs/ui/ui.md",
-  "slug": "/ui/ui",
-  "permalink": "/docs/ui/ui",
+  "slug": "/ui/figma",
+  "permalink": "/docs/ui/figma",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/ui.md",
   "version": "current",
   "sidebar": "docs",
   "previous": {
-    "title": "Overview",
+    "title": "User Interface and User Experience",
     "permalink": "/docs/ui/overview"
   },
   "next": {
-    "title": "User Experience",
-    "permalink": "/docs/ui/ux"
+    "title": "Videos",
+    "permalink": "/docs/ui/videos"
   }
 }

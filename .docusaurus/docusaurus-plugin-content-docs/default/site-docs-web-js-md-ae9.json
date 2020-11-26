@@ -15,7 +15,12 @@
     "permalink": "/docs/css/optimization"
   },
   "next": {
+<<<<<<< HEAD
     "title": "Introduction to JavaScript",
     "permalink": "/docs/js/introduction"
+=======
+    "title": "User Interface and User Experience",
+    "permalink": "/docs/ui/overview"
+>>>>>>> fe9bd9841a61965ea0831f46145fc428f738da29
   }
 }

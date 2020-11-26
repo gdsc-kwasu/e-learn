@@ -2,7 +2,7 @@
   "unversionedId": "ui/ux",
   "id": "ui/ux",
   "isDocsHomePage": false,
-  "title": "User Experience",
+  "title": "Videos",
   "description": "This is a link to another document. This is a link to an external page.",
   "source": "@site/docs/ui/ux.md",
   "slug": "/ui/ux",
@@ -11,11 +11,11 @@
   "version": "current",
   "sidebar": "docs",
   "previous": {
-    "title": "User Interface",
-    "permalink": "/docs/ui/ui"
+    "title": "FIGMA",
+    "permalink": "/docs/ui/figma"
   },
   "next": {
-    "title": "Overview",
+    "title": "Mobile App Development",
     "permalink": "/docs/android/overview"
   }
 }

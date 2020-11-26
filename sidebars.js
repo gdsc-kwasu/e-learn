@@ -1,4 +1,5 @@
 module.exports = {
+<<<<<<< HEAD
   docs: {
     Web: [
       "web",
@@ -63,8 +64,8 @@ module.exports = {
         ]
       }
     ],
-    "UI/UX": ["ui/overview", "ui/ui", "ui/ux"],
-    Android: ["android/overview"],
+    "UI/UX": ["ui/overview", "ui/figma", "ui/videos", "ui/articles"],
+    Android: ["android/overview", "android/flutter"],
     General: ["git"],
   }
 }
