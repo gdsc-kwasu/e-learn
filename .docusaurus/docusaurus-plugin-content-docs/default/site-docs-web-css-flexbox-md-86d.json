@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/css/flexbox",
+  "id": "web/css/flexbox",
+  "isDocsHomePage": false,
+  "title": "Structuring a page with Flexbox",
+  "description": "Let's get started",
+  "source": "@site/docs/web/css/flexbox.md",
+  "slug": "/css/flexbox",
+  "permalink": "/docs/css/flexbox",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css/flexbox.md",
+  "version": "current",
+  "sidebar_label": "Flexbox",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Let's add some colors to our Login/Register page",
+    "permalink": "/docs/css/css-task"
+  },
+  "next": {
+    "title": "Structuring a page with Float",
+    "permalink": "/docs/css/float"
+  }
+}

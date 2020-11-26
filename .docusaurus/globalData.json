@@ -12,48 +12,238 @@
           "docs": [
             {
               "id": "android/overview",
-              "path": "/docs/android/overview",
-              "sidebar": "someSidebar"
+              "path": "/docs/android/overview"
             },
             {
               "id": "git",
-              "path": "/docs/git",
-              "sidebar": "someSidebar"
+              "path": "/docs/git"
             },
             {
               "id": "ui/overview",
-              "path": "/docs/ui/overview",
-              "sidebar": "someSidebar"
+              "path": "/docs/ui/overview"
             },
             {
               "id": "ui/ui",
-              "path": "/docs/ui/ui",
-              "sidebar": "someSidebar"
+              "path": "/docs/ui/ui"
             },
             {
               "id": "ui/ux",
-              "path": "/docs/ui/ux",
-              "sidebar": "someSidebar"
+              "path": "/docs/ui/ux"
             },
             {
               "id": "web",
               "path": "/docs/",
-              "sidebar": "someSidebar"
+              "sidebar": "docs"
             },
             {
               "id": "web/css",
               "path": "/docs/web/css",
-              "sidebar": "someSidebar"
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/css/applying-css",
+              "path": "/docs/css/applying-css",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/css/box-model",
+              "path": "/docs/css/box-model",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/css/css-structure",
+              "path": "/docs/css/css-structure",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/css/css-task",
+              "path": "/docs/css/css-task",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/css/flexbox",
+              "path": "/docs/css/flexbox",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/css/float",
+              "path": "/docs/css/float",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/css/introduction",
+              "path": "/docs/css/css-introduction",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/css/optimization",
+              "path": "/docs/css/optimization",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/css/properties",
+              "path": "/docs/html/css-properties",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/css/transitions",
+              "path": "/docs/css/animation",
+              "sidebar": "docs"
             },
             {
               "id": "web/html",
               "path": "/docs/web/html",
-              "sidebar": "someSidebar"
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/html/body",
+              "path": "/docs/html/body-tags",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/html/emmet",
+              "path": "/docs/html/emmet",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/html/forms",
+              "path": "/docs/html/forms",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/html/history",
+              "path": "/docs/html/history",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/html/html-task",
+              "path": "/docs/html/html-task",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/html/html5-apis",
+              "path": "/docs/html/html-apis",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/html/modernizer",
+              "path": "/docs/html/modernizer",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/html/structure",
+              "path": "/docs/html/structure",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/html/tags",
+              "path": "/docs/html/tags",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/html/types",
+              "path": "/docs/html/html-tags",
+              "sidebar": "docs"
             },
             {
               "id": "web/js",
               "path": "/docs/web/js",
-              "sidebar": "someSidebar"
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/js/arrays",
+              "path": "/docs/js/arrays",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/js/async",
+              "path": "/docs/js/async",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/js/browser-api",
+              "path": "/docs/js/browser-api",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/js/conditional-flow",
+              "path": "/docs/js/conditional-flow",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/js/dom",
+              "path": "/docs/js/dom",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/js/events",
+              "path": "/docs/js/events",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/js/exception",
+              "path": "/docs/js/bugs",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/js/forms",
+              "path": "/docs/js/forms",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/js/functions",
+              "path": "/docs/js/functions",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/js/functions-deep",
+              "path": "/docs/js/functions-deep",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/js/http",
+              "path": "/docs/js/http",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/js/introduction",
+              "path": "/docs/js/introduction",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/js/js-in-browser",
+              "path": "/docs/js/js-in-broswer",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/js/loops",
+              "path": "/docs/js/loops",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/js/modules",
+              "path": "/docs/js/modules",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/js/objects",
+              "path": "/docs/js/objects",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/js/programme-structure",
+              "path": "/docs/js/structure",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/js/regex",
+              "path": "/docs/js/regex",
+              "sidebar": "docs"
+            },
+            {
+              "id": "web/js/syntax",
+              "path": "/docs/js/syntax",
+              "sidebar": "docs"
             }
           ]
         }

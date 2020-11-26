@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/html/structure",
+  "id": "web/html/structure",
+  "isDocsHomePage": false,
+  "title": "Basic page structure",
+  "description": "Basic page structure",
+  "source": "@site/docs/web/html/structure.md",
+  "slug": "/html/structure",
+  "permalink": "/docs/html/structure",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/html/structure.md",
+  "version": "current",
+  "sidebar_label": "Page structure",
+  "sidebar": "docs",
+  "previous": {
+    "title": "History and future of HTML",
+    "permalink": "/docs/html/history"
+  },
+  "next": {
+    "title": "HTML tags and attributes",
+    "permalink": "/docs/html/tags"
+  }
+}

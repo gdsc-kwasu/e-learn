@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/js/introduction",
+  "id": "web/js/introduction",
+  "isDocsHomePage": false,
+  "title": "Introduction to JavaScript",
+  "description": "Let's get started",
+  "source": "@site/docs/web/js/introduction.md",
+  "slug": "/js/introduction",
+  "permalink": "/docs/js/introduction",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/introduction.md",
+  "version": "current",
+  "sidebar_label": "Introduction",
+  "sidebar": "docs",
+  "previous": {
+    "title": "JavaScript, the heartbeat of the web",
+    "permalink": "/docs/web/js"
+  },
+  "next": {
+    "title": "Syntax, Data Types and Operators",
+    "permalink": "/docs/js/syntax"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/js/modules",
+  "id": "web/js/modules",
+  "isDocsHomePage": false,
+  "title": "Let's build a simple JavaScript module",
+  "description": "Let's get started",
+  "source": "@site/docs/web/js/modules.md",
+  "slug": "/js/modules",
+  "permalink": "/docs/js/modules",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/modules.md",
+  "version": "current",
+  "sidebar_label": "Modules",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Regular Expressions",
+    "permalink": "/docs/js/regex"
+  },
+  "next": {
+    "title": "Asynchronous programming with JavaScript",
+    "permalink": "/docs/js/async"
+  }
+}

@@ -8,10 +8,5 @@
   "slug": "/git",
   "permalink": "/docs/git",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/git.md",
-  "version": "current",
-  "sidebar": "someSidebar",
-  "previous": {
-    "title": "Overview",
-    "permalink": "/docs/android/overview"
-  }
+  "version": "current"
 }

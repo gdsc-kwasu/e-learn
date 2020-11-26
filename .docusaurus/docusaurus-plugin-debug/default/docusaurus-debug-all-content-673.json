@@ -8,11 +8,11 @@
           "versionPath": "/docs",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/codeleaf/Documents/projects/DSCKwasu/e-learn/sidebars.js",
-          "docsDirPath": "/home/codeleaf/Documents/projects/DSCKwasu/e-learn/docs",
+          "sidebarFilePath": "/home/seven/Documents/codes/projects/kwasudsc/e-learn/sidebars.js",
+          "docsDirPath": "/home/seven/Documents/codes/projects/kwasudsc/e-learn/docs",
           "mainDocId": "web",
           "sidebars": {
-            "someSidebar": [
+            "docs": [
               {
                 "collapsed": true,
                 "type": "category",
@@ -23,72 +23,242 @@
                     "id": "web"
                   },
                   {
-                    "type": "doc",
-                    "id": "web/html"
+                    "collapsed": true,
+                    "type": "category",
+                    "label": "HTML",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "web/html"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/html/history"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/html/structure"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/html/tags"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/html/types"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/html/body"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/html/emmet"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/html/forms"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/html/html5-apis"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/html/modernizer"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/html/html-task"
+                      }
+                    ]
                   },
                   {
-                    "type": "doc",
-                    "id": "web/css"
+                    "collapsed": true,
+                    "type": "category",
+                    "label": "CSS",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "web/css"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/css/introduction"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/css/applying-css"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/css/css-structure"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/css/properties"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/css/box-model"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/css/css-task"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/css/flexbox"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/css/float"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/css/transitions"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/css/optimization"
+                      }
+                    ]
                   },
                   {
-                    "type": "doc",
-                    "id": "web/js"
-                  }
-                ]
-              },
-              {
-                "collapsed": true,
-                "type": "category",
-                "label": "UI/UX",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "ui/overview"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "ui/ui"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "ui/ux"
-                  }
-                ]
-              },
-              {
-                "collapsed": true,
-                "type": "category",
-                "label": "Android",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "android/overview"
-                  }
-                ]
-              },
-              {
-                "collapsed": true,
-                "type": "category",
-                "label": "General",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "git"
+                    "collapsed": true,
+                    "type": "category",
+                    "label": "JavaScript",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "web/js"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/js/introduction"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/js/syntax"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/js/programme-structure"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/js/loops"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/js/functions"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/js/conditional-flow"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/js/arrays"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/js/functions-deep"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/js/objects"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/js/exception"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/js/regex"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/js/modules"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/js/async"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/js/js-in-browser"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/js/dom"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/js/events"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/js/http"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/js/forms"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "web/js/browser-api"
+                      }
+                    ]
                   }
                 ]
               }
             ]
           },
           "permalinkToSidebar": {
-            "/docs/android/overview": "someSidebar",
-            "/docs/git": "someSidebar",
-            "/docs/ui/overview": "someSidebar",
-            "/docs/ui/ui": "someSidebar",
-            "/docs/ui/ux": "someSidebar",
-            "/docs/": "someSidebar",
-            "/docs/web/css": "someSidebar",
-            "/docs/web/html": "someSidebar",
-            "/docs/web/js": "someSidebar"
+            "/docs/": "docs",
+            "/docs/web/css": "docs",
+            "/docs/css/applying-css": "docs",
+            "/docs/css/box-model": "docs",
+            "/docs/css/css-structure": "docs",
+            "/docs/css/css-task": "docs",
+            "/docs/css/flexbox": "docs",
+            "/docs/css/float": "docs",
+            "/docs/css/css-introduction": "docs",
+            "/docs/css/optimization": "docs",
+            "/docs/html/css-properties": "docs",
+            "/docs/css/animation": "docs",
+            "/docs/web/html": "docs",
+            "/docs/html/body-tags": "docs",
+            "/docs/html/emmet": "docs",
+            "/docs/html/forms": "docs",
+            "/docs/html/history": "docs",
+            "/docs/html/html-task": "docs",
+            "/docs/html/html-apis": "docs",
+            "/docs/html/modernizer": "docs",
+            "/docs/html/structure": "docs",
+            "/docs/html/tags": "docs",
+            "/docs/html/html-tags": "docs",
+            "/docs/web/js": "docs",
+            "/docs/js/arrays": "docs",
+            "/docs/js/async": "docs",
+            "/docs/js/browser-api": "docs",
+            "/docs/js/conditional-flow": "docs",
+            "/docs/js/dom": "docs",
+            "/docs/js/events": "docs",
+            "/docs/js/bugs": "docs",
+            "/docs/js/forms": "docs",
+            "/docs/js/functions": "docs",
+            "/docs/js/functions-deep": "docs",
+            "/docs/js/http": "docs",
+            "/docs/js/introduction": "docs",
+            "/docs/js/js-in-broswer": "docs",
+            "/docs/js/loops": "docs",
+            "/docs/js/modules": "docs",
+            "/docs/js/objects": "docs",
+            "/docs/js/structure": "docs",
+            "/docs/js/regex": "docs",
+            "/docs/js/syntax": "docs"
           },
           "docs": [
             {
@@ -101,16 +271,7 @@
               "slug": "/android/overview",
               "permalink": "/docs/android/overview",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/android/overview.md",
-              "version": "current",
-              "sidebar": "someSidebar",
-              "previous": {
-                "title": "User Experience",
-                "permalink": "/docs/ui/ux"
-              },
-              "next": {
-                "title": "GIT",
-                "permalink": "/docs/git"
-              }
+              "version": "current"
             },
             {
               "unversionedId": "git",
@@ -122,12 +283,7 @@
               "slug": "/git",
               "permalink": "/docs/git",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/git.md",
-              "version": "current",
-              "sidebar": "someSidebar",
-              "previous": {
-                "title": "Overview",
-                "permalink": "/docs/android/overview"
-              }
+              "version": "current"
             },
             {
               "unversionedId": "ui/overview",
@@ -139,16 +295,7 @@
               "slug": "/ui/overview",
               "permalink": "/docs/ui/overview",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/overview.md",
-              "version": "current",
-              "sidebar": "someSidebar",
-              "previous": {
-                "title": "JavaScript",
-                "permalink": "/docs/web/js"
-              },
-              "next": {
-                "title": "User Interface",
-                "permalink": "/docs/ui/ui"
-              }
+              "version": "current"
             },
             {
               "unversionedId": "ui/ui",
@@ -160,16 +307,7 @@
               "slug": "/ui/ui",
               "permalink": "/docs/ui/ui",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/ui.md",
-              "version": "current",
-              "sidebar": "someSidebar",
-              "previous": {
-                "title": "Overview",
-                "permalink": "/docs/ui/overview"
-              },
-              "next": {
-                "title": "User Experience",
-                "permalink": "/docs/ui/ux"
-              }
+              "version": "current"
             },
             {
               "unversionedId": "ui/ux",
@@ -181,16 +319,7 @@
               "slug": "/ui/ux",
               "permalink": "/docs/ui/ux",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/ux.md",
-              "version": "current",
-              "sidebar": "someSidebar",
-              "previous": {
-                "title": "User Interface",
-                "permalink": "/docs/ui/ui"
-              },
-              "next": {
-                "title": "Overview",
-                "permalink": "/docs/android/overview"
-              }
+              "version": "current"
             },
             {
               "unversionedId": "web",
@@ -204,9 +333,9 @@
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web.md",
               "version": "current",
               "sidebar_label": "Overview",
-              "sidebar": "someSidebar",
+              "sidebar": "docs",
               "next": {
-                "title": "HTML",
+                "title": "A Brief Introduction.",
                 "permalink": "/docs/web/html"
               }
             },
@@ -214,63 +343,917 @@
               "unversionedId": "web/css",
               "id": "web/css",
               "isDocsHomePage": false,
-              "title": "CSS",
-              "description": "This is a link to another document. This is a link to an external page.",
+              "title": "Life is by Design",
+              "description": "We all know how the advent of colors and blah blah blah cmae into place...",
               "source": "@site/docs/web/css.md",
               "slug": "/web/css",
               "permalink": "/docs/web/css",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css.md",
               "version": "current",
-              "sidebar": "someSidebar",
+              "sidebar": "docs",
               "previous": {
-                "title": "HTML",
-                "permalink": "/docs/web/html"
+                "title": "Building a Login/Register page.",
+                "permalink": "/docs/html/html-task"
               },
               "next": {
-                "title": "JavaScript",
+                "title": "CSS introduction",
+                "permalink": "/docs/css/css-introduction"
+              }
+            },
+            {
+              "unversionedId": "web/css/applying-css",
+              "id": "web/css/applying-css",
+              "isDocsHomePage": false,
+              "title": "Different ways to apply CSS to an HTML document",
+              "description": "Let's get started",
+              "source": "@site/docs/web/css/applying-css.md",
+              "slug": "/css/applying-css",
+              "permalink": "/docs/css/applying-css",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css/applying-css.md",
+              "version": "current",
+              "sidebar_label": "Applying CSS",
+              "sidebar": "docs",
+              "previous": {
+                "title": "CSS introduction",
+                "permalink": "/docs/css/css-introduction"
+              },
+              "next": {
+                "title": "CSS structure",
+                "permalink": "/docs/css/css-structure"
+              }
+            },
+            {
+              "unversionedId": "web/css/box-model",
+              "id": "web/css/box-model",
+              "isDocsHomePage": false,
+              "title": "Understanding the box model",
+              "description": "Let's get started",
+              "source": "@site/docs/web/css/box-model.md",
+              "slug": "/css/box-model",
+              "permalink": "/docs/css/box-model",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css/box-model.md",
+              "version": "current",
+              "sidebar_label": "The box model",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Units, Measurements and colors",
+                "permalink": "/docs/html/css-properties"
+              },
+              "next": {
+                "title": "Let's add some colors to our Login/Register page",
+                "permalink": "/docs/css/css-task"
+              }
+            },
+            {
+              "unversionedId": "web/css/css-structure",
+              "id": "web/css/css-structure",
+              "isDocsHomePage": false,
+              "title": "CSS structure",
+              "description": "Let's get started",
+              "source": "@site/docs/web/css/css-structure.md",
+              "slug": "/css/css-structure",
+              "permalink": "/docs/css/css-structure",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css/css-structure.md",
+              "version": "current",
+              "sidebar_label": "Structure of CSS",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Different ways to apply CSS to an HTML document",
+                "permalink": "/docs/css/applying-css"
+              },
+              "next": {
+                "title": "Units, Measurements and colors",
+                "permalink": "/docs/html/css-properties"
+              }
+            },
+            {
+              "unversionedId": "web/css/css-task",
+              "id": "web/css/css-task",
+              "isDocsHomePage": false,
+              "title": "Let's add some colors to our Login/Register page",
+              "description": "Let's get started",
+              "source": "@site/docs/web/css/css-task.md",
+              "slug": "/css/css-task",
+              "permalink": "/docs/css/css-task",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css/css-task.md",
+              "version": "current",
+              "sidebar_label": "CSS Task",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Understanding the box model",
+                "permalink": "/docs/css/box-model"
+              },
+              "next": {
+                "title": "Structuring a page with Flexbox",
+                "permalink": "/docs/css/flexbox"
+              }
+            },
+            {
+              "unversionedId": "web/css/flexbox",
+              "id": "web/css/flexbox",
+              "isDocsHomePage": false,
+              "title": "Structuring a page with Flexbox",
+              "description": "Let's get started",
+              "source": "@site/docs/web/css/flexbox.md",
+              "slug": "/css/flexbox",
+              "permalink": "/docs/css/flexbox",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css/flexbox.md",
+              "version": "current",
+              "sidebar_label": "Flexbox",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Let's add some colors to our Login/Register page",
+                "permalink": "/docs/css/css-task"
+              },
+              "next": {
+                "title": "Structuring a page with Float",
+                "permalink": "/docs/css/float"
+              }
+            },
+            {
+              "unversionedId": "web/css/float",
+              "id": "web/css/float",
+              "isDocsHomePage": false,
+              "title": "Structuring a page with Float",
+              "description": "Let's get started",
+              "source": "@site/docs/web/css/float.md",
+              "slug": "/css/float",
+              "permalink": "/docs/css/float",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css/float.md",
+              "version": "current",
+              "sidebar_label": "Float",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Structuring a page with Flexbox",
+                "permalink": "/docs/css/flexbox"
+              },
+              "next": {
+                "title": "CSS Transitions and Animation",
+                "permalink": "/docs/css/animation"
+              }
+            },
+            {
+              "unversionedId": "web/css/introduction",
+              "id": "web/css/introduction",
+              "isDocsHomePage": false,
+              "title": "CSS introduction",
+              "description": "Let's get started",
+              "source": "@site/docs/web/css/introduction.md",
+              "slug": "/css/css-introduction",
+              "permalink": "/docs/css/css-introduction",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css/introduction.md",
+              "version": "current",
+              "sidebar_label": "Introduction to CSS",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Life is by Design",
+                "permalink": "/docs/web/css"
+              },
+              "next": {
+                "title": "Different ways to apply CSS to an HTML document",
+                "permalink": "/docs/css/applying-css"
+              }
+            },
+            {
+              "unversionedId": "web/css/optimization",
+              "id": "web/css/optimization",
+              "isDocsHomePage": false,
+              "title": "Optimizing CSS Files for production",
+              "description": "Let's get started",
+              "source": "@site/docs/web/css/optimization.md",
+              "slug": "/css/optimization",
+              "permalink": "/docs/css/optimization",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css/optimization.md",
+              "version": "current",
+              "sidebar_label": "Optimization",
+              "sidebar": "docs",
+              "previous": {
+                "title": "CSS Transitions and Animation",
+                "permalink": "/docs/css/animation"
+              },
+              "next": {
+                "title": "JavaScript, the heartbeat of the web",
                 "permalink": "/docs/web/js"
+              }
+            },
+            {
+              "unversionedId": "web/css/properties",
+              "id": "web/css/properties",
+              "isDocsHomePage": false,
+              "title": "Units, Measurements and colors",
+              "description": "Properties in CSS",
+              "source": "@site/docs/web/css/properties.md",
+              "slug": "/html/css-properties",
+              "permalink": "/docs/html/css-properties",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css/properties.md",
+              "version": "current",
+              "sidebar_label": "Units",
+              "sidebar": "docs",
+              "previous": {
+                "title": "CSS structure",
+                "permalink": "/docs/css/css-structure"
+              },
+              "next": {
+                "title": "Understanding the box model",
+                "permalink": "/docs/css/box-model"
+              }
+            },
+            {
+              "unversionedId": "web/css/transitions",
+              "id": "web/css/transitions",
+              "isDocsHomePage": false,
+              "title": "CSS Transitions and Animation",
+              "description": "Let's get started",
+              "source": "@site/docs/web/css/transitions.md",
+              "slug": "/css/animation",
+              "permalink": "/docs/css/animation",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css/transitions.md",
+              "version": "current",
+              "sidebar_label": "Animation",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Structuring a page with Float",
+                "permalink": "/docs/css/float"
+              },
+              "next": {
+                "title": "Optimizing CSS Files for production",
+                "permalink": "/docs/css/optimization"
               }
             },
             {
               "unversionedId": "web/html",
               "id": "web/html",
               "isDocsHomePage": false,
-              "title": "HTML",
+              "title": "A Brief Introduction.",
               "description": "Course contents",
               "source": "@site/docs/web/html.md",
               "slug": "/web/html",
               "permalink": "/docs/web/html",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/html.md",
               "version": "current",
-              "sidebar": "someSidebar",
+              "sidebar": "docs",
               "previous": {
                 "title": "Web Development",
                 "permalink": "/docs/"
               },
               "next": {
-                "title": "CSS",
+                "title": "History and future of HTML",
+                "permalink": "/docs/html/history"
+              }
+            },
+            {
+              "unversionedId": "web/html/body",
+              "id": "web/html/body",
+              "isDocsHomePage": false,
+              "title": "Body and children tags",
+              "description": "Body and children tags",
+              "source": "@site/docs/web/html/body.md",
+              "slug": "/html/body-tags",
+              "permalink": "/docs/html/body-tags",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/html/body.md",
+              "version": "current",
+              "sidebar_label": "Children tags",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Types of HTML tags",
+                "permalink": "/docs/html/html-tags"
+              },
+              "next": {
+                "title": "Using Emmet to write markup faster",
+                "permalink": "/docs/html/emmet"
+              }
+            },
+            {
+              "unversionedId": "web/html/emmet",
+              "id": "web/html/emmet",
+              "isDocsHomePage": false,
+              "title": "Using Emmet to write markup faster",
+              "description": "Using Emmet to write markup faster",
+              "source": "@site/docs/web/html/emmet.md",
+              "slug": "/html/emmet",
+              "permalink": "/docs/html/emmet",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/html/emmet.md",
+              "version": "current",
+              "sidebar_label": "Emmet",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Body and children tags",
+                "permalink": "/docs/html/body-tags"
+              },
+              "next": {
+                "title": "HTML Forms",
+                "permalink": "/docs/html/forms"
+              }
+            },
+            {
+              "unversionedId": "web/html/forms",
+              "id": "web/html/forms",
+              "isDocsHomePage": false,
+              "title": "HTML Forms",
+              "description": "HTML Forms",
+              "source": "@site/docs/web/html/forms.md",
+              "slug": "/html/forms",
+              "permalink": "/docs/html/forms",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/html/forms.md",
+              "version": "current",
+              "sidebar_label": "Forms",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Using Emmet to write markup faster",
+                "permalink": "/docs/html/emmet"
+              },
+              "next": {
+                "title": "HTML5 and it's APIs",
+                "permalink": "/docs/html/html-apis"
+              }
+            },
+            {
+              "unversionedId": "web/html/history",
+              "id": "web/html/history",
+              "isDocsHomePage": false,
+              "title": "History and future of HTML",
+              "description": "History and future of HTML",
+              "source": "@site/docs/web/html/history.md",
+              "slug": "/html/history",
+              "permalink": "/docs/html/history",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/html/history.md",
+              "version": "current",
+              "sidebar_label": "History",
+              "sidebar": "docs",
+              "previous": {
+                "title": "A Brief Introduction.",
+                "permalink": "/docs/web/html"
+              },
+              "next": {
+                "title": "Basic page structure",
+                "permalink": "/docs/html/structure"
+              }
+            },
+            {
+              "unversionedId": "web/html/html-task",
+              "id": "web/html/html-task",
+              "isDocsHomePage": false,
+              "title": "Building a Login/Register page.",
+              "description": "Let's build a Login/Register page",
+              "source": "@site/docs/web/html/html-task.md",
+              "slug": "/html/html-task",
+              "permalink": "/docs/html/html-task",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/html/html-task.md",
+              "version": "current",
+              "sidebar_label": "HTML task",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Modernizer",
+                "permalink": "/docs/html/modernizer"
+              },
+              "next": {
+                "title": "Life is by Design",
                 "permalink": "/docs/web/css"
+              }
+            },
+            {
+              "unversionedId": "web/html/html5-apis",
+              "id": "web/html/html5-apis",
+              "isDocsHomePage": false,
+              "title": "HTML5 and it's APIs",
+              "description": "HTML5 and it's APIs",
+              "source": "@site/docs/web/html/html5-apis.md",
+              "slug": "/html/html-apis",
+              "permalink": "/docs/html/html-apis",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/html/html5-apis.md",
+              "version": "current",
+              "sidebar_label": "HTML5 APIs",
+              "sidebar": "docs",
+              "previous": {
+                "title": "HTML Forms",
+                "permalink": "/docs/html/forms"
+              },
+              "next": {
+                "title": "Modernizer",
+                "permalink": "/docs/html/modernizer"
+              }
+            },
+            {
+              "unversionedId": "web/html/modernizer",
+              "id": "web/html/modernizer",
+              "isDocsHomePage": false,
+              "title": "Modernizer",
+              "description": "Using Modernizer",
+              "source": "@site/docs/web/html/modernizer.md",
+              "slug": "/html/modernizer",
+              "permalink": "/docs/html/modernizer",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/html/modernizer.md",
+              "version": "current",
+              "sidebar_label": "Using Modernizer",
+              "sidebar": "docs",
+              "previous": {
+                "title": "HTML5 and it's APIs",
+                "permalink": "/docs/html/html-apis"
+              },
+              "next": {
+                "title": "Building a Login/Register page.",
+                "permalink": "/docs/html/html-task"
+              }
+            },
+            {
+              "unversionedId": "web/html/structure",
+              "id": "web/html/structure",
+              "isDocsHomePage": false,
+              "title": "Basic page structure",
+              "description": "Basic page structure",
+              "source": "@site/docs/web/html/structure.md",
+              "slug": "/html/structure",
+              "permalink": "/docs/html/structure",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/html/structure.md",
+              "version": "current",
+              "sidebar_label": "Page structure",
+              "sidebar": "docs",
+              "previous": {
+                "title": "History and future of HTML",
+                "permalink": "/docs/html/history"
+              },
+              "next": {
+                "title": "HTML tags and attributes",
+                "permalink": "/docs/html/tags"
+              }
+            },
+            {
+              "unversionedId": "web/html/tags",
+              "id": "web/html/tags",
+              "isDocsHomePage": false,
+              "title": "HTML tags and attributes",
+              "description": "HTML tags and Attributes",
+              "source": "@site/docs/web/html/tags.md",
+              "slug": "/html/tags",
+              "permalink": "/docs/html/tags",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/html/tags.md",
+              "version": "current",
+              "sidebar_label": "Tags and Atrtributes",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Basic page structure",
+                "permalink": "/docs/html/structure"
+              },
+              "next": {
+                "title": "Types of HTML tags",
+                "permalink": "/docs/html/html-tags"
+              }
+            },
+            {
+              "unversionedId": "web/html/types",
+              "id": "web/html/types",
+              "isDocsHomePage": false,
+              "title": "Types of HTML tags",
+              "description": "Types of HTML tags",
+              "source": "@site/docs/web/html/types.md",
+              "slug": "/html/html-tags",
+              "permalink": "/docs/html/html-tags",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/html/types.md",
+              "version": "current",
+              "sidebar_label": "HTML tag types",
+              "sidebar": "docs",
+              "previous": {
+                "title": "HTML tags and attributes",
+                "permalink": "/docs/html/tags"
+              },
+              "next": {
+                "title": "Body and children tags",
+                "permalink": "/docs/html/body-tags"
               }
             },
             {
               "unversionedId": "web/js",
               "id": "web/js",
               "isDocsHomePage": false,
-              "title": "JavaScript",
-              "description": "This is a link to another document. This is a link to an external page.",
+              "title": "JavaScript, the heartbeat of the web",
+              "description": "At this point. I'm very sure you've heard of JavaScript.",
               "source": "@site/docs/web/js.md",
               "slug": "/web/js",
               "permalink": "/docs/web/js",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js.md",
               "version": "current",
-              "sidebar": "someSidebar",
+              "sidebar": "docs",
               "previous": {
-                "title": "CSS",
-                "permalink": "/docs/web/css"
+                "title": "Optimizing CSS Files for production",
+                "permalink": "/docs/css/optimization"
               },
               "next": {
-                "title": "Overview",
-                "permalink": "/docs/ui/overview"
+                "title": "Introduction to JavaScript",
+                "permalink": "/docs/js/introduction"
+              }
+            },
+            {
+              "unversionedId": "web/js/arrays",
+              "id": "web/js/arrays",
+              "isDocsHomePage": false,
+              "title": "Arrays and String Data Types",
+              "description": "Let's get started",
+              "source": "@site/docs/web/js/arrays.md",
+              "slug": "/js/arrays",
+              "permalink": "/docs/js/arrays",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/arrays.md",
+              "version": "current",
+              "sidebar_label": "Arrays",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Conditional flow in JavaScript",
+                "permalink": "/docs/js/conditional-flow"
+              },
+              "next": {
+                "title": "Functions in-depth",
+                "permalink": "/docs/js/functions-deep"
+              }
+            },
+            {
+              "unversionedId": "web/js/async",
+              "id": "web/js/async",
+              "isDocsHomePage": false,
+              "title": "Asynchronous programming with JavaScript",
+              "description": "Let's get started",
+              "source": "@site/docs/web/js/async.md",
+              "slug": "/js/async",
+              "permalink": "/docs/js/async",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/async.md",
+              "version": "current",
+              "sidebar_label": "Async programming",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Let's build a simple JavaScript module",
+                "permalink": "/docs/js/modules"
+              },
+              "next": {
+                "title": "JavaScript in the Browser",
+                "permalink": "/docs/js/js-in-broswer"
+              }
+            },
+            {
+              "unversionedId": "web/js/browser-api",
+              "id": "web/js/browser-api",
+              "isDocsHomePage": false,
+              "title": "Common Browser APIs",
+              "description": "Let's get started",
+              "source": "@site/docs/web/js/browser-api.md",
+              "slug": "/js/browser-api",
+              "permalink": "/docs/js/browser-api",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/browser-api.md",
+              "version": "current",
+              "sidebar_label": "Browser APIs",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Working with forms in JavaScript",
+                "permalink": "/docs/js/forms"
+              }
+            },
+            {
+              "unversionedId": "web/js/conditional-flow",
+              "id": "web/js/conditional-flow",
+              "isDocsHomePage": false,
+              "title": "Conditional flow in JavaScript",
+              "description": "Let's get started",
+              "source": "@site/docs/web/js/conditional-flow.md",
+              "slug": "/js/conditional-flow",
+              "permalink": "/docs/js/conditional-flow",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/conditional-flow.md",
+              "version": "current",
+              "sidebar_label": "Conditional flow",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Functions in JavaScript",
+                "permalink": "/docs/js/functions"
+              },
+              "next": {
+                "title": "Arrays and String Data Types",
+                "permalink": "/docs/js/arrays"
+              }
+            },
+            {
+              "unversionedId": "web/js/dom",
+              "id": "web/js/dom",
+              "isDocsHomePage": false,
+              "title": "Working with the DOM",
+              "description": "Let's get started",
+              "source": "@site/docs/web/js/dom.md",
+              "slug": "/js/dom",
+              "permalink": "/docs/js/dom",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/dom.md",
+              "version": "current",
+              "sidebar_label": "The DOM",
+              "sidebar": "docs",
+              "previous": {
+                "title": "JavaScript in the Browser",
+                "permalink": "/docs/js/js-in-broswer"
+              },
+              "next": {
+                "title": "Events is all that matters",
+                "permalink": "/docs/js/events"
+              }
+            },
+            {
+              "unversionedId": "web/js/events",
+              "id": "web/js/events",
+              "isDocsHomePage": false,
+              "title": "Events is all that matters",
+              "description": "Let's get started",
+              "source": "@site/docs/web/js/events.md",
+              "slug": "/js/events",
+              "permalink": "/docs/js/events",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/events.md",
+              "version": "current",
+              "sidebar_label": "Events",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Working with the DOM",
+                "permalink": "/docs/js/dom"
+              },
+              "next": {
+                "title": "Handling HTTP Request",
+                "permalink": "/docs/js/http"
+              }
+            },
+            {
+              "unversionedId": "web/js/exception",
+              "id": "web/js/exception",
+              "isDocsHomePage": false,
+              "title": "Exception, Bugs and Errors",
+              "description": "Let's get started",
+              "source": "@site/docs/web/js/exception.md",
+              "slug": "/js/bugs",
+              "permalink": "/docs/js/bugs",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/exception.md",
+              "version": "current",
+              "sidebar_label": "Bugs and Errors",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Basic introduction to Objects in JavaScript",
+                "permalink": "/docs/js/objects"
+              },
+              "next": {
+                "title": "Regular Expressions",
+                "permalink": "/docs/js/regex"
+              }
+            },
+            {
+              "unversionedId": "web/js/forms",
+              "id": "web/js/forms",
+              "isDocsHomePage": false,
+              "title": "Working with forms in JavaScript",
+              "description": "Let's get started",
+              "source": "@site/docs/web/js/forms.md",
+              "slug": "/js/forms",
+              "permalink": "/docs/js/forms",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/forms.md",
+              "version": "current",
+              "sidebar_label": "JavaScript in Forms",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Handling HTTP Request",
+                "permalink": "/docs/js/http"
+              },
+              "next": {
+                "title": "Common Browser APIs",
+                "permalink": "/docs/js/browser-api"
+              }
+            },
+            {
+              "unversionedId": "web/js/functions",
+              "id": "web/js/functions",
+              "isDocsHomePage": false,
+              "title": "Functions in JavaScript",
+              "description": "Let's get started",
+              "source": "@site/docs/web/js/functions.md",
+              "slug": "/js/functions",
+              "permalink": "/docs/js/functions",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/functions.md",
+              "version": "current",
+              "sidebar_label": "Functions",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Loops in JavaScript",
+                "permalink": "/docs/js/loops"
+              },
+              "next": {
+                "title": "Conditional flow in JavaScript",
+                "permalink": "/docs/js/conditional-flow"
+              }
+            },
+            {
+              "unversionedId": "web/js/functions-deep",
+              "id": "web/js/functions-deep",
+              "isDocsHomePage": false,
+              "title": "Functions in-depth",
+              "description": "Let's get started",
+              "source": "@site/docs/web/js/functions-deep.md",
+              "slug": "/js/functions-deep",
+              "permalink": "/docs/js/functions-deep",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/functions-deep.md",
+              "version": "current",
+              "sidebar_label": "Functions deep dive",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Arrays and String Data Types",
+                "permalink": "/docs/js/arrays"
+              },
+              "next": {
+                "title": "Basic introduction to Objects in JavaScript",
+                "permalink": "/docs/js/objects"
+              }
+            },
+            {
+              "unversionedId": "web/js/http",
+              "id": "web/js/http",
+              "isDocsHomePage": false,
+              "title": "Handling HTTP Request",
+              "description": "Let's get started",
+              "source": "@site/docs/web/js/http.md",
+              "slug": "/js/http",
+              "permalink": "/docs/js/http",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/http.md",
+              "version": "current",
+              "sidebar_label": "HTTP Requests",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Events is all that matters",
+                "permalink": "/docs/js/events"
+              },
+              "next": {
+                "title": "Working with forms in JavaScript",
+                "permalink": "/docs/js/forms"
+              }
+            },
+            {
+              "unversionedId": "web/js/introduction",
+              "id": "web/js/introduction",
+              "isDocsHomePage": false,
+              "title": "Introduction to JavaScript",
+              "description": "Let's get started",
+              "source": "@site/docs/web/js/introduction.md",
+              "slug": "/js/introduction",
+              "permalink": "/docs/js/introduction",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/introduction.md",
+              "version": "current",
+              "sidebar_label": "Introduction",
+              "sidebar": "docs",
+              "previous": {
+                "title": "JavaScript, the heartbeat of the web",
+                "permalink": "/docs/web/js"
+              },
+              "next": {
+                "title": "Syntax, Data Types and Operators",
+                "permalink": "/docs/js/syntax"
+              }
+            },
+            {
+              "unversionedId": "web/js/js-in-browser",
+              "id": "web/js/js-in-browser",
+              "isDocsHomePage": false,
+              "title": "JavaScript in the Browser",
+              "description": "Let's get started",
+              "source": "@site/docs/web/js/js-in-browser.md",
+              "slug": "/js/js-in-broswer",
+              "permalink": "/docs/js/js-in-broswer",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/js-in-browser.md",
+              "version": "current",
+              "sidebar_label": "JS in Browser",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Asynchronous programming with JavaScript",
+                "permalink": "/docs/js/async"
+              },
+              "next": {
+                "title": "Working with the DOM",
+                "permalink": "/docs/js/dom"
+              }
+            },
+            {
+              "unversionedId": "web/js/loops",
+              "id": "web/js/loops",
+              "isDocsHomePage": false,
+              "title": "Loops in JavaScript",
+              "description": "Let's get started",
+              "source": "@site/docs/web/js/loops.md",
+              "slug": "/js/loops",
+              "permalink": "/docs/js/loops",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/loops.md",
+              "version": "current",
+              "sidebar_label": "Loops",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Program Structure",
+                "permalink": "/docs/js/structure"
+              },
+              "next": {
+                "title": "Functions in JavaScript",
+                "permalink": "/docs/js/functions"
+              }
+            },
+            {
+              "unversionedId": "web/js/modules",
+              "id": "web/js/modules",
+              "isDocsHomePage": false,
+              "title": "Let's build a simple JavaScript module",
+              "description": "Let's get started",
+              "source": "@site/docs/web/js/modules.md",
+              "slug": "/js/modules",
+              "permalink": "/docs/js/modules",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/modules.md",
+              "version": "current",
+              "sidebar_label": "Modules",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Regular Expressions",
+                "permalink": "/docs/js/regex"
+              },
+              "next": {
+                "title": "Asynchronous programming with JavaScript",
+                "permalink": "/docs/js/async"
+              }
+            },
+            {
+              "unversionedId": "web/js/objects",
+              "id": "web/js/objects",
+              "isDocsHomePage": false,
+              "title": "Basic introduction to Objects in JavaScript",
+              "description": "Let's get started",
+              "source": "@site/docs/web/js/objects.md",
+              "slug": "/js/objects",
+              "permalink": "/docs/js/objects",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/objects.md",
+              "version": "current",
+              "sidebar_label": "Objects",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Functions in-depth",
+                "permalink": "/docs/js/functions-deep"
+              },
+              "next": {
+                "title": "Exception, Bugs and Errors",
+                "permalink": "/docs/js/bugs"
+              }
+            },
+            {
+              "unversionedId": "web/js/programme-structure",
+              "id": "web/js/programme-structure",
+              "isDocsHomePage": false,
+              "title": "Program Structure",
+              "description": "Let's get started",
+              "source": "@site/docs/web/js/programme-structure.md",
+              "slug": "/js/structure",
+              "permalink": "/docs/js/structure",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/programme-structure.md",
+              "version": "current",
+              "sidebar_label": "Structure",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Syntax, Data Types and Operators",
+                "permalink": "/docs/js/syntax"
+              },
+              "next": {
+                "title": "Loops in JavaScript",
+                "permalink": "/docs/js/loops"
+              }
+            },
+            {
+              "unversionedId": "web/js/regex",
+              "id": "web/js/regex",
+              "isDocsHomePage": false,
+              "title": "Regular Expressions",
+              "description": "Let's get started",
+              "source": "@site/docs/web/js/regex.md",
+              "slug": "/js/regex",
+              "permalink": "/docs/js/regex",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/regex.md",
+              "version": "current",
+              "sidebar_label": "RegEx",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Exception, Bugs and Errors",
+                "permalink": "/docs/js/bugs"
+              },
+              "next": {
+                "title": "Let's build a simple JavaScript module",
+                "permalink": "/docs/js/modules"
+              }
+            },
+            {
+              "unversionedId": "web/js/syntax",
+              "id": "web/js/syntax",
+              "isDocsHomePage": false,
+              "title": "Syntax, Data Types and Operators",
+              "description": "Let's get started",
+              "source": "@site/docs/web/js/syntax.md",
+              "slug": "/js/syntax",
+              "permalink": "/docs/js/syntax",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/syntax.md",
+              "version": "current",
+              "sidebar_label": "Syntax",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Introduction to JavaScript",
+                "permalink": "/docs/js/introduction"
+              },
+              "next": {
+                "title": "Program Structure",
+                "permalink": "/docs/js/structure"
               }
             }
           ]

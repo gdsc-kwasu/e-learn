@@ -8,14 +8,5 @@
   "slug": "/ui/ux",
   "permalink": "/docs/ui/ux",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/ux.md",
-  "version": "current",
-  "sidebar": "someSidebar",
-  "previous": {
-    "title": "User Interface",
-    "permalink": "/docs/ui/ui"
-  },
-  "next": {
-    "title": "Overview",
-    "permalink": "/docs/android/overview"
-  }
+  "version": "current"
 }

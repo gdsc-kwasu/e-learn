@@ -8,14 +8,5 @@
   "slug": "/ui/overview",
   "permalink": "/docs/ui/overview",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/overview.md",
-  "version": "current",
-  "sidebar": "someSidebar",
-  "previous": {
-    "title": "JavaScript",
-    "permalink": "/docs/web/js"
-  },
-  "next": {
-    "title": "User Interface",
-    "permalink": "/docs/ui/ui"
-  }
+  "version": "current"
 }

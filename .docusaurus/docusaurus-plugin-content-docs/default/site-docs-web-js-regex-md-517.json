@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/js/regex",
+  "id": "web/js/regex",
+  "isDocsHomePage": false,
+  "title": "Regular Expressions",
+  "description": "Let's get started",
+  "source": "@site/docs/web/js/regex.md",
+  "slug": "/js/regex",
+  "permalink": "/docs/js/regex",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/regex.md",
+  "version": "current",
+  "sidebar_label": "RegEx",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Exception, Bugs and Errors",
+    "permalink": "/docs/js/bugs"
+  },
+  "next": {
+    "title": "Let's build a simple JavaScript module",
+    "permalink": "/docs/js/modules"
+  }
+}

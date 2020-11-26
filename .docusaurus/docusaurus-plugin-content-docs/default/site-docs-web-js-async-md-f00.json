@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/js/async",
+  "id": "web/js/async",
+  "isDocsHomePage": false,
+  "title": "Asynchronous programming with JavaScript",
+  "description": "Let's get started",
+  "source": "@site/docs/web/js/async.md",
+  "slug": "/js/async",
+  "permalink": "/docs/js/async",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/async.md",
+  "version": "current",
+  "sidebar_label": "Async programming",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Let's build a simple JavaScript module",
+    "permalink": "/docs/js/modules"
+  },
+  "next": {
+    "title": "JavaScript in the Browser",
+    "permalink": "/docs/js/js-in-broswer"
+  }
+}

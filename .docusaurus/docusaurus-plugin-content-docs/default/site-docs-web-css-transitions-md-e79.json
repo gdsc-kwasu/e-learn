@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/css/transitions",
+  "id": "web/css/transitions",
+  "isDocsHomePage": false,
+  "title": "CSS Transitions and Animation",
+  "description": "Let's get started",
+  "source": "@site/docs/web/css/transitions.md",
+  "slug": "/css/animation",
+  "permalink": "/docs/css/animation",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css/transitions.md",
+  "version": "current",
+  "sidebar_label": "Animation",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Structuring a page with Float",
+    "permalink": "/docs/css/float"
+  },
+  "next": {
+    "title": "Optimizing CSS Files for production",
+    "permalink": "/docs/css/optimization"
+  }
+}

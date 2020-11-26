@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/html/body",
+  "id": "web/html/body",
+  "isDocsHomePage": false,
+  "title": "Body and children tags",
+  "description": "Body and children tags",
+  "source": "@site/docs/web/html/body.md",
+  "slug": "/html/body-tags",
+  "permalink": "/docs/html/body-tags",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/html/body.md",
+  "version": "current",
+  "sidebar_label": "Children tags",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Types of HTML tags",
+    "permalink": "/docs/html/html-tags"
+  },
+  "next": {
+    "title": "Using Emmet to write markup faster",
+    "permalink": "/docs/html/emmet"
+  }
+}

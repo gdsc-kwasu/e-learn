@@ -10,9 +10,9 @@
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web.md",
   "version": "current",
   "sidebar_label": "Overview",
-  "sidebar": "someSidebar",
+  "sidebar": "docs",
   "next": {
-    "title": "HTML",
+    "title": "A Brief Introduction.",
     "permalink": "/docs/web/html"
   }
 }

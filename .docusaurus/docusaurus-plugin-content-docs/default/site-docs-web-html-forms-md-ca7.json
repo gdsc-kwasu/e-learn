@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/html/forms",
+  "id": "web/html/forms",
+  "isDocsHomePage": false,
+  "title": "HTML Forms",
+  "description": "HTML Forms",
+  "source": "@site/docs/web/html/forms.md",
+  "slug": "/html/forms",
+  "permalink": "/docs/html/forms",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/html/forms.md",
+  "version": "current",
+  "sidebar_label": "Forms",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Using Emmet to write markup faster",
+    "permalink": "/docs/html/emmet"
+  },
+  "next": {
+    "title": "HTML5 and it's APIs",
+    "permalink": "/docs/html/html-apis"
+  }
+}

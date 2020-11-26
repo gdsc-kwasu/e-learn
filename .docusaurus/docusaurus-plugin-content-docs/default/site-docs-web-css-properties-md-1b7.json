@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/css/properties",
+  "id": "web/css/properties",
+  "isDocsHomePage": false,
+  "title": "Units, Measurements and colors",
+  "description": "Properties in CSS",
+  "source": "@site/docs/web/css/properties.md",
+  "slug": "/html/css-properties",
+  "permalink": "/docs/html/css-properties",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css/properties.md",
+  "version": "current",
+  "sidebar_label": "Units",
+  "sidebar": "docs",
+  "previous": {
+    "title": "CSS structure",
+    "permalink": "/docs/css/css-structure"
+  },
+  "next": {
+    "title": "Understanding the box model",
+    "permalink": "/docs/css/box-model"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/js/functions",
+  "id": "web/js/functions",
+  "isDocsHomePage": false,
+  "title": "Functions in JavaScript",
+  "description": "Let's get started",
+  "source": "@site/docs/web/js/functions.md",
+  "slug": "/js/functions",
+  "permalink": "/docs/js/functions",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/functions.md",
+  "version": "current",
+  "sidebar_label": "Functions",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Loops in JavaScript",
+    "permalink": "/docs/js/loops"
+  },
+  "next": {
+    "title": "Conditional flow in JavaScript",
+    "permalink": "/docs/js/conditional-flow"
+  }
+}
