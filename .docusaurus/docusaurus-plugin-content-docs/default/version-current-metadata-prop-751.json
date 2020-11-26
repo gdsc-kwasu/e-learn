@@ -44,13 +44,18 @@
           },
           {
             "type": "link",
-            "label": "User Interface",
-            "href": "/docs/ui/ui"
+            "label": "FIGMA",
+            "href": "/docs/ui/figma"
           },
           {
             "type": "link",
-            "label": "User Experience",
-            "href": "/docs/ui/ux"
+            "label": "Videos",
+            "href": "/docs/ui/videos"
+          },
+          {
+            "type": "link",
+            "label": "Articles",
+            "href": "/docs/ui/articles"
           }
         ]
       },
@@ -63,6 +68,11 @@
             "type": "link",
             "label": "Overview",
             "href": "/docs/android/overview"
+          },
+          {
+            "type": "link",
+            "label": "Flutter",
+            "href": "/docs/android/flutter"
           }
         ]
       },
@@ -81,11 +91,13 @@
     ]
   },
   "permalinkToSidebar": {
+    "/docs/android/flutter": "someSidebar",
     "/docs/android/overview": "someSidebar",
     "/docs/git": "someSidebar",
+    "/docs/ui/articles": "someSidebar",
+    "/docs/ui/figma": "someSidebar",
     "/docs/ui/overview": "someSidebar",
-    "/docs/ui/ui": "someSidebar",
-    "/docs/ui/ux": "someSidebar",
+    "/docs/ui/videos": "someSidebar",
     "/docs/": "someSidebar",
     "/docs/web/css": "someSidebar",
     "/docs/web/html": "someSidebar",

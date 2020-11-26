@@ -1,0 +1,21 @@
+{
+  "unversionedId": "ui/videos",
+  "id": "ui/videos",
+  "isDocsHomePage": false,
+  "title": "Videos",
+  "description": "Course contents",
+  "source": "@site/docs/ui/videos.md",
+  "slug": "/ui/videos",
+  "permalink": "/docs/ui/videos",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/videos.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "FIGMA",
+    "permalink": "/docs/ui/figma"
+  },
+  "next": {
+    "title": "Articles",
+    "permalink": "/docs/ui/articles"
+  }
+}

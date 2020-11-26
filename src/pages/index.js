@@ -121,9 +121,13 @@ function Home() {
                 <Link className={clsx("button mr-3")} to={useBaseUrl("docs/")}>
                   Get Started
                 </Link>
-                <Link className={clsx("button mr-3")} to={useBaseUrl("docs/")}>
-                  Get Training syllabus
-                </Link>
+                <a
+                  className={clsx("button mr-3")}
+                  href="../../static/incubation.pdf"
+                  download="training-schedule"
+                >
+                  Get Training Schedule
+                </a>
               </div>
             </div>
             <div className="col-md-6 justify-content-center d-none d-md-flex">

@@ -47,11 +47,15 @@
                   },
                   {
                     "type": "doc",
-                    "id": "ui/ui"
+                    "id": "ui/figma"
                   },
                   {
                     "type": "doc",
-                    "id": "ui/ux"
+                    "id": "ui/videos"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ui/articles"
                   }
                 ]
               },
@@ -63,6 +67,10 @@
                   {
                     "type": "doc",
                     "id": "android/overview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "android/flutter"
                   }
                 ]
               },
@@ -80,11 +88,13 @@
             ]
           },
           "permalinkToSidebar": {
+            "/docs/android/flutter": "someSidebar",
             "/docs/android/overview": "someSidebar",
             "/docs/git": "someSidebar",
+            "/docs/ui/articles": "someSidebar",
+            "/docs/ui/figma": "someSidebar",
             "/docs/ui/overview": "someSidebar",
-            "/docs/ui/ui": "someSidebar",
-            "/docs/ui/ux": "someSidebar",
+            "/docs/ui/videos": "someSidebar",
             "/docs/": "someSidebar",
             "/docs/web/css": "someSidebar",
             "/docs/web/html": "someSidebar",
@@ -92,24 +102,47 @@
           },
           "docs": [
             {
+              "unversionedId": "android/flutter",
+              "id": "android/flutter",
+              "isDocsHomePage": false,
+              "title": "Mobile App with Flutter",
+              "description": "Course contents",
+              "source": "@site/docs/android/video.md",
+              "slug": "/android/flutter",
+              "permalink": "/docs/android/flutter",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/android/video.md",
+              "version": "current",
+              "sidebar_label": "Flutter",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Mobile App Development",
+                "permalink": "/docs/android/overview"
+              },
+              "next": {
+                "title": "GIT",
+                "permalink": "/docs/git"
+              }
+            },
+            {
               "unversionedId": "android/overview",
               "id": "android/overview",
               "isDocsHomePage": false,
-              "title": "Overview",
-              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+              "title": "Mobile App Development",
+              "description": "Overview",
               "source": "@site/docs/android/overview.md",
               "slug": "/android/overview",
               "permalink": "/docs/android/overview",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/android/overview.md",
               "version": "current",
+              "sidebar_label": "Overview",
               "sidebar": "someSidebar",
               "previous": {
-                "title": "User Experience",
-                "permalink": "/docs/ui/ux"
+                "title": "Articles",
+                "permalink": "/docs/ui/articles"
               },
               "next": {
-                "title": "GIT",
-                "permalink": "/docs/git"
+                "title": "Mobile App with Flutter",
+                "permalink": "/docs/android/flutter"
               }
             },
             {
@@ -125,71 +158,93 @@
               "version": "current",
               "sidebar": "someSidebar",
               "previous": {
-                "title": "Overview",
+                "title": "Mobile App with Flutter",
+                "permalink": "/docs/android/flutter"
+              }
+            },
+            {
+              "unversionedId": "ui/articles",
+              "id": "ui/articles",
+              "isDocsHomePage": false,
+              "title": "Articles",
+              "description": "Industry Overview",
+              "source": "@site/docs/ui/articles.md",
+              "slug": "/ui/articles",
+              "permalink": "/docs/ui/articles",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/articles.md",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Videos",
+                "permalink": "/docs/ui/videos"
+              },
+              "next": {
+                "title": "Mobile App Development",
                 "permalink": "/docs/android/overview"
+              }
+            },
+            {
+              "unversionedId": "ui/figma",
+              "id": "ui/figma",
+              "isDocsHomePage": false,
+              "title": "FIGMA",
+              "description": "Course contents",
+              "source": "@site/docs/ui/ui.md",
+              "slug": "/ui/figma",
+              "permalink": "/docs/ui/figma",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/ui.md",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "User Interface and User Experience",
+                "permalink": "/docs/ui/overview"
+              },
+              "next": {
+                "title": "Videos",
+                "permalink": "/docs/ui/videos"
               }
             },
             {
               "unversionedId": "ui/overview",
               "id": "ui/overview",
               "isDocsHomePage": false,
-              "title": "Overview",
-              "description": "This is a link to another document. This is a link to an external page.",
+              "title": "User Interface and User Experience",
+              "description": "User Interface",
               "source": "@site/docs/ui/overview.md",
               "slug": "/ui/overview",
               "permalink": "/docs/ui/overview",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/overview.md",
               "version": "current",
+              "sidebar_label": "Overview",
               "sidebar": "someSidebar",
               "previous": {
                 "title": "JavaScript",
                 "permalink": "/docs/web/js"
               },
               "next": {
-                "title": "User Interface",
-                "permalink": "/docs/ui/ui"
+                "title": "FIGMA",
+                "permalink": "/docs/ui/figma"
               }
             },
             {
-              "unversionedId": "ui/ui",
-              "id": "ui/ui",
+              "unversionedId": "ui/videos",
+              "id": "ui/videos",
               "isDocsHomePage": false,
-              "title": "User Interface",
-              "description": "This is a link to another document. This is a link to an external page.",
-              "source": "@site/docs/ui/ui.md",
-              "slug": "/ui/ui",
-              "permalink": "/docs/ui/ui",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/ui.md",
+              "title": "Videos",
+              "description": "Course contents",
+              "source": "@site/docs/ui/videos.md",
+              "slug": "/ui/videos",
+              "permalink": "/docs/ui/videos",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/videos.md",
               "version": "current",
               "sidebar": "someSidebar",
               "previous": {
-                "title": "Overview",
-                "permalink": "/docs/ui/overview"
+                "title": "FIGMA",
+                "permalink": "/docs/ui/figma"
               },
               "next": {
-                "title": "User Experience",
-                "permalink": "/docs/ui/ux"
-              }
-            },
-            {
-              "unversionedId": "ui/ux",
-              "id": "ui/ux",
-              "isDocsHomePage": false,
-              "title": "User Experience",
-              "description": "This is a link to another document. This is a link to an external page.",
-              "source": "@site/docs/ui/ux.md",
-              "slug": "/ui/ux",
-              "permalink": "/docs/ui/ux",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/ux.md",
-              "version": "current",
-              "sidebar": "someSidebar",
-              "previous": {
-                "title": "User Interface",
-                "permalink": "/docs/ui/ui"
-              },
-              "next": {
-                "title": "Overview",
-                "permalink": "/docs/android/overview"
+                "title": "Articles",
+                "permalink": "/docs/ui/articles"
               }
             },
             {
@@ -269,7 +324,7 @@
                 "permalink": "/docs/web/css"
               },
               "next": {
-                "title": "Overview",
+                "title": "User Interface and User Experience",
                 "permalink": "/docs/ui/overview"
               }
             }
