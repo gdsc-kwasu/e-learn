@@ -247,10 +247,61 @@
             ]
           }
         ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "UI/UX",
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/docs/ui/overview"
+          },
+          {
+            "type": "link",
+            "label": "User Interface",
+            "href": "/docs/ui/ui"
+          },
+          {
+            "type": "link",
+            "label": "User Experience",
+            "href": "/docs/ui/ux"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Android",
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/docs/android/overview"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "General",
+        "items": [
+          {
+            "type": "link",
+            "label": "GIT",
+            "href": "/docs/git"
+          }
+        ]
       }
     ]
   },
   "permalinkToSidebar": {
+    "/docs/android/overview": "docs",
+    "/docs/git": "docs",
+    "/docs/ui/overview": "docs",
+    "/docs/ui/ui": "docs",
+    "/docs/ui/ux": "docs",
     "/docs/": "docs",
     "/docs/web/css": "docs",
     "/docs/css/applying-css": "docs",

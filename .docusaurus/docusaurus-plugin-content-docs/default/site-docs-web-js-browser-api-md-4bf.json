@@ -14,5 +14,9 @@
   "previous": {
     "title": "Working with forms in JavaScript",
     "permalink": "/docs/js/forms"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/ui/overview"
   }
 }

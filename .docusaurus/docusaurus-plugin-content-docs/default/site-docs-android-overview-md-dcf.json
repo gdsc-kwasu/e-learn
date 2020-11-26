@@ -8,5 +8,14 @@
   "slug": "/android/overview",
   "permalink": "/docs/android/overview",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/android/overview.md",
-  "version": "current"
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "User Experience",
+    "permalink": "/docs/ui/ux"
+  },
+  "next": {
+    "title": "GIT",
+    "permalink": "/docs/git"
+  }
 }

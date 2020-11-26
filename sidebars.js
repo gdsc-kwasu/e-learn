@@ -1,28 +1,3 @@
-// module.exports = {
-//   someSidebar: {
-//     // Web: [
-//     //   "web/html", {
-//     //     Docs: [
-//     //       "web/html/history", 
-//     //       "web/html/structure", 
-//     //       "web/html/tags", 
-//     //       "web/html/types", 
-//     //       "web/html/body", 
-//     //       "web/html/emmet", 
-//     //       "web/html/forms", 
-//     //       "web/html/html5-apis", 
-//     //       "web/html/modernizer", 
-//     //       "web/html/html-task"
-//     //     ]
-//     //   }
-//     // ],
-//     Web: ["web", "web/html", "web/css", "web/js"],
-//     "UI/UX": ["ui/overview", "ui/ui", "ui/ux"],
-//     Android: ["android/overview"],
-//     General: ["git"],
-//   },
-// };
-
 module.exports = {
   docs: {
     Web: [
@@ -87,6 +62,9 @@ module.exports = {
           "web/js/browser-api",
         ]
       }
-    ]
+    ],
+    "UI/UX": ["ui/overview", "ui/ui", "ui/ux"],
+    Android: ["android/overview"],
+    General: ["git"],
   }
 }

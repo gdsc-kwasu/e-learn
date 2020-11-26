@@ -12,23 +12,28 @@
           "docs": [
             {
               "id": "android/overview",
-              "path": "/docs/android/overview"
+              "path": "/docs/android/overview",
+              "sidebar": "docs"
             },
             {
               "id": "git",
-              "path": "/docs/git"
+              "path": "/docs/git",
+              "sidebar": "docs"
             },
             {
               "id": "ui/overview",
-              "path": "/docs/ui/overview"
+              "path": "/docs/ui/overview",
+              "sidebar": "docs"
             },
             {
               "id": "ui/ui",
-              "path": "/docs/ui/ui"
+              "path": "/docs/ui/ui",
+              "sidebar": "docs"
             },
             {
               "id": "ui/ux",
-              "path": "/docs/ui/ux"
+              "path": "/docs/ui/ux",
+              "sidebar": "docs"
             },
             {
               "id": "web",
