@@ -21,8 +21,8 @@ export default {
   'content---blog-welcome-286-e55': [() => import(/* webpackChunkName: 'content---blog-welcome-286-e55' */ "@site/blog/2019-05-30-welcome.md"), "@site/blog/2019-05-30-welcome.md", require.resolveWeak("@site/blog/2019-05-30-welcome.md")],
   'content---blogaf-1-856': [() => import(/* webpackChunkName: 'content---blogaf-1-856' */ "@site/blog/2019-05-30-welcome.md?truncated=true"), "@site/blog/2019-05-30-welcome.md?truncated=true", require.resolveWeak("@site/blog/2019-05-30-welcome.md?truncated=true")],
   'content---docs-a-9-c-d52': [() => import(/* webpackChunkName: 'content---docs-a-9-c-d52' */ "@site/docs/web.md"), "@site/docs/web.md", require.resolveWeak("@site/docs/web.md")],
+  'content---docs-android-flutter-239-2ef': [() => import(/* webpackChunkName: 'content---docs-android-flutter-239-2ef' */ "@site/docs/android/video.md"), "@site/docs/android/video.md", require.resolveWeak("@site/docs/android/video.md")],
   'content---docs-android-overviewdcf-902': [() => import(/* webpackChunkName: 'content---docs-android-overviewdcf-902' */ "@site/docs/android/overview.md"), "@site/docs/android/overview.md", require.resolveWeak("@site/docs/android/overview.md")],
-<<<<<<< HEAD
   'content---docs-css-animatione-79-1a2': [() => import(/* webpackChunkName: 'content---docs-css-animatione-79-1a2' */ "@site/docs/web/css/transitions.md"), "@site/docs/web/css/transitions.md", require.resolveWeak("@site/docs/web/css/transitions.md")],
   'content---docs-css-applying-csscca-32a': [() => import(/* webpackChunkName: 'content---docs-css-applying-csscca-32a' */ "@site/docs/web/css/applying-css.md"), "@site/docs/web/css/applying-css.md", require.resolveWeak("@site/docs/web/css/applying-css.md")],
   'content---docs-css-box-modelfb-0-4f3': [() => import(/* webpackChunkName: 'content---docs-css-box-modelfb-0-4f3' */ "@site/docs/web/css/box-model.md"), "@site/docs/web/css/box-model.md", require.resolveWeak("@site/docs/web/css/box-model.md")],
@@ -63,13 +63,9 @@ export default {
   'content---docs-js-regex-517-c8b': [() => import(/* webpackChunkName: 'content---docs-js-regex-517-c8b' */ "@site/docs/web/js/regex.md"), "@site/docs/web/js/regex.md", require.resolveWeak("@site/docs/web/js/regex.md")],
   'content---docs-js-structurecfb-b85': [() => import(/* webpackChunkName: 'content---docs-js-structurecfb-b85' */ "@site/docs/web/js/programme-structure.md"), "@site/docs/web/js/programme-structure.md", require.resolveWeak("@site/docs/web/js/programme-structure.md")],
   'content---docs-js-syntax-4-c-0-93b': [() => import(/* webpackChunkName: 'content---docs-js-syntax-4-c-0-93b' */ "@site/docs/web/js/syntax.md"), "@site/docs/web/js/syntax.md", require.resolveWeak("@site/docs/web/js/syntax.md")],
-=======
-  'content---docs-android-video-239-062': [() => import(/* webpackChunkName: 'content---docs-android-video-239-062' */ "@site/docs/android/video.md"), "@site/docs/android/video.md", require.resolveWeak("@site/docs/android/video.md")],
-  'content---docs-gite-03-8f1': [() => import(/* webpackChunkName: 'content---docs-gite-03-8f1' */ "@site/docs/git.md"), "@site/docs/git.md", require.resolveWeak("@site/docs/git.md")],
   'content---docs-ui-articles-97-f-6ca': [() => import(/* webpackChunkName: 'content---docs-ui-articles-97-f-6ca' */ "@site/docs/ui/articles.md"), "@site/docs/ui/articles.md", require.resolveWeak("@site/docs/ui/articles.md")],
->>>>>>> fe9bd9841a61965ea0831f46145fc428f738da29
+  'content---docs-ui-figmab-4-e-61c': [() => import(/* webpackChunkName: 'content---docs-ui-figmab-4-e-61c' */ "@site/docs/ui/ui.md"), "@site/docs/ui/ui.md", require.resolveWeak("@site/docs/ui/ui.md")],
   'content---docs-ui-overview-294-472': [() => import(/* webpackChunkName: 'content---docs-ui-overview-294-472' */ "@site/docs/ui/overview.md"), "@site/docs/ui/overview.md", require.resolveWeak("@site/docs/ui/overview.md")],
-  'content---docs-ui-uib-4-e-199': [() => import(/* webpackChunkName: 'content---docs-ui-uib-4-e-199' */ "@site/docs/ui/ui.md"), "@site/docs/ui/ui.md", require.resolveWeak("@site/docs/ui/ui.md")],
   'content---docs-ui-videos-864-625': [() => import(/* webpackChunkName: 'content---docs-ui-videos-864-625' */ "@site/docs/ui/videos.md"), "@site/docs/ui/videos.md", require.resolveWeak("@site/docs/ui/videos.md")],
   'content---docs-web-css-4-fd-8d7': [() => import(/* webpackChunkName: 'content---docs-web-css-4-fd-8d7' */ "@site/docs/web/css.md"), "@site/docs/web/css.md", require.resolveWeak("@site/docs/web/css.md")],
   'content---docs-web-html-881-a2d': [() => import(/* webpackChunkName: 'content---docs-web-html-881-a2d' */ "@site/docs/web/html.md"), "@site/docs/web/html.md", require.resolveWeak("@site/docs/web/html.md")],

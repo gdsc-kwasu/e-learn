@@ -9,7 +9,7 @@
   "permalink": "/docs/ui/videos",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/videos.md",
   "version": "current",
-  "sidebar": "someSidebar",
+  "sidebar": "docs",
   "previous": {
     "title": "FIGMA",
     "permalink": "/docs/ui/figma"

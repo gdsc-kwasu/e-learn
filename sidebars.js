@@ -1,5 +1,4 @@
 module.exports = {
-<<<<<<< HEAD
   docs: {
     Web: [
       "web",

@@ -265,12 +265,13 @@
             ]
           },
           "permalinkToSidebar": {
-<<<<<<< HEAD
+            "/docs/android/flutter": "docs",
             "/docs/android/overview": "docs",
             "/docs/git": "docs",
+            "/docs/ui/articles": "docs",
+            "/docs/ui/figma": "docs",
             "/docs/ui/overview": "docs",
-            "/docs/ui/ui": "docs",
-            "/docs/ui/ux": "docs",
+            "/docs/ui/videos": "docs",
             "/docs/": "docs",
             "/docs/web/css": "docs",
             "/docs/css/applying-css": "docs",
@@ -314,19 +315,6 @@
             "/docs/js/structure": "docs",
             "/docs/js/regex": "docs",
             "/docs/js/syntax": "docs"
-=======
-            "/docs/android/flutter": "someSidebar",
-            "/docs/android/overview": "someSidebar",
-            "/docs/git": "someSidebar",
-            "/docs/ui/articles": "someSidebar",
-            "/docs/ui/figma": "someSidebar",
-            "/docs/ui/overview": "someSidebar",
-            "/docs/ui/videos": "someSidebar",
-            "/docs/": "someSidebar",
-            "/docs/web/css": "someSidebar",
-            "/docs/web/html": "someSidebar",
-            "/docs/web/js": "someSidebar"
->>>>>>> fe9bd9841a61965ea0831f46145fc428f738da29
           },
           "docs": [
             {
@@ -341,7 +329,7 @@
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/android/video.md",
               "version": "current",
               "sidebar_label": "Flutter",
-              "sidebar": "someSidebar",
+              "sidebar": "docs",
               "previous": {
                 "title": "Mobile App Development",
                 "permalink": "/docs/android/overview"
@@ -362,12 +350,8 @@
               "permalink": "/docs/android/overview",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/android/overview.md",
               "version": "current",
-<<<<<<< HEAD
-              "sidebar": "docs",
-=======
               "sidebar_label": "Overview",
-              "sidebar": "someSidebar",
->>>>>>> fe9bd9841a61965ea0831f46145fc428f738da29
+              "sidebar": "docs",
               "previous": {
                 "title": "Articles",
                 "permalink": "/docs/ui/articles"
@@ -407,13 +391,8 @@
               "version": "current",
               "sidebar": "docs",
               "previous": {
-<<<<<<< HEAD
-                "title": "Common Browser APIs",
-                "permalink": "/docs/js/browser-api"
-=======
                 "title": "Videos",
                 "permalink": "/docs/ui/videos"
->>>>>>> fe9bd9841a61965ea0831f46145fc428f738da29
               },
               "next": {
                 "title": "Mobile App Development",
@@ -452,15 +431,11 @@
               "permalink": "/docs/ui/overview",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/overview.md",
               "version": "current",
-<<<<<<< HEAD
-              "sidebar": "docs",
-=======
               "sidebar_label": "Overview",
-              "sidebar": "someSidebar",
->>>>>>> fe9bd9841a61965ea0831f46145fc428f738da29
+              "sidebar": "docs",
               "previous": {
-                "title": "JavaScript",
-                "permalink": "/docs/web/js"
+                "title": "Common Browser APIs",
+                "permalink": "/docs/js/browser-api"
               },
               "next": {
                 "title": "FIGMA",
@@ -478,7 +453,7 @@
               "permalink": "/docs/ui/videos",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/videos.md",
               "version": "current",
-              "sidebar": "someSidebar",
+              "sidebar": "docs",
               "previous": {
                 "title": "FIGMA",
                 "permalink": "/docs/ui/figma"

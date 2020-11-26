@@ -307,12 +307,13 @@
     ]
   },
   "permalinkToSidebar": {
-<<<<<<< HEAD
+    "/docs/android/flutter": "docs",
     "/docs/android/overview": "docs",
     "/docs/git": "docs",
+    "/docs/ui/articles": "docs",
+    "/docs/ui/figma": "docs",
     "/docs/ui/overview": "docs",
-    "/docs/ui/ui": "docs",
-    "/docs/ui/ux": "docs",
+    "/docs/ui/videos": "docs",
     "/docs/": "docs",
     "/docs/web/css": "docs",
     "/docs/css/applying-css": "docs",
@@ -356,18 +357,5 @@
     "/docs/js/structure": "docs",
     "/docs/js/regex": "docs",
     "/docs/js/syntax": "docs"
-=======
-    "/docs/android/flutter": "someSidebar",
-    "/docs/android/overview": "someSidebar",
-    "/docs/git": "someSidebar",
-    "/docs/ui/articles": "someSidebar",
-    "/docs/ui/figma": "someSidebar",
-    "/docs/ui/overview": "someSidebar",
-    "/docs/ui/videos": "someSidebar",
-    "/docs/": "someSidebar",
-    "/docs/web/css": "someSidebar",
-    "/docs/web/html": "someSidebar",
-    "/docs/web/js": "someSidebar"
->>>>>>> fe9bd9841a61965ea0831f46145fc428f738da29
   }
 }

@@ -13,7 +13,7 @@
             {
               "id": "android/flutter",
               "path": "/docs/android/flutter",
-              "sidebar": "someSidebar"
+              "sidebar": "docs"
             },
             {
               "id": "android/overview",
@@ -26,40 +26,24 @@
               "sidebar": "docs"
             },
             {
-<<<<<<< HEAD
-              "id": "ui/overview",
-              "path": "/docs/ui/overview",
-              "sidebar": "docs"
-            },
-            {
-              "id": "ui/ui",
-              "path": "/docs/ui/ui",
-              "sidebar": "docs"
-            },
-            {
-              "id": "ui/ux",
-              "path": "/docs/ui/ux",
-              "sidebar": "docs"
-=======
               "id": "ui/articles",
               "path": "/docs/ui/articles",
-              "sidebar": "someSidebar"
+              "sidebar": "docs"
             },
             {
               "id": "ui/figma",
               "path": "/docs/ui/figma",
-              "sidebar": "someSidebar"
+              "sidebar": "docs"
             },
             {
               "id": "ui/overview",
               "path": "/docs/ui/overview",
-              "sidebar": "someSidebar"
+              "sidebar": "docs"
             },
             {
               "id": "ui/videos",
               "path": "/docs/ui/videos",
-              "sidebar": "someSidebar"
->>>>>>> fe9bd9841a61965ea0831f46145fc428f738da29
+              "sidebar": "docs"
             },
             {
               "id": "web",

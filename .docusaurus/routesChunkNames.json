@@ -110,11 +110,7 @@
     "sidebar": "sidebar---blog-939-0fc",
     "content": "content---blog-welcome-286-e55"
   },
-<<<<<<< HEAD
-  "/docs-d66": {
-=======
-  "/docs-627": {
->>>>>>> fe9bd9841a61965ea0831f46145fc428f738da29
+  "/docs-1f4": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -124,7 +120,7 @@
   },
   "/docs/android/flutter-039": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-android-video-239-062"
+    "content": "content---docs-android-flutter-239-2ef"
   },
   "/docs/android/overview-409": {
     "component": "component---theme-doc-item-178-a40",
@@ -170,7 +166,6 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-gite-03-8f1"
   },
-<<<<<<< HEAD
   "/docs/html/body-tags-a49": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-html-body-tags-456-1e9"
@@ -291,16 +286,13 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-js-syntax-4-c-0-93b"
   },
-  "/docs/ui/overview-37a": {
-=======
   "/docs/ui/articles-dfd": {
->>>>>>> fe9bd9841a61965ea0831f46145fc428f738da29
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-ui-articles-97-f-6ca"
   },
   "/docs/ui/figma-077": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-ui-uib-4-e-199"
+    "content": "content---docs-ui-figmab-4-e-61c"
   },
   "/docs/ui/overview-37a": {
     "component": "component---theme-doc-item-178-a40",

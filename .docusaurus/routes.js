@@ -89,11 +89,7 @@ export default [
 },
 {
   path: '/docs',
-<<<<<<< HEAD
-  component: ComponentCreator('/docs','d66'),
-=======
-  component: ComponentCreator('/docs','627'),
->>>>>>> fe9bd9841a61965ea0831f46145fc428f738da29
+  component: ComponentCreator('/docs','1f4'),
   
   routes: [
 {
@@ -162,7 +158,6 @@ export default [
   exact: true,
 },
 {
-<<<<<<< HEAD
   path: '/docs/html/body-tags',
   component: ComponentCreator('/docs/html/body-tags','a49'),
   exact: true,
@@ -313,12 +308,8 @@ export default [
   exact: true,
 },
 {
-  path: '/docs/ui/overview',
-  component: ComponentCreator('/docs/ui/overview','37a'),
-=======
   path: '/docs/ui/articles',
   component: ComponentCreator('/docs/ui/articles','dfd'),
->>>>>>> fe9bd9841a61965ea0831f46145fc428f738da29
   exact: true,
 },
 {
