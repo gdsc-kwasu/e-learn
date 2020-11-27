@@ -1,6 +1,11 @@
 ---
 id: js
-title: JavaScript
+title: JavaScript, the heartbeat of the web
+slug: /js
 ---
 
-This is a link to [another document.](css.md) This is a link to an [external page.](http://www.example.com/)
+At this point. I'm very sure you've heard of *JavaScript*.
+
+Ah! JavaScript. Oh! how the mighty have fallen at thy presence, powerful men have trembled at thy sight and blah blah blah...
+
+--- more details will come in here.

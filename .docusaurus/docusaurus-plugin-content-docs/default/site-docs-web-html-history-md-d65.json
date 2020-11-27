@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/html/history",
+  "id": "web/html/history",
+  "isDocsHomePage": false,
+  "title": "History and future of HTML",
+  "description": "History and future of HTML",
+  "source": "@site/docs/web/html/history.md",
+  "slug": "/html/history",
+  "permalink": "/docs/html/history",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/html/history.md",
+  "version": "current",
+  "sidebar_label": "History",
+  "sidebar": "docs",
+  "previous": {
+    "title": "A Brief Introduction.",
+    "permalink": "/docs/html"
+  },
+  "next": {
+    "title": "Basic page structure",
+    "permalink": "/docs/html/structure"
+  }
+}

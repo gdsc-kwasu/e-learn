@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/html/types",
+  "id": "web/html/types",
+  "isDocsHomePage": false,
+  "title": "Types of HTML tags",
+  "description": "Types of HTML tags",
+  "source": "@site/docs/web/html/types.md",
+  "slug": "/html/html-tags",
+  "permalink": "/docs/html/html-tags",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/html/types.md",
+  "version": "current",
+  "sidebar_label": "HTML tag types",
+  "sidebar": "docs",
+  "previous": {
+    "title": "HTML tags and attributes",
+    "permalink": "/docs/html/tags"
+  },
+  "next": {
+    "title": "Body and children tags",
+    "permalink": "/docs/html/body-tags"
+  }
+}

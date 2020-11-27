@@ -9,7 +9,7 @@
   "permalink": "/docs/git",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/git.md",
   "version": "current",
-  "sidebar": "someSidebar",
+  "sidebar": "docs",
   "previous": {
     "title": "Mobile App with Flutter",
     "permalink": "/docs/android/flutter"

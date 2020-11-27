@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/css/optimization",
+  "id": "web/css/optimization",
+  "isDocsHomePage": false,
+  "title": "Optimizing CSS Files for production",
+  "description": "Let's get started",
+  "source": "@site/docs/web/css/optimization.md",
+  "slug": "/css/optimization",
+  "permalink": "/docs/css/optimization",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css/optimization.md",
+  "version": "current",
+  "sidebar_label": "Optimization",
+  "sidebar": "docs",
+  "previous": {
+    "title": "CSS Transitions and Animation",
+    "permalink": "/docs/css/animation"
+  },
+  "next": {
+    "title": "JavaScript, the heartbeat of the web",
+    "permalink": "/docs/js"
+  }
+}

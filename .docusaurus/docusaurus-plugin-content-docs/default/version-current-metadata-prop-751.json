@@ -4,7 +4,7 @@
   "label": "Next",
   "isLast": true,
   "docsSidebars": {
-    "someSidebar": [
+    "docs": [
       {
         "collapsed": true,
         "type": "category",
@@ -16,19 +16,235 @@
             "href": "/docs/"
           },
           {
-            "type": "link",
+            "collapsed": true,
+            "type": "category",
             "label": "HTML",
-            "href": "/docs/web/html"
+            "items": [
+              {
+                "type": "link",
+                "label": "A Brief Introduction.",
+                "href": "/docs/html"
+              },
+              {
+                "type": "link",
+                "label": "History",
+                "href": "/docs/html/history"
+              },
+              {
+                "type": "link",
+                "label": "Page structure",
+                "href": "/docs/html/structure"
+              },
+              {
+                "type": "link",
+                "label": "Tags and Atrtributes",
+                "href": "/docs/html/tags"
+              },
+              {
+                "type": "link",
+                "label": "HTML tag types",
+                "href": "/docs/html/html-tags"
+              },
+              {
+                "type": "link",
+                "label": "Children tags",
+                "href": "/docs/html/body-tags"
+              },
+              {
+                "type": "link",
+                "label": "Emmet",
+                "href": "/docs/html/emmet"
+              },
+              {
+                "type": "link",
+                "label": "Forms",
+                "href": "/docs/html/forms"
+              },
+              {
+                "type": "link",
+                "label": "HTML5 APIs",
+                "href": "/docs/html/html-apis"
+              },
+              {
+                "type": "link",
+                "label": "Using Modernizer",
+                "href": "/docs/html/modernizer"
+              },
+              {
+                "type": "link",
+                "label": "HTML task",
+                "href": "/docs/html/html-task"
+              }
+            ]
           },
           {
-            "type": "link",
+            "collapsed": true,
+            "type": "category",
             "label": "CSS",
-            "href": "/docs/web/css"
+            "items": [
+              {
+                "type": "link",
+                "label": "Life is by Design",
+                "href": "/docs/css"
+              },
+              {
+                "type": "link",
+                "label": "Introduction to CSS",
+                "href": "/docs/css/css-introduction"
+              },
+              {
+                "type": "link",
+                "label": "Applying CSS",
+                "href": "/docs/css/applying-css"
+              },
+              {
+                "type": "link",
+                "label": "Structure of CSS",
+                "href": "/docs/css/css-structure"
+              },
+              {
+                "type": "link",
+                "label": "Units",
+                "href": "/docs/html/css-properties"
+              },
+              {
+                "type": "link",
+                "label": "The box model",
+                "href": "/docs/css/box-model"
+              },
+              {
+                "type": "link",
+                "label": "CSS Task",
+                "href": "/docs/css/css-task"
+              },
+              {
+                "type": "link",
+                "label": "Flexbox",
+                "href": "/docs/css/flexbox"
+              },
+              {
+                "type": "link",
+                "label": "Float",
+                "href": "/docs/css/float"
+              },
+              {
+                "type": "link",
+                "label": "Animation",
+                "href": "/docs/css/animation"
+              },
+              {
+                "type": "link",
+                "label": "Optimization",
+                "href": "/docs/css/optimization"
+              }
+            ]
           },
           {
-            "type": "link",
+            "collapsed": true,
+            "type": "category",
             "label": "JavaScript",
-            "href": "/docs/web/js"
+            "items": [
+              {
+                "type": "link",
+                "label": "JavaScript, the heartbeat of the web",
+                "href": "/docs/js"
+              },
+              {
+                "type": "link",
+                "label": "Introduction",
+                "href": "/docs/js/introduction"
+              },
+              {
+                "type": "link",
+                "label": "Syntax",
+                "href": "/docs/js/syntax"
+              },
+              {
+                "type": "link",
+                "label": "Structure",
+                "href": "/docs/js/structure"
+              },
+              {
+                "type": "link",
+                "label": "Loops",
+                "href": "/docs/js/loops"
+              },
+              {
+                "type": "link",
+                "label": "Functions",
+                "href": "/docs/js/functions"
+              },
+              {
+                "type": "link",
+                "label": "Conditional flow",
+                "href": "/docs/js/conditional-flow"
+              },
+              {
+                "type": "link",
+                "label": "Arrays",
+                "href": "/docs/js/arrays"
+              },
+              {
+                "type": "link",
+                "label": "Functions deep dive",
+                "href": "/docs/js/functions-deep"
+              },
+              {
+                "type": "link",
+                "label": "Objects",
+                "href": "/docs/js/objects"
+              },
+              {
+                "type": "link",
+                "label": "Bugs and Errors",
+                "href": "/docs/js/bugs"
+              },
+              {
+                "type": "link",
+                "label": "RegEx",
+                "href": "/docs/js/regex"
+              },
+              {
+                "type": "link",
+                "label": "Modules",
+                "href": "/docs/js/modules"
+              },
+              {
+                "type": "link",
+                "label": "Async programming",
+                "href": "/docs/js/async"
+              },
+              {
+                "type": "link",
+                "label": "JS in Browser",
+                "href": "/docs/js/js-in-broswer"
+              },
+              {
+                "type": "link",
+                "label": "The DOM",
+                "href": "/docs/js/dom"
+              },
+              {
+                "type": "link",
+                "label": "Events",
+                "href": "/docs/js/events"
+              },
+              {
+                "type": "link",
+                "label": "HTTP Requests",
+                "href": "/docs/js/http"
+              },
+              {
+                "type": "link",
+                "label": "JavaScript in Forms",
+                "href": "/docs/js/forms"
+              },
+              {
+                "type": "link",
+                "label": "Browser APIs",
+                "href": "/docs/js/browser-api"
+              }
+            ]
           }
         ]
       },
@@ -91,16 +307,55 @@
     ]
   },
   "permalinkToSidebar": {
-    "/docs/android/flutter": "someSidebar",
-    "/docs/android/overview": "someSidebar",
-    "/docs/git": "someSidebar",
-    "/docs/ui/articles": "someSidebar",
-    "/docs/ui/figma": "someSidebar",
-    "/docs/ui/overview": "someSidebar",
-    "/docs/ui/videos": "someSidebar",
-    "/docs/": "someSidebar",
-    "/docs/web/css": "someSidebar",
-    "/docs/web/html": "someSidebar",
-    "/docs/web/js": "someSidebar"
+    "/docs/android/flutter": "docs",
+    "/docs/android/overview": "docs",
+    "/docs/git": "docs",
+    "/docs/ui/articles": "docs",
+    "/docs/ui/figma": "docs",
+    "/docs/ui/overview": "docs",
+    "/docs/ui/videos": "docs",
+    "/docs/": "docs",
+    "/docs/css": "docs",
+    "/docs/css/applying-css": "docs",
+    "/docs/css/box-model": "docs",
+    "/docs/css/css-structure": "docs",
+    "/docs/css/css-task": "docs",
+    "/docs/css/flexbox": "docs",
+    "/docs/css/float": "docs",
+    "/docs/css/css-introduction": "docs",
+    "/docs/css/optimization": "docs",
+    "/docs/html/css-properties": "docs",
+    "/docs/css/animation": "docs",
+    "/docs/html": "docs",
+    "/docs/html/body-tags": "docs",
+    "/docs/html/emmet": "docs",
+    "/docs/html/forms": "docs",
+    "/docs/html/history": "docs",
+    "/docs/html/html-task": "docs",
+    "/docs/html/html-apis": "docs",
+    "/docs/html/modernizer": "docs",
+    "/docs/html/structure": "docs",
+    "/docs/html/tags": "docs",
+    "/docs/html/html-tags": "docs",
+    "/docs/js": "docs",
+    "/docs/js/arrays": "docs",
+    "/docs/js/async": "docs",
+    "/docs/js/browser-api": "docs",
+    "/docs/js/conditional-flow": "docs",
+    "/docs/js/dom": "docs",
+    "/docs/js/events": "docs",
+    "/docs/js/bugs": "docs",
+    "/docs/js/forms": "docs",
+    "/docs/js/functions": "docs",
+    "/docs/js/functions-deep": "docs",
+    "/docs/js/http": "docs",
+    "/docs/js/introduction": "docs",
+    "/docs/js/js-in-broswer": "docs",
+    "/docs/js/loops": "docs",
+    "/docs/js/modules": "docs",
+    "/docs/js/objects": "docs",
+    "/docs/js/structure": "docs",
+    "/docs/js/regex": "docs",
+    "/docs/js/syntax": "docs"
   }
 }

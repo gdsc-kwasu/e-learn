@@ -1,6 +1,7 @@
 ---
 id: html
-title: HTML
+title: A Brief Introduction.
+slug: /html
 ---
 
 ### Course contents

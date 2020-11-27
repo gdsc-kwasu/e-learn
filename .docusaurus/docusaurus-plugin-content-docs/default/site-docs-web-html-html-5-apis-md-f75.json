@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/html/html5-apis",
+  "id": "web/html/html5-apis",
+  "isDocsHomePage": false,
+  "title": "HTML5 and it's APIs",
+  "description": "HTML5 and it's APIs",
+  "source": "@site/docs/web/html/html5-apis.md",
+  "slug": "/html/html-apis",
+  "permalink": "/docs/html/html-apis",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/html/html5-apis.md",
+  "version": "current",
+  "sidebar_label": "HTML5 APIs",
+  "sidebar": "docs",
+  "previous": {
+    "title": "HTML Forms",
+    "permalink": "/docs/html/forms"
+  },
+  "next": {
+    "title": "Modernizer",
+    "permalink": "/docs/html/modernizer"
+  }
+}

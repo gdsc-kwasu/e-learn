@@ -9,7 +9,7 @@
   "permalink": "/docs/ui/ux",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/ux.md",
   "version": "current",
-  "sidebar": "someSidebar",
+  "sidebar": "docs",
   "previous": {
     "title": "FIGMA",
     "permalink": "/docs/ui/figma"

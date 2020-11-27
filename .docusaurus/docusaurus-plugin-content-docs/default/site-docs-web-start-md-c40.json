@@ -1,0 +1,13 @@
+{
+  "unversionedId": "web/web",
+  "id": "web/web",
+  "isDocsHomePage": false,
+  "title": "Beginning with HTML, The skeletal system of the web.",
+  "description": "Beginning with HTML, The skeletal system of the web.",
+  "source": "@site/docs/web/start.md",
+  "slug": "/start/",
+  "permalink": "/docs/start/",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/start.md",
+  "version": "current",
+  "sidebar_label": "Introduction to HTMl"
+}

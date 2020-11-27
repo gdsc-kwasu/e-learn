@@ -10,7 +10,7 @@
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/android/video.md",
   "version": "current",
   "sidebar_label": "Flutter",
-  "sidebar": "someSidebar",
+  "sidebar": "docs",
   "previous": {
     "title": "Mobile App Development",
     "permalink": "/docs/android/overview"

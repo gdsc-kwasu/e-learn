@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/css/introduction",
+  "id": "web/css/introduction",
+  "isDocsHomePage": false,
+  "title": "CSS introduction",
+  "description": "Let's get started",
+  "source": "@site/docs/web/css/introduction.md",
+  "slug": "/css/css-introduction",
+  "permalink": "/docs/css/css-introduction",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css/introduction.md",
+  "version": "current",
+  "sidebar_label": "Introduction to CSS",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Life is by Design",
+    "permalink": "/docs/css"
+  },
+  "next": {
+    "title": "Different ways to apply CSS to an HTML document",
+    "permalink": "/docs/css/applying-css"
+  }
+}

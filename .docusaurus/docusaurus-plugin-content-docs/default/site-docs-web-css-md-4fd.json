@@ -2,20 +2,20 @@
   "unversionedId": "web/css",
   "id": "web/css",
   "isDocsHomePage": false,
-  "title": "CSS",
-  "description": "This is a link to another document. This is a link to an external page.",
+  "title": "Life is by Design",
+  "description": "We all know how the advent of colors and blah blah blah cmae into place...",
   "source": "@site/docs/web/css.md",
-  "slug": "/web/css",
-  "permalink": "/docs/web/css",
+  "slug": "/css",
+  "permalink": "/docs/css",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css.md",
   "version": "current",
-  "sidebar": "someSidebar",
+  "sidebar": "docs",
   "previous": {
-    "title": "HTML",
-    "permalink": "/docs/web/html"
+    "title": "Building a Login/Register page.",
+    "permalink": "/docs/html/html-task"
   },
   "next": {
-    "title": "JavaScript",
-    "permalink": "/docs/web/js"
+    "title": "CSS introduction",
+    "permalink": "/docs/css/css-introduction"
   }
 }
