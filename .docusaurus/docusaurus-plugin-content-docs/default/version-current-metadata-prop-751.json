@@ -23,7 +23,7 @@
               {
                 "type": "link",
                 "label": "A Brief Introduction.",
-                "href": "/docs/web/html"
+                "href": "/docs/html"
               },
               {
                 "type": "link",
@@ -85,7 +85,7 @@
               {
                 "type": "link",
                 "label": "Life is by Design",
-                "href": "/docs/web/css"
+                "href": "/docs/css"
               },
               {
                 "type": "link",
@@ -147,7 +147,7 @@
               {
                 "type": "link",
                 "label": "JavaScript, the heartbeat of the web",
-                "href": "/docs/web/js"
+                "href": "/docs/js"
               },
               {
                 "type": "link",
@@ -315,7 +315,7 @@
     "/docs/ui/overview": "docs",
     "/docs/ui/videos": "docs",
     "/docs/": "docs",
-    "/docs/web/css": "docs",
+    "/docs/css": "docs",
     "/docs/css/applying-css": "docs",
     "/docs/css/box-model": "docs",
     "/docs/css/css-structure": "docs",
@@ -326,7 +326,7 @@
     "/docs/css/optimization": "docs",
     "/docs/html/css-properties": "docs",
     "/docs/css/animation": "docs",
-    "/docs/web/html": "docs",
+    "/docs/html": "docs",
     "/docs/html/body-tags": "docs",
     "/docs/html/emmet": "docs",
     "/docs/html/forms": "docs",
@@ -337,7 +337,7 @@
     "/docs/html/structure": "docs",
     "/docs/html/tags": "docs",
     "/docs/html/html-tags": "docs",
-    "/docs/web/js": "docs",
+    "/docs/js": "docs",
     "/docs/js/arrays": "docs",
     "/docs/js/async": "docs",
     "/docs/js/browser-api": "docs",

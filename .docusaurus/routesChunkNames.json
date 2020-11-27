@@ -110,7 +110,7 @@
     "sidebar": "sidebar---blog-939-0fc",
     "content": "content---blog-welcome-286-e55"
   },
-  "/docs-1f4": {
+  "/docs-059": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -125,6 +125,10 @@
   "/docs/android/overview-409": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-android-overviewdcf-902"
+  },
+  "/docs/css-6cb": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-css-4-fd-954"
   },
   "/docs/css/animation-a90": {
     "component": "component---theme-doc-item-178-a40",
@@ -165,6 +169,10 @@
   "/docs/git-d2f": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-gite-03-8f1"
+  },
+  "/docs/html-e14": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-html-881-30b"
   },
   "/docs/html/body-tags-a49": {
     "component": "component---theme-doc-item-178-a40",
@@ -209,6 +217,10 @@
   "/docs/html/tags-26a": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-html-tags-4-c-9-86a"
+  },
+  "/docs/js-da2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-jsae-9-531"
   },
   "/docs/js/arrays-f22": {
     "component": "component---theme-doc-item-178-a40",
@@ -301,17 +313,5 @@
   "/docs/ui/videos-8da": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-ui-videos-864-625"
-  },
-  "/docs/web/css-e42": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-web-css-4-fd-8d7"
-  },
-  "/docs/web/html-28c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-web-html-881-a2d"
-  },
-  "/docs/web/js-031": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-web-jsae-9-0cf"
   }
 }

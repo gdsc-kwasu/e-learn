@@ -89,7 +89,7 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','1f4'),
+  component: ComponentCreator('/docs','059'),
   
   routes: [
 {
@@ -105,6 +105,11 @@ export default [
 {
   path: '/docs/android/overview',
   component: ComponentCreator('/docs/android/overview','409'),
+  exact: true,
+},
+{
+  path: '/docs/css',
+  component: ComponentCreator('/docs/css','6cb'),
   exact: true,
 },
 {
@@ -155,6 +160,11 @@ export default [
 {
   path: '/docs/git',
   component: ComponentCreator('/docs/git','d2f'),
+  exact: true,
+},
+{
+  path: '/docs/html',
+  component: ComponentCreator('/docs/html','e14'),
   exact: true,
 },
 {
@@ -210,6 +220,11 @@ export default [
 {
   path: '/docs/html/tags',
   component: ComponentCreator('/docs/html/tags','26a'),
+  exact: true,
+},
+{
+  path: '/docs/js',
+  component: ComponentCreator('/docs/js','da2'),
   exact: true,
 },
 {
@@ -325,21 +340,6 @@ export default [
 {
   path: '/docs/ui/videos',
   component: ComponentCreator('/docs/ui/videos','8da'),
-  exact: true,
-},
-{
-  path: '/docs/web/css',
-  component: ComponentCreator('/docs/web/css','e42'),
-  exact: true,
-},
-{
-  path: '/docs/web/html',
-  component: ComponentCreator('/docs/web/html','28c'),
-  exact: true,
-},
-{
-  path: '/docs/web/js',
-  component: ComponentCreator('/docs/web/js','031'),
   exact: true,
 },
 ]

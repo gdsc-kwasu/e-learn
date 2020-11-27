@@ -1,6 +1,7 @@
 ---
 id: js
 title: JavaScript, the heartbeat of the web
+slug: /js
 ---
 
 At this point. I'm very sure you've heard of *JavaScript*.

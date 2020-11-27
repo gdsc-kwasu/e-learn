@@ -273,7 +273,7 @@
             "/docs/ui/overview": "docs",
             "/docs/ui/videos": "docs",
             "/docs/": "docs",
-            "/docs/web/css": "docs",
+            "/docs/css": "docs",
             "/docs/css/applying-css": "docs",
             "/docs/css/box-model": "docs",
             "/docs/css/css-structure": "docs",
@@ -284,7 +284,7 @@
             "/docs/css/optimization": "docs",
             "/docs/html/css-properties": "docs",
             "/docs/css/animation": "docs",
-            "/docs/web/html": "docs",
+            "/docs/html": "docs",
             "/docs/html/body-tags": "docs",
             "/docs/html/emmet": "docs",
             "/docs/html/forms": "docs",
@@ -295,7 +295,7 @@
             "/docs/html/structure": "docs",
             "/docs/html/tags": "docs",
             "/docs/html/html-tags": "docs",
-            "/docs/web/js": "docs",
+            "/docs/js": "docs",
             "/docs/js/arrays": "docs",
             "/docs/js/async": "docs",
             "/docs/js/browser-api": "docs",
@@ -478,7 +478,7 @@
               "sidebar": "docs",
               "next": {
                 "title": "A Brief Introduction.",
-                "permalink": "/docs/web/html"
+                "permalink": "/docs/html"
               }
             },
             {
@@ -488,8 +488,8 @@
               "title": "Life is by Design",
               "description": "We all know how the advent of colors and blah blah blah cmae into place...",
               "source": "@site/docs/web/css.md",
-              "slug": "/web/css",
-              "permalink": "/docs/web/css",
+              "slug": "/css",
+              "permalink": "/docs/css",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css.md",
               "version": "current",
               "sidebar": "docs",
@@ -595,7 +595,7 @@
               "id": "web/css/flexbox",
               "isDocsHomePage": false,
               "title": "Structuring a page with Flexbox",
-              "description": "Let's get started",
+              "description": "Intro",
               "source": "@site/docs/web/css/flexbox.md",
               "slug": "/css/flexbox",
               "permalink": "/docs/css/flexbox",
@@ -649,7 +649,7 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Life is by Design",
-                "permalink": "/docs/web/css"
+                "permalink": "/docs/css"
               },
               "next": {
                 "title": "Different ways to apply CSS to an HTML document",
@@ -675,7 +675,7 @@
               },
               "next": {
                 "title": "JavaScript, the heartbeat of the web",
-                "permalink": "/docs/web/js"
+                "permalink": "/docs/js"
               }
             },
             {
@@ -729,8 +729,8 @@
               "title": "A Brief Introduction.",
               "description": "Course contents",
               "source": "@site/docs/web/html.md",
-              "slug": "/web/html",
-              "permalink": "/docs/web/html",
+              "slug": "/html",
+              "permalink": "/docs/html",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/html.md",
               "version": "current",
               "sidebar": "docs",
@@ -824,7 +824,7 @@
               "sidebar": "docs",
               "previous": {
                 "title": "A Brief Introduction.",
-                "permalink": "/docs/web/html"
+                "permalink": "/docs/html"
               },
               "next": {
                 "title": "Basic page structure",
@@ -850,7 +850,7 @@
               },
               "next": {
                 "title": "Life is by Design",
-                "permalink": "/docs/web/css"
+                "permalink": "/docs/css"
               }
             },
             {
@@ -970,8 +970,8 @@
               "title": "JavaScript, the heartbeat of the web",
               "description": "At this point. I'm very sure you've heard of JavaScript.",
               "source": "@site/docs/web/js.md",
-              "slug": "/web/js",
-              "permalink": "/docs/web/js",
+              "slug": "/js",
+              "permalink": "/docs/js",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js.md",
               "version": "current",
               "sidebar": "docs",
@@ -1241,7 +1241,7 @@
               "sidebar": "docs",
               "previous": {
                 "title": "JavaScript, the heartbeat of the web",
-                "permalink": "/docs/web/js"
+                "permalink": "/docs/js"
               },
               "next": {
                 "title": "Syntax, Data Types and Operators",

@@ -52,7 +52,7 @@
             },
             {
               "id": "web/css",
-              "path": "/docs/web/css",
+              "path": "/docs/css",
               "sidebar": "docs"
             },
             {
@@ -107,7 +107,7 @@
             },
             {
               "id": "web/html",
-              "path": "/docs/web/html",
+              "path": "/docs/html",
               "sidebar": "docs"
             },
             {
@@ -162,7 +162,7 @@
             },
             {
               "id": "web/js",
-              "path": "/docs/web/js",
+              "path": "/docs/js",
               "sidebar": "docs"
             },
             {

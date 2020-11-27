@@ -1,6 +1,7 @@
 ---
 id: css
 title: Life is by Design
+slug: /css
 ---
 We all know how the advent of colors and blah blah blah cmae into place... 
 
