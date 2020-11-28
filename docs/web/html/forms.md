@@ -57,9 +57,58 @@ There are different types of form controls that you can use to collect data usin
 
 - **Single-line text input controls** - This control is used for items that require only one line of user input, such as search boxes or names. They are created using HTML **input** tag.
 
-### Form Attribute
+#### Here is a basic example of a single-line text input used to take first name and last name:
 
-Following is the list of attributes for input tag for creating text field.
+> syntax
 
-| **Sr. No** | **Attribute & Description** |
-| :--------- | :-------------------------: |
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Text Input Control</title>
+  </head>
+
+  <body>
+    <form>
+      First name: <input type="text" name="first name" />
+      <br />
+      Last name: <input type="text" name="last name" />
+    </form>
+  </body>
+</html>
+```
+
+### Form Attribute Following is the list of attributes for input tag for creating text field.
+
+| **Sr. No** |                                         **Attribute & Description**                                          |
+| :--------- | :----------------------------------------------------------------------------------------------------------: |
+| 1.         |       **type**: Indicates the type of input control and for text input control it will be set to text.       |
+| 2.         | **name**: Used to give a name to the control which is sent to the server to be recognized and get the value. |
+| 3.         |                 **value**: This can be used to provide an initial value inside the control.                  |
+| 4.         |           **size**: Allows to specify the width of the text-input control in terms of characters.            |
+| 5.         |    **maxlength:** Allows to specify the maximum number of characters a user can enter into the text box.     |
+
+### Password input controls
+
+This is also a single-line text input but it masks the character as soon as a user enters it. They are also created using HTML input tag but type attribute is set to password.
+
+Example
+Here is a basic example of a single-line password input used to take user password −
+
+> syntax
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Password Input Control</title>
+  </head>
+  <body>
+    <form>
+      User ID: <input type="text" type="user_id" />
+      <br />
+      Password: <input type="password" type="password" />
+    </form>
+  </body>
+</html>
+```
