@@ -112,3 +112,92 @@ Here is a basic example of a single-line password input used to take user passwo
   </body>
 </html>
 ```
+
+### Multiple-Line Text Input Controls
+
+This is used when the user is required to give details that may be longer than a single sentence. Multi-line input controls are created using HTML **textarea** tag.
+
+> syntax
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Multiple-line input control</title>
+    <body>
+      <form>
+        Description: <br />
+        <textarea row="5" cols="50" name="Description">
+    Enter Description here...
+    </textarea
+        >
+      </form>
+    </body>
+  </head>
+</html>
+```
+
+### CheckBox Control
+
+Checkboxes are used when more than one option is required to be selected. They are also created using HTML **input** tag but type attribute is set to checkbox.
+
+> syntax
+
+```html
+<form>
+  <input type="checkbox" name="csc" value="on" /> CSC
+  <input type="checkbox" name="gns" value="on" /> GNS
+</form>
+```
+
+### Radio Button Control
+
+Radio buttons are used when out of many options, just one option is required to be selected. They are also created using HTML **input** tag but type attribute is set to radio.
+
+> syntax
+
+```html
+<form>
+  <input type=""radio" name="subject" value="csc" />CSC
+  <input type="radio" name="subject" value="gns" /> GNS
+</form>
+```
+
+### Select Box Control
+
+A select box, also called drop down box which provides option to list down various options in the form of drop down list, from where a user can select one or more options.
+
+> syntax
+
+```html
+<form>
+  <select name="dropdown">
+    <option value="csc" selected>CSC</option>
+    <option value="gns">GNS</option>
+  </select>
+</form>
+```
+
+### File Upload Box
+
+If you want to allow a user to upload a file to your web site, you will need to use a file upload box, also known as a file select box. This is also created using the **input** element but type attribute is set to file.
+
+> syntax
+
+```html
+<form>
+  <input type="file" name="fileupload" />
+</form>
+```
+
+### Button Controls
+
+There are various ways in HTML to create clickable buttons. You can also create a clickable button using input tag by setting its type attribute to button.
+
+> syntax
+
+```html
+<form>
+  <input type="submit" name="submit" value="submit" />
+</form>
+```
