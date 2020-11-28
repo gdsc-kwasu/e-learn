@@ -19,7 +19,7 @@ An HTML element is usually composed by two tags: the opening tag and the closing
 <p>This is a paragraph</p>
 ```
 
-The content of an element is, generally speaking, whatever falls inbetween its opening and closing tags.
+The content of an element is, generally speaking, is whatever falls in between its opening and closing tags.
 
 #### HTML Attributes
 
@@ -37,12 +37,12 @@ The <mark> a </mark> tag defines a hyperlink. The href attribute specifies the U
 > syntax
 
 ```html
-<a href="https://www.DSCKwasu.com">Visit DSC KWASU</a>
+<a href="https://www.dsckwasu.club">Visit DSC KWASU</a>
 ```
 
 ### The src Attribute
 
-The <mark>img </mark> tag is used to embed an image in an HTML page. The src attribute specifies the path to the image to be displayed:
+The ```<img />``` tag is used to embed an image in an HTML page. The src attribute specifies the path to the image to be displayed:
 
 > syntax
 

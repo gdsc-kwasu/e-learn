@@ -30,7 +30,7 @@ Unless you're writing documents for a very particular scenario, this is the decl
 
 ### THE MAIN CONTAINER: The HTML Element
 
-After having placed the DTD (!DOCTYPE) right at the top of the document, it's time to create the main container: a place where the whole document (except the DTD) will fall into. This container is inserted with the html element, and besides acting as a container, it provides a good chance to define the default language used by the document, through the global attribute lang.
+Having placed the DTD (!DOCTYPE) right at the top of the document, it's time to create the main container: a place where the whole document (except the DTD) will fall into. This container is inserted with the html element, and besides acting as a container, it provides a good chance to define the default language used by the document, through the global attribute lang.
 
 The following shows the example to shows the structure of the main container and indicates where all element of documents should be placed.
 
