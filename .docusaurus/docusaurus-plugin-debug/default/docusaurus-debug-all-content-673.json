@@ -639,7 +639,7 @@
               "id": "web/css/introduction",
               "isDocsHomePage": false,
               "title": "CSS introduction",
-              "description": "Let's get started",
+              "description": "Let's get started:",
               "source": "@site/docs/web/css/introduction.md",
               "slug": "/css/css-introduction",
               "permalink": "/docs/css/css-introduction",
