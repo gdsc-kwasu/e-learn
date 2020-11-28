@@ -8,8 +8,8 @@
           "versionPath": "/docs",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/seven/Documents/codes/projects/kwasudsc/e-learn/sidebars.js",
-          "docsDirPath": "/home/seven/Documents/codes/projects/kwasudsc/e-learn/docs",
+          "sidebarFilePath": "/home/ctrlaltfix/e-learn/sidebars.js",
+          "docsDirPath": "/home/ctrlaltfix/e-learn/docs",
           "mainDocId": "web",
           "sidebars": {
             "docs": [
@@ -639,7 +639,7 @@
               "id": "web/css/introduction",
               "isDocsHomePage": false,
               "title": "CSS introduction",
-              "description": "Let's get started",
+              "description": "Let's get started:",
               "source": "@site/docs/web/css/introduction.md",
               "slug": "/css/css-introduction",
               "permalink": "/docs/css/css-introduction",
