@@ -15,5 +15,7 @@ Flexbox, usually referred to as the Flexbox Module was designed as a one-dimensi
 
 Flexbox takes into consideration, the parent container, it could be a `div` or any element, so long as it houses other elements which we refer to as the `flex-items`. The properties that are neccesary for these layouts are what we'd be looking at very soon.
 
-### Flex Properties
+### Flex properties
+
+The flex properties are literally the same thing as css properties applied to elements. For the `flex-container` (i.e the parent )
 
