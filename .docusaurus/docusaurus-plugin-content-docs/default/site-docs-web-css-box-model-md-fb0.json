@@ -3,7 +3,7 @@
   "id": "web/css/box-model",
   "isDocsHomePage": false,
   "title": "Understanding the box model",
-  "description": "Let's get started",
+  "description": "every element in web design is a rectangular box. -Chris Coyer",
   "source": "@site/docs/web/css/box-model.md",
   "slug": "/css/box-model",
   "permalink": "/docs/css/box-model",
