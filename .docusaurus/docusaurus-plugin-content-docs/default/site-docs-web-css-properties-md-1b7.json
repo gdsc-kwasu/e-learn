@@ -3,7 +3,7 @@
   "id": "web/css/properties",
   "isDocsHomePage": false,
   "title": "Units, Measurements and colors",
-  "description": "Properties in CSS",
+  "description": "In CSS there are different units for setting the length (width, height, padding, margin, font-size etc) of an element.",
   "source": "@site/docs/web/css/properties.md",
   "slug": "/html/css-properties",
   "permalink": "/docs/html/css-properties",
