@@ -8,8 +8,8 @@
           "versionPath": "/docs",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/seven/Documents/codes/projects/kwasudsc/e-learn/sidebars.js",
-          "docsDirPath": "/home/seven/Documents/codes/projects/kwasudsc/e-learn/docs",
+          "sidebarFilePath": "/home/wolvecode/dsc/e-learn/sidebars.js",
+          "docsDirPath": "/home/wolvecode/dsc/e-learn/docs",
           "mainDocId": "web",
           "sidebars": {
             "docs": [
@@ -529,7 +529,7 @@
               "id": "web/css/box-model",
               "isDocsHomePage": false,
               "title": "Understanding the box model",
-              "description": "every element in web design is a rectangular box. -Chris Coyer",
+              "description": "Intro",
               "source": "@site/docs/web/css/box-model.md",
               "slug": "/css/box-model",
               "permalink": "/docs/css/box-model",
@@ -705,7 +705,7 @@
               "id": "web/css/transitions",
               "isDocsHomePage": false,
               "title": "CSS Transitions and Animation",
-              "description": "Let's get started",
+              "description": "Intro",
               "source": "@site/docs/web/css/transitions.md",
               "slug": "/css/animation",
               "permalink": "/docs/css/animation",
