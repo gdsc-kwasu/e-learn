@@ -56,7 +56,7 @@ Assume we want to style a `<div>` element to have a total width of 350px:
   }
 ```
 
-Here is the calculation:
+Here is the calculation :
 
 ```
   320px (width)
@@ -64,6 +64,7 @@ Here is the calculation:
   + 10px (left + right border)
   + 0px (left + right margin)
   = 350px
+
 ```
 
 The total **width** of an element should be calculated like this:
