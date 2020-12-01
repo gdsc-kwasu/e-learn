@@ -28,6 +28,29 @@
   "/blog-433": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
     "sidebar": "sidebar---blog-5-ea-fcf",
+  },
+  "/__docusaurus/debug-3d6": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/config-914": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/content-c28": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-3cf": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/__docusaurus/debug/metadata-31b": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/__docusaurus/debug/registry-0da": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/__docusaurus/debug/routes-244": {
+    "component": "component---theme-debug-routes-946-699"
+  },
     "items": [
       {
         "content": "content---blogaf-1-856"
@@ -59,6 +82,22 @@
   "/blog/tags/docusaurus-d01": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "sidebar": "sidebar---blog-5-ea-fcf",
+=======
+  "/blog/hello-world-7de": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-939-0fc",
+    "content": "content---blog-hello-worldd-61-086"
+  },
+  "/blog/hola-08d": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-939-0fc",
+    "content": "content---blog-holabdd-150"
+  },
+  "/blog/tags-e0b": {
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "sidebar": "sidebar---blog-939-0fc",
+    "tags": "tags---blog-tagsa-70-da2"
+  },
     "items": [
       {
         "content": "content---blogaf-1-856"
