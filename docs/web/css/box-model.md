@@ -42,29 +42,30 @@ div {
 ```
 
 ### Width and Height of an Element
-  
-  In order to set the **width** and **height** of an element correctly in all browsers, you need to know how the box model works.   
 
-  Assume we want to style a `<div>` element to have a total width of 350px:
+In order to set the **width** and **height** of an element correctly in all browsers, you need to know how the box model works.
 
-  ```
-    div {
-        width: 320px;
-        padding: 10px;
-        border: 5px solid gray;
-        margin: 0;
-    }
-  ```
+Assume we want to style a `<div>` element to have a total width of 350px:
 
-  Here is the calculation:
+```
+  div {
+      width: 320px;
+      padding: 10px;
+      border: 5px solid gray;
+      margin: 0;
+  }
+```
 
-  ```
-    320px (width)
-    + 20px (left + right padding)
-    + 10px (left + right border)
-    + 0px (left + right margin)
-    = 350px
-  ```
+Here is the calculation:
+
+```
+  320px (width)
+  + 20px (left + right padding)
+  + 10px (left + right border)
+  + 0px (left + right margin)
+  = 350px
+```
+
 The total **width** of an element should be calculated like this:
 
 Total element width = width + left padding + right padding + left border + right border + left margin + right margin
