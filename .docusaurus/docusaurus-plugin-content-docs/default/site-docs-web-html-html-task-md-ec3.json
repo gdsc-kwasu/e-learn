@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/html/html-task",
+  "id": "web/html/html-task",
+  "isDocsHomePage": false,
+  "title": "Building a Login/Register page.",
+  "description": "Let's build a Login/Register page",
+  "source": "@site/docs\\web\\html\\html-task.md",
+  "slug": "/html/html-task",
+  "permalink": "/docs/html/html-task",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/html/html-task.md",
+  "version": "current",
+  "sidebar_label": "HTML task",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Modernizer",
+    "permalink": "/docs/html/modernizer"
+  },
+  "next": {
+    "title": "Life is by Design",
+    "permalink": "/docs/css"
+  }
+}

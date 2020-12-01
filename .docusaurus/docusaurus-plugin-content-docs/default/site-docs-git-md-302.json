@@ -1,0 +1,17 @@
+{
+  "unversionedId": "git",
+  "id": "git",
+  "isDocsHomePage": false,
+  "title": "GIT",
+  "description": "You can write JSX and use React components within your Markdown thanks to MDX.",
+  "source": "@site/docs\\git.md",
+  "slug": "/git",
+  "permalink": "/docs/git",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/git.md",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Mobile App with Flutter",
+    "permalink": "/docs/android/flutter"
+  }
+}

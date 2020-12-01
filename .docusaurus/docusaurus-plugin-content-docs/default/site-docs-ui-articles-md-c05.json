@@ -1,0 +1,21 @@
+{
+  "unversionedId": "ui/articles",
+  "id": "ui/articles",
+  "isDocsHomePage": false,
+  "title": "Articles",
+  "description": "Industry Overview",
+  "source": "@site/docs\\ui\\articles.md",
+  "slug": "/ui/articles",
+  "permalink": "/docs/ui/articles",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/articles.md",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Videos",
+    "permalink": "/docs/ui/videos"
+  },
+  "next": {
+    "title": "Mobile App Development",
+    "permalink": "/docs/android/overview"
+  }
+}

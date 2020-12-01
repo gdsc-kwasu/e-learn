@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/js/js-in-browser",
+  "id": "web/js/js-in-browser",
+  "isDocsHomePage": false,
+  "title": "JavaScript in the Browser",
+  "description": "Let's get started",
+  "source": "@site/docs\\web\\js\\js-in-browser.md",
+  "slug": "/js/js-in-broswer",
+  "permalink": "/docs/js/js-in-broswer",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/js-in-browser.md",
+  "version": "current",
+  "sidebar_label": "JS in Browser",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Asynchronous programming with JavaScript",
+    "permalink": "/docs/js/async"
+  },
+  "next": {
+    "title": "Working with the DOM",
+    "permalink": "/docs/js/dom"
+  }
+}

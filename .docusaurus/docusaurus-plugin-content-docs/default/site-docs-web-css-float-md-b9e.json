@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/css/float",
+  "id": "web/css/float",
+  "isDocsHomePage": false,
+  "title": "Structuring a page with Float",
+  "description": "Let's get started",
+  "source": "@site/docs\\web\\css\\float.md",
+  "slug": "/css/float",
+  "permalink": "/docs/css/float",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css/float.md",
+  "version": "current",
+  "sidebar_label": "Float",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Structuring a page with Flexbox",
+    "permalink": "/docs/css/flexbox"
+  },
+  "next": {
+    "title": "CSS Transitions and Animation",
+    "permalink": "/docs/css/animation"
+  }
+}

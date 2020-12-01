@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/js/forms",
+  "id": "web/js/forms",
+  "isDocsHomePage": false,
+  "title": "Working with forms in JavaScript",
+  "description": "Let's get started",
+  "source": "@site/docs\\web\\js\\forms.md",
+  "slug": "/js/forms",
+  "permalink": "/docs/js/forms",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/forms.md",
+  "version": "current",
+  "sidebar_label": "JavaScript in Forms",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Handling HTTP Request",
+    "permalink": "/docs/js/http"
+  },
+  "next": {
+    "title": "Common Browser APIs",
+    "permalink": "/docs/js/browser-api"
+  }
+}

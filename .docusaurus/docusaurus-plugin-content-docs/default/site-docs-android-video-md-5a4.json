@@ -1,0 +1,22 @@
+{
+  "unversionedId": "android/flutter",
+  "id": "android/flutter",
+  "isDocsHomePage": false,
+  "title": "Mobile App with Flutter",
+  "description": "Course contents",
+  "source": "@site/docs\\android\\video.md",
+  "slug": "/android/flutter",
+  "permalink": "/docs/android/flutter",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/android/video.md",
+  "version": "current",
+  "sidebar_label": "Flutter",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Mobile App Development",
+    "permalink": "/docs/android/overview"
+  },
+  "next": {
+    "title": "GIT",
+    "permalink": "/docs/git"
+  }
+}

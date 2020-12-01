@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/css/css-task",
+  "id": "web/css/css-task",
+  "isDocsHomePage": false,
+  "title": "Let's add some colors to our Login/Register page",
+  "description": "Let's get started",
+  "source": "@site/docs\\web\\css\\css-task.md",
+  "slug": "/css/css-task",
+  "permalink": "/docs/css/css-task",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css/css-task.md",
+  "version": "current",
+  "sidebar_label": "CSS Task",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Understanding the box model",
+    "permalink": "/docs/css/box-model"
+  },
+  "next": {
+    "title": "Structuring a page with Flexbox",
+    "permalink": "/docs/css/flexbox"
+  }
+}

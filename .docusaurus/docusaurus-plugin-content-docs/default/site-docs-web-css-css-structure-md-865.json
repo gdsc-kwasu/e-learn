@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/css/css-structure",
+  "id": "web/css/css-structure",
+  "isDocsHomePage": false,
+  "title": "CSS structure",
+  "description": "Let's get started",
+  "source": "@site/docs\\web\\css\\css-structure.md",
+  "slug": "/css/css-structure",
+  "permalink": "/docs/css/css-structure",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css/css-structure.md",
+  "version": "current",
+  "sidebar_label": "Structure of CSS",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Different ways to apply CSS to an HTML document",
+    "permalink": "/docs/css/applying-css"
+  },
+  "next": {
+    "title": "Units, Measurements and colors",
+    "permalink": "/docs/html/css-properties"
+  }
+}

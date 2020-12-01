@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/css/box-model",
+  "id": "web/css/box-model",
+  "isDocsHomePage": false,
+  "title": "Understanding the box model",
+  "description": "CSS Box Model",
+  "source": "@site/docs\\web\\css\\box-model.md",
+  "slug": "/css/box-model",
+  "permalink": "/docs/css/box-model",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css/box-model.md",
+  "version": "current",
+  "sidebar_label": "The box model",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Units, Measurements and colors",
+    "permalink": "/docs/html/css-properties"
+  },
+  "next": {
+    "title": "Let's add some colors to our Login/Register page",
+    "permalink": "/docs/css/css-task"
+  }
+}

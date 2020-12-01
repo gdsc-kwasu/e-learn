@@ -119,7 +119,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/home/seven/Documents/codes/projects/kwasudsc/e-learn/sidebars.js",
+          "sidebarPath": "C:\\Users\\UmarFaruq\\Desktop\\dscWork\\e-learn\\sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/"
         },
         "blog": {
@@ -127,7 +127,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
         },
         "theme": {
-          "customCss": "/home/seven/Documents/codes/projects/kwasudsc/e-learn/src/css/custom.css"
+          "customCss": "C:\\Users\\UmarFaruq\\Desktop\\dscWork\\e-learn\\src\\css\\custom.css"
         }
       }
     ]
