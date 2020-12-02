@@ -27,28 +27,28 @@ The transition property is a shorthand property used to represent up to four tra
 
 ### Defining transitions
 
-
 **CSS Transitions** are controlled using the shorthand transition property. This is the best way to configure transitions, as it makes it easier to avoid out of sync parameters, which can be very frustrating to have to spend lots of time debugging in CSS.
 
 
-````
+```css
 .example {
     transition: [transition-property] [transition-duration] [transition-timing-function] [transition-delay];
 }
+```
 
-````
-
-
-```transition-property```
+### transition-property
 
 Specifies the name or names of the CSS properties to which transitions should be applied. Only properties listed here are animated during transitions; changes to all other properties occur instantaneously as usual.
 
 
-```transition-duration```
+### transition-duration
 
 Specifies the duration over which transitions should occur. You can specify a single duration that applies to all properties during the transition, or multiple values to allow each property to transition over a different period of time.
 
-```transition-duration: 0.5s``` ```transition-duration: 1s```
+```css
+transition-duration: 0.5s
+transition-duration: 1s
+```
 
 You can see the code and preview on how the transition duration works 
 [here](https://css-tricks.com/almanac/properties/t/transition-duration/)
@@ -56,27 +56,31 @@ You can see the code and preview on how the transition duration works
 You can see the code and preview on how the transition property works  [here](https://css-tricks.com/almanac/properties/t/transition-property/)   
 
 
-```trasition-timing-function```
+### trasition-timing-function
 
 Specifies a function to define how intermediate values for properties are computed. Timing functions determine how intermediate values of the transition are calculated. Most timing functions can be specified by providing the graph of the corresponding function, as defined by four points defining a cubic bezier. You can also choose easing from Easing Functions Cheat Sheet.
 
 
-```transition-timing-function: ease``` ```transition-timing-function: linear```
+```css
+transition-timing-function: ease
+transition-timing-function: linear
+```
 
 You can see the code and preview on how the transition timing fucntion works 
 [here](https://css-tricks.com/almanac/properties/t/transition-timing-function/)
 
 
-```trasition-delay```
+### trasition-delay
 
 Defines how long to wait between the time a property is changed and the transition actually begins.
 
 
-```transition-delay: 0.5s``` ```transition-delay: 1s```
-
-
-
+```css 
+transition-delay: 0.5s 
+transition-delay: 1s
 ```
+
+``` css
 div {
   transition: background-color 0.5s ease;
   background-color: red;
@@ -94,7 +98,7 @@ div:hover {
 
 This example performs a four-second font size transition with a two-second delay between the time the user mouses over the element and the beginning of the animation effect:
 
-```
+```css
 #delay {
   font-size: 14px;
   transition-property: font-size;
@@ -110,7 +114,7 @@ This example performs a four-second font size transition with a two-second delay
 
 **Multiple animated properties example**
 
-```
+```css
 .box {
     border-style: solid;
     border-width: 1px;
@@ -132,24 +136,20 @@ This example performs a four-second font size transition with a two-second delay
 
 ***When property value lists are of different lengths***
 
-```
-
+```css
 div {
   transition-property: opacity, left, top, height;
   transition-duration: 3s, 5s;
 }
-
 ```
 
 This is treated as if it were:
 
-```
-
+```css
 div {
   transition-property: opacity, left, top, height;
   transition-duration: 3s, 5s, 3s, 5s;
 }
-
 ```
 
 

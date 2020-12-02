@@ -119,11 +119,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-<<<<<<< HEAD
-          "sidebarPath": "/home/ctrlaltfix/Desktop/DSC/e-learn/sidebars.js",
-=======
-          "sidebarPath": "/home/wolvecode/dsc/e-learn/sidebars.js",
->>>>>>> 5533723991d58d0b512279a541afbbe0b0b69145
+          "sidebarPath": "/home/seven/Documents/codes/projects/kwasudsc/e-learn/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/"
         },
         "blog": {
@@ -131,11 +127,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
         },
         "theme": {
-<<<<<<< HEAD
-          "customCss": "/home/ctrlaltfix/Desktop/DSC/e-learn/src/css/custom.css"
-=======
-          "customCss": "/home/wolvecode/dsc/e-learn/src/css/custom.css"
->>>>>>> 5533723991d58d0b512279a541afbbe0b0b69145
+          "customCss": "/home/seven/Documents/codes/projects/kwasudsc/e-learn/src/css/custom.css"
         }
       }
     ]
