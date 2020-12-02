@@ -8,8 +8,13 @@
           "versionPath": "/docs",
           "isLast": true,
           "routePriority": -1,
+<<<<<<< HEAD
           "sidebarFilePath": "/home/ctrlaltfix/Desktop/DSC/e-learn/sidebars.js",
           "docsDirPath": "/home/ctrlaltfix/Desktop/DSC/e-learn/docs",
+=======
+          "sidebarFilePath": "/home/wolvecode/dsc/e-learn/sidebars.js",
+          "docsDirPath": "/home/wolvecode/dsc/e-learn/docs",
+>>>>>>> 5533723991d58d0b512279a541afbbe0b0b69145
           "mainDocId": "web",
           "sidebars": {
             "docs": [
@@ -529,7 +534,7 @@
               "id": "web/css/box-model",
               "isDocsHomePage": false,
               "title": "Understanding the box model",
-              "description": "Let's get started",
+              "description": "Intro",
               "source": "@site/docs/web/css/box-model.md",
               "slug": "/css/box-model",
               "permalink": "/docs/css/box-model",
@@ -551,7 +556,7 @@
               "id": "web/css/css-structure",
               "isDocsHomePage": false,
               "title": "CSS structure",
-              "description": "Let's get started",
+              "description": "The structure of CSS stylesheets really depends on how you as a developer decides to work with your file(s). You can decide to go with either of the three methods or process of structuring your sylesheets, which includes:",
               "source": "@site/docs/web/css/css-structure.md",
               "slug": "/css/css-structure",
               "permalink": "/docs/css/css-structure",
@@ -617,7 +622,7 @@
               "id": "web/css/float",
               "isDocsHomePage": false,
               "title": "Structuring a page with Float",
-              "description": "Let's get started",
+              "description": "The float property places an element on the left or right side of it's parent-container, thus allowing the text and inline elements to wrap around it",
               "source": "@site/docs/web/css/float.md",
               "slug": "/css/float",
               "permalink": "/docs/css/float",
@@ -661,7 +666,7 @@
               "id": "web/css/optimization",
               "isDocsHomePage": false,
               "title": "Optimizing CSS Files for production",
-              "description": "Let's get started",
+              "description": "Why do you even need to optimize your CSS files?",
               "source": "@site/docs/web/css/optimization.md",
               "slug": "/css/optimization",
               "permalink": "/docs/css/optimization",
@@ -705,7 +710,7 @@
               "id": "web/css/transitions",
               "isDocsHomePage": false,
               "title": "CSS Transitions and Animation",
-              "description": "Let's get started",
+              "description": "Intro",
               "source": "@site/docs/web/css/transitions.md",
               "slug": "/css/animation",
               "permalink": "/docs/css/animation",
