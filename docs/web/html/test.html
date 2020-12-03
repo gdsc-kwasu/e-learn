@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>test</title>
+    <style>
+        body {font-family: Arial, Helvetica, sans-serif;}
+form {border: 3px solid #f1f1f1;}
+.title{
+    text-align: center;
+}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+  border: 7px;
+}
+
+.container {
+  padding: 16px;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+.forgotPassword {
+    background-color:#f1f1f1
+}
+    </style>
+</head>
+<body>
+    <form action="" method="post">
+    <div class="container">
+            <h3 class="title">Login Page</h3>
+        <p>
+            <label for="uname">
+                <b>Username</b>
+            </label>
+            <input type="text" placeholder="Enter Username" name="uname" required>
+        </p>
+        <p>
+            <label for="psw">
+                <b>Password</b>
+            </label>
+            <input type="password" placeholder="Enter Password" name="psw" required>
+        </p>
+        <p>
+            <p>
+            <button type="submit">Send your message</button>
+            </p>
+        </p>
+        <p>
+            <label>
+            <input type="checkbox" checked="checked" name="remember"> Remember me
+            </label>
+        </p>
+    </div>
+
+   <div class="container" style="background-color:#f1f1f1">
+    <button type="button" class="cancelbtn">Cancel</button>
+    <span class="psw">Forgot <a href="#">password?</a></span>
+  </div>
+
+</form>
+</body>
+</html>
