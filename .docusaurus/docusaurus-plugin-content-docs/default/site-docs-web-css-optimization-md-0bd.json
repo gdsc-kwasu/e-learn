@@ -3,7 +3,7 @@
   "id": "web/css/optimization",
   "isDocsHomePage": false,
   "title": "Optimizing CSS Files for production",
-  "description": "Let's get started",
+  "description": "Why do you even need to optimize your CSS files?",
   "source": "@site/docs\\web\\css\\optimization.md",
   "slug": "/css/optimization",
   "permalink": "/docs/css/optimization",

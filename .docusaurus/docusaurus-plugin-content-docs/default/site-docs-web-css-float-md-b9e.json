@@ -3,7 +3,7 @@
   "id": "web/css/float",
   "isDocsHomePage": false,
   "title": "Structuring a page with Float",
-  "description": "Let's get started",
+  "description": "The float property places an element on the left or right side of it's parent-container, thus allowing the text and inline elements to wrap around it",
   "source": "@site/docs\\web\\css\\float.md",
   "slug": "/css/float",
   "permalink": "/docs/css/float",

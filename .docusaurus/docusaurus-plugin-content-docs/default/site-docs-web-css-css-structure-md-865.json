@@ -3,7 +3,7 @@
   "id": "web/css/css-structure",
   "isDocsHomePage": false,
   "title": "CSS structure",
-  "description": "Let's get started",
+  "description": "The structure of CSS stylesheets really depends on how you as a developer decides to work with your file(s). You can decide to go with either of the three methods or process of structuring your sylesheets, which includes:",
   "source": "@site/docs\\web\\css\\css-structure.md",
   "slug": "/css/css-structure",
   "permalink": "/docs/css/css-structure",
