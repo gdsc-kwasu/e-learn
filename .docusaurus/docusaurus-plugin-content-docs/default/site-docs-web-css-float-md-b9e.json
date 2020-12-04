@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/css/float",
+  "id": "web/css/float",
+  "isDocsHomePage": false,
+  "title": "Structuring a page with Float",
+  "description": "The float property places an element on the left or right side of it's parent-container, thus allowing the text and inline elements to wrap around it",
+  "source": "@site/docs\\web\\css\\float.md",
+  "slug": "/css/float",
+  "permalink": "/docs/css/float",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css/float.md",
+  "version": "current",
+  "sidebar_label": "Float",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Structuring a page with Flexbox",
+    "permalink": "/docs/css/flexbox"
+  },
+  "next": {
+    "title": "CSS Transitions and Animation",
+    "permalink": "/docs/css/animation"
+  }
+}

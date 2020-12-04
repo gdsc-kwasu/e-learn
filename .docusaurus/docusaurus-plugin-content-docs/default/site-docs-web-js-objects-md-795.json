@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/js/objects",
+  "id": "web/js/objects",
+  "isDocsHomePage": false,
+  "title": "Basic introduction to Objects in JavaScript",
+  "description": "Let's get started",
+  "source": "@site/docs\\web\\js\\objects.md",
+  "slug": "/js/objects",
+  "permalink": "/docs/js/objects",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/objects.md",
+  "version": "current",
+  "sidebar_label": "Objects",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Functions in-depth",
+    "permalink": "/docs/js/functions-deep"
+  },
+  "next": {
+    "title": "Exception, Bugs and Errors",
+    "permalink": "/docs/js/bugs"
+  }
+}

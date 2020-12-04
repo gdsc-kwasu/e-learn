@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/js/loops",
+  "id": "web/js/loops",
+  "isDocsHomePage": false,
+  "title": "Loops in JavaScript",
+  "description": "Let's get started",
+  "source": "@site/docs\\web\\js\\loops.md",
+  "slug": "/js/loops",
+  "permalink": "/docs/js/loops",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/loops.md",
+  "version": "current",
+  "sidebar_label": "Loops",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Program Structure",
+    "permalink": "/docs/js/structure"
+  },
+  "next": {
+    "title": "Functions in JavaScript",
+    "permalink": "/docs/js/functions"
+  }
+}

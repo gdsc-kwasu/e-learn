@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/html/modernizer",
+  "id": "web/html/modernizer",
+  "isDocsHomePage": false,
+  "title": "Modernizer",
+  "description": "Using Modernizer",
+  "source": "@site/docs\\web\\html\\modernizer.md",
+  "slug": "/html/modernizer",
+  "permalink": "/docs/html/modernizer",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/html/modernizer.md",
+  "version": "current",
+  "sidebar_label": "Using Modernizer",
+  "sidebar": "docs",
+  "previous": {
+    "title": "HTML5 and it's APIs",
+    "permalink": "/docs/html/html-apis"
+  },
+  "next": {
+    "title": "Building a Login/Register page.",
+    "permalink": "/docs/html/html-task"
+  }
+}

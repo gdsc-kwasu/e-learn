@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/js/http",
+  "id": "web/js/http",
+  "isDocsHomePage": false,
+  "title": "Handling HTTP Request",
+  "description": "Let's get started",
+  "source": "@site/docs\\web\\js\\http.md",
+  "slug": "/js/http",
+  "permalink": "/docs/js/http",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/http.md",
+  "version": "current",
+  "sidebar_label": "HTTP Requests",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Events is all that matters",
+    "permalink": "/docs/js/events"
+  },
+  "next": {
+    "title": "Working with forms in JavaScript",
+    "permalink": "/docs/js/forms"
+  }
+}

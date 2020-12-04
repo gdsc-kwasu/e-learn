@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/html/emmet",
+  "id": "web/html/emmet",
+  "isDocsHomePage": false,
+  "title": "Using Emmet to write markup faster",
+  "description": "Using Emmet to write markup faster",
+  "source": "@site/docs\\web\\html\\emmet.md",
+  "slug": "/html/emmet",
+  "permalink": "/docs/html/emmet",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/html/emmet.md",
+  "version": "current",
+  "sidebar_label": "Emmet",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Body and children tags",
+    "permalink": "/docs/html/body-tags"
+  },
+  "next": {
+    "title": "HTML Forms",
+    "permalink": "/docs/html/forms"
+  }
+}

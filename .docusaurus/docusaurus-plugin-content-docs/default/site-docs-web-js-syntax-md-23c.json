@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/js/syntax",
+  "id": "web/js/syntax",
+  "isDocsHomePage": false,
+  "title": "Syntax, Data Types and Operators",
+  "description": "Let's get started",
+  "source": "@site/docs\\web\\js\\syntax.md",
+  "slug": "/js/syntax",
+  "permalink": "/docs/js/syntax",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/syntax.md",
+  "version": "current",
+  "sidebar_label": "Syntax",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Introduction to JavaScript",
+    "permalink": "/docs/js/introduction"
+  },
+  "next": {
+    "title": "Program Structure",
+    "permalink": "/docs/js/structure"
+  }
+}

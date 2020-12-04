@@ -1,0 +1,18 @@
+{
+  "unversionedId": "web",
+  "id": "web",
+  "isDocsHomePage": false,
+  "title": "Web Development",
+  "description": "Overview",
+  "source": "@site/docs\\web.md",
+  "slug": "/",
+  "permalink": "/docs/",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web.md",
+  "version": "current",
+  "sidebar_label": "Overview",
+  "sidebar": "docs",
+  "next": {
+    "title": "A Brief Introduction.",
+    "permalink": "/docs/html"
+  }
+}

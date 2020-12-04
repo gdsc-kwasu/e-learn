@@ -5,6 +5,9 @@ sidebar_label: The box model
 slug: /css/box-model
 ---
 
+<<<<<<< HEAD
+### Let's get started
+=======
 ### Intro
 
 One of the best ways to control your website's design and functionality is CSS.
@@ -402,3 +405,4 @@ _Box Model With A Collapse Margin_
 Kindly preview
 
 To read more about Css box model, click [here](https://www.khanacademy.org/computing/computer-programming/html-css/css-layout-properties/pt/css-box-model)
+>>>>>>> d05fd124de4a37b05860bda1b0e62ba5ee9fbb1b
