@@ -23,7 +23,7 @@ slug: /css/css-introduction
 A CSS comprises of style rules that are interpreted by the browser and then applied to the corresponding elements in your document.
 A style rule set consists of a selector and declaration block.
 
-```
+```css
 h1 {                     //Where h1 is the Selector
      Color: red;
      margin: blue;      // Margin is the Property and red is the value.
@@ -35,7 +35,7 @@ h1 {                     //Where h1 is the Selector
 - Each declaration includes a CSS property name and a value, separated by a colon.
 - A CSS declaration always ends with a semicolon, and declaration blocks are surrounded by curly braces.
 
-```
+```css
 p {
   color: red;
   text-align: center;
@@ -54,7 +54,7 @@ The element selector selects elements based on the element name.
 
 You can select all `<p>` elements on a page like this (in this case, all `<p>` elements will be center-aligned, with a red text color).
 
-```
+```css
 p {
   text-align: center;
   color: red;
@@ -69,7 +69,7 @@ p {
 
 The style rule below will be applied to the **HTML** element with **id ="para1"**:
 
-```
+```css
 #para1 {
   text-align: center;
   color: red;
@@ -86,7 +86,7 @@ Note: An id name cannot start with a number!
 
 - In the example below, all **HTML** elements with class="center" will be red and center-aligned:
 
-```
+```css
 .center {
   text-align: center;
   color: red;
@@ -103,7 +103,7 @@ Note: A class name cannot start with a number!
 
 - A CSS comment starts with /_ and ends with _/. Comments can also span multiple lines:
 
-```
+```css
 p {
   color: red;
   /* This is a single-line comment */

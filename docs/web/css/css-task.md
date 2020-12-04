@@ -19,7 +19,7 @@ Now create a CSS file, and reference it in your html file using the code:
 
 Before we start writing our styles, we need to select some of our tags using `class` in our html code.
 
-```
+```html
 <form action="" method="post">
     <div class="container">
             <h3 class="title">Login Page</h3>
@@ -61,7 +61,7 @@ Update your form code to look like the above.
 
 After updating your form, go back to your CSS file and add the following Styles:
 
-```
+```css
 body {font-family: Arial, Helvetica, sans-serif;}
 form {border: 3px solid #f1f1f1;}
 .title{
@@ -125,7 +125,7 @@ We Use Media queries for Change styles on extra small screens or larger screen s
 
 So We will use Media Queries to change styles for `span` and `cancel button` on extra small screens.
 
-```
+```css
 @media screen and (max-width: 300px) {
   span.psw {
      display: block;

@@ -34,7 +34,7 @@ For now, add the above `<form>` element into your HTML` <body>`.
 
 Our Login form is not complex: the data entry portion contains three text fields, each with a corresponding `<label>`:
 
-```
+```html
 <form action="" method="post">
     <div class="container">
         <h3>Login Page</h3>
@@ -87,7 +87,7 @@ The `<button>` element also accepts a type attribute — this accepts one of thr
 
 Putting all our codes together, Let see what we have.
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
