@@ -17,7 +17,7 @@ Ok, let's have a go at creating the HTML for our form. We will use the following
 
 All forms start with a `<form>` element, like this:
 
-```
+```html
 <form action="" method="post">
 
 </form>
@@ -69,7 +69,7 @@ There is great benefit to doing this — it associates the label with the form c
 
 The markup for our form is almost complete; we just need to add a button to allow the user to send, or "submit", their data once they have filled out the form. This is done by using the `<button>` element.
 
-```
+```html
 <p>
     <button type="submit">Send your message</button>
 </p>
