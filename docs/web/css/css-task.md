@@ -11,7 +11,7 @@ Forms are notoriously tricky to style nicely. After writing your code in the HTM
 
 Now create a CSS file, and reference it in your html file using the code:
 
-```
+```html
     <link rel="stylesheet" href="Name of your CSS file">
 ```
 
