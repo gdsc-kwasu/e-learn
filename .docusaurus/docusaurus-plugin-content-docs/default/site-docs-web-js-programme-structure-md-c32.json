@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/js/programme-structure",
+  "id": "web/js/programme-structure",
+  "isDocsHomePage": false,
+  "title": "Program Structure",
+  "description": "Let's get started",
+  "source": "@site/docs\\web\\js\\programme-structure.md",
+  "slug": "/js/structure",
+  "permalink": "/docs/js/structure",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/programme-structure.md",
+  "version": "current",
+  "sidebar_label": "Structure",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Syntax, Data Types and Operators",
+    "permalink": "/docs/js/syntax"
+  },
+  "next": {
+    "title": "Loops in JavaScript",
+    "permalink": "/docs/js/loops"
+  }
+}

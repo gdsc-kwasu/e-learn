@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/js/browser-api",
+  "id": "web/js/browser-api",
+  "isDocsHomePage": false,
+  "title": "Common Browser APIs",
+  "description": "Let's get started",
+  "source": "@site/docs\\web\\js\\browser-api.md",
+  "slug": "/js/browser-api",
+  "permalink": "/docs/js/browser-api",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/browser-api.md",
+  "version": "current",
+  "sidebar_label": "Browser APIs",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Working with forms in JavaScript",
+    "permalink": "/docs/js/forms"
+  },
+  "next": {
+    "title": "User Interface and User Experience",
+    "permalink": "/docs/ui/overview"
+  }
+}

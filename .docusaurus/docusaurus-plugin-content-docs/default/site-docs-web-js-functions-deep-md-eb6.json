@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/js/functions-deep",
+  "id": "web/js/functions-deep",
+  "isDocsHomePage": false,
+  "title": "Functions in-depth",
+  "description": "Let's get started",
+  "source": "@site/docs\\web\\js\\functions-deep.md",
+  "slug": "/js/functions-deep",
+  "permalink": "/docs/js/functions-deep",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/functions-deep.md",
+  "version": "current",
+  "sidebar_label": "Functions deep dive",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Arrays and String Data Types",
+    "permalink": "/docs/js/arrays"
+  },
+  "next": {
+    "title": "Basic introduction to Objects in JavaScript",
+    "permalink": "/docs/js/objects"
+  }
+}

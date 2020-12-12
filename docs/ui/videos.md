@@ -18,6 +18,7 @@ export const Highlight = ({children, color}) => ( <span style={{
 <br />
 
 ## **Getting Started with Figma**
+
 ### **What is Figma?**
 Figma is free to use. [_Sign up here..._](http://bit.ly/2q7OwRV)
 
@@ -81,11 +82,11 @@ And more... [_Watch Video_](https://youtu.be/EQ_FL6u8EyM)
 
 
 ## Introduction to UI Design
-### What is UI Design
+### What is  UI Design
 
 In this course, you will gain an understanding of the critical importance of user interface design. You will also learn industry-standard methods for how to approach the design of a user interface and key theories and frameworks that underlie the design of most interfaces you use today.
 
-Through a series of case studies on commercial systems - many of which you likely use on a regular basis - we will illustrate the benefits of good design. We will also demonstrate how the costs of bad design can often be severe (in user experience, money, and even human lives). <br />
+Through a series of case studies on commercial systems - many of which you likely use on a regular basis - we will illustrate the benefits of good design. We will also demonstrate how the costs of bad design can often be severe (in user experience, money, and even human lives).
 [Watch Video](https://www.coursera.org/learn/ui-design?action=enroll)
 
 ### Smooth Parallax Scrolling in Figma + Framer Web

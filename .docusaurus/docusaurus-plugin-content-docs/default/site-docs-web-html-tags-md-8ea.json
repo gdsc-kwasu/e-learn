@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/html/tags",
+  "id": "web/html/tags",
+  "isDocsHomePage": false,
+  "title": "HTML tags and attributes",
+  "description": "HTML tags and Attributes",
+  "source": "@site/docs\\web\\html\\tags.md",
+  "slug": "/html/tags",
+  "permalink": "/docs/html/tags",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/html/tags.md",
+  "version": "current",
+  "sidebar_label": "Tags and Atrtributes",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Basic page structure",
+    "permalink": "/docs/html/structure"
+  },
+  "next": {
+    "title": "Types of HTML tags",
+    "permalink": "/docs/html/html-tags"
+  }
+}

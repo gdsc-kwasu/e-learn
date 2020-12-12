@@ -1,0 +1,22 @@
+{
+  "unversionedId": "ui/overview",
+  "id": "ui/overview",
+  "isDocsHomePage": false,
+  "title": "User Interface and User Experience",
+  "description": "User Interface",
+  "source": "@site/docs\\ui\\overview.md",
+  "slug": "/ui/overview",
+  "permalink": "/docs/ui/overview",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/overview.md",
+  "version": "current",
+  "sidebar_label": "Overview",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Common Browser APIs",
+    "permalink": "/docs/js/browser-api"
+  },
+  "next": {
+    "title": "FIGMA",
+    "permalink": "/docs/ui/figma"
+  }
+}

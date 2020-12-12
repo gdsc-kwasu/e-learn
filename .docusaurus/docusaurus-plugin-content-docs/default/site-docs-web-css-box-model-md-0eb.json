@@ -4,7 +4,7 @@
   "isDocsHomePage": false,
   "title": "Understanding the box model",
   "description": "<<<<<<< HEAD",
-  "source": "@site/docs/web/css/box-model.md",
+  "source": "@site/docs\\web\\css\\box-model.md",
   "slug": "/css/box-model",
   "permalink": "/docs/css/box-model",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css/box-model.md",

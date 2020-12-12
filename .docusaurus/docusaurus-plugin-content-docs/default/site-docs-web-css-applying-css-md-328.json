@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/css/applying-css",
+  "id": "web/css/applying-css",
+  "isDocsHomePage": false,
+  "title": "Different ways to apply CSS to an HTML document",
+  "description": "When applying CSS to an HTML document or a webpage, there are different approch that can be taken for it to be accomplished.",
+  "source": "@site/docs\\web\\css\\applying-css.md",
+  "slug": "/css/applying-css",
+  "permalink": "/docs/css/applying-css",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css/applying-css.md",
+  "version": "current",
+  "sidebar_label": "Applying CSS",
+  "sidebar": "docs",
+  "previous": {
+    "title": "CSS introduction",
+    "permalink": "/docs/css/css-introduction"
+  },
+  "next": {
+    "title": "CSS structure",
+    "permalink": "/docs/css/css-structure"
+  }
+}

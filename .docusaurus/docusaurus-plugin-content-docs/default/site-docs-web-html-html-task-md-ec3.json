@@ -4,7 +4,7 @@
   "isDocsHomePage": false,
   "title": "Building a Login/Register page.",
   "description": "Let's build a Login page",
-  "source": "@site/docs/web/html/html-task.md",
+  "source": "@site/docs\\web\\html\\html-task.md",
   "slug": "/html/html-task",
   "permalink": "/docs/html/html-task",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/html/html-task.md",

@@ -4,7 +4,7 @@
   "isDocsHomePage": false,
   "title": "Let's add some colors to our Login/Register page",
   "description": "Basic form styling",
-  "source": "@site/docs/web/css/css-task.md",
+  "source": "@site/docs\\web\\css\\css-task.md",
   "slug": "/css/css-task",
   "permalink": "/docs/css/css-task",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/css/css-task.md",

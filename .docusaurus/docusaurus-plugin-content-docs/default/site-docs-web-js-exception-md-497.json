@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/js/exception",
+  "id": "web/js/exception",
+  "isDocsHomePage": false,
+  "title": "Exception, Bugs and Errors",
+  "description": "Let's get started",
+  "source": "@site/docs\\web\\js\\exception.md",
+  "slug": "/js/bugs",
+  "permalink": "/docs/js/bugs",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/exception.md",
+  "version": "current",
+  "sidebar_label": "Bugs and Errors",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Basic introduction to Objects in JavaScript",
+    "permalink": "/docs/js/objects"
+  },
+  "next": {
+    "title": "Regular Expressions",
+    "permalink": "/docs/js/regex"
+  }
+}

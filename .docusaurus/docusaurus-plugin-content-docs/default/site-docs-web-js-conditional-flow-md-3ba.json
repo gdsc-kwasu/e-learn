@@ -1,0 +1,22 @@
+{
+  "unversionedId": "web/js/conditional-flow",
+  "id": "web/js/conditional-flow",
+  "isDocsHomePage": false,
+  "title": "Conditional flow in JavaScript",
+  "description": "Let's get started",
+  "source": "@site/docs\\web\\js\\conditional-flow.md",
+  "slug": "/js/conditional-flow",
+  "permalink": "/docs/js/conditional-flow",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/js/conditional-flow.md",
+  "version": "current",
+  "sidebar_label": "Conditional flow",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Functions in JavaScript",
+    "permalink": "/docs/js/functions"
+  },
+  "next": {
+    "title": "Arrays and String Data Types",
+    "permalink": "/docs/js/arrays"
+  }
+}

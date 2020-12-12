@@ -1,6 +1,6 @@
 {
-  "/-deb": {
-    "component": "component---site-src-pages-index-jsc-4-f-f99",
+  "/-d7d": {
+    "component": "component---site-src-pages-index-jsece-a18",
     "config": "config---5-e-9-4f3"
   },
   "/__docusaurus/debug-3d6": {
@@ -9,9 +9,9 @@
   "/__docusaurus/debug/config-914": {
     "component": "component---theme-debug-config-23-a-2ff"
   },
-  "/__docusaurus/debug/content-c28": {
+  "/__docusaurus/debug/content-d12": {
     "component": "component---theme-debug-contentba-8-ce7",
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+    "allContent": "allContent---docusaurus-debug-content-4-c-9-f03"
   },
   "/__docusaurus/debug/globalData-3cf": {
     "component": "component---theme-debug-global-dataede-0fa"
@@ -25,20 +25,27 @@
   "/__docusaurus/debug/routes-244": {
     "component": "component---theme-debug-routes-946-699"
   },
+<<<<<<< HEAD
   "/blog-709": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
     "sidebar": "sidebar---blog-972-1ab",
+=======
+  "/blog-625": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---bloga-75-5b8",
+>>>>>>> b64ef28350631bb77b3235f2522f9d068e642d11
     "items": [
       {
-        "content": "content---blogaf-1-856"
+        "content": "content---blog-99-c-ea6"
       },
       {
-        "content": "content---blog-357-22b"
+        "content": "content---blogc-0-a-22b"
       },
       {
-        "content": "content---blog-8-e-9-35c"
+        "content": "content---blog-273-7f3"
       }
     ],
+<<<<<<< HEAD
     "metadata": "metadata---blogb-2-b-df1"
   },
   "/blog/hello-world-88e": {
@@ -59,259 +66,306 @@
   "/blog/tags/docusaurus-9c5": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "sidebar": "sidebar---blog-972-1ab",
+=======
+    "metadata": "metadata---blog-5-c-4-506"
+  },
+  "/blog/hello-world-ade": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---bloga-75-5b8",
+    "content": "content---blog-hello-world-843-97f"
+  },
+  "/blog/hola-d66": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---bloga-75-5b8",
+    "content": "content---blog-holaaed-b12"
+  },
+  "/blog/tags-3bf": {
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "sidebar": "sidebar---bloga-75-5b8",
+    "tags": "tags---blog-tags-995-4d3"
+  },
+  "/blog/tags/docusaurus-c83": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---bloga-75-5b8",
+>>>>>>> b64ef28350631bb77b3235f2522f9d068e642d11
     "items": [
       {
-        "content": "content---blogaf-1-856"
+        "content": "content---blog-99-c-ea6"
       },
       {
-        "content": "content---blog-357-22b"
+        "content": "content---blogc-0-a-22b"
       },
       {
-        "content": "content---blog-8-e-9-35c"
+        "content": "content---blog-273-7f3"
       }
     ],
-    "metadata": "metadata---blog-tags-docusaurusa-80-728"
+    "metadata": "metadata---blog-tags-docusaurus-198-378"
   },
+<<<<<<< HEAD
   "/blog/tags/facebook-2be": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "sidebar": "sidebar---blog-972-1ab",
+=======
+  "/blog/tags/facebook-b7f": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---bloga-75-5b8",
+>>>>>>> b64ef28350631bb77b3235f2522f9d068e642d11
     "items": [
       {
-        "content": "content---blogaf-1-856"
+        "content": "content---blog-99-c-ea6"
       }
     ],
-    "metadata": "metadata---blog-tags-facebook-031-c52"
+    "metadata": "metadata---blog-tags-facebook-42-d-8fb"
   },
+<<<<<<< HEAD
   "/blog/tags/hello-8f8": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "sidebar": "sidebar---blog-972-1ab",
+=======
+  "/blog/tags/hello-3d9": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---bloga-75-5b8",
+>>>>>>> b64ef28350631bb77b3235f2522f9d068e642d11
     "items": [
       {
-        "content": "content---blogaf-1-856"
+        "content": "content---blog-99-c-ea6"
       },
       {
-        "content": "content---blog-357-22b"
+        "content": "content---blogc-0-a-22b"
       }
     ],
-    "metadata": "metadata---blog-tags-hello-30-a-bed"
+    "metadata": "metadata---blog-tags-helloe-2-e-441"
   },
+<<<<<<< HEAD
   "/blog/tags/hola-f36": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "sidebar": "sidebar---blog-972-1ab",
+=======
+  "/blog/tags/hola-065": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---bloga-75-5b8",
+>>>>>>> b64ef28350631bb77b3235f2522f9d068e642d11
     "items": [
       {
-        "content": "content---blog-8-e-9-35c"
+        "content": "content---blog-273-7f3"
       }
     ],
-    "metadata": "metadata---blog-tags-holae-16-18a"
+    "metadata": "metadata---blog-tags-holaf-47-fb5"
   },
+<<<<<<< HEAD
   "/blog/welcome-542": {
     "component": "component---theme-blog-post-pageccc-cab",
     "sidebar": "sidebar---blog-972-1ab",
     "content": "content---blog-welcome-286-e55"
+=======
+  "/blog/welcome-f44": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---bloga-75-5b8",
+    "content": "content---blog-welcomea-9-a-cb6"
+>>>>>>> b64ef28350631bb77b3235f2522f9d068e642d11
   },
-  "/docs-059": {
+  "/docs-ae5": {
     "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---docs-935-398"
+    "versionMetadata": "versionMetadata---docsf-97-b71"
   },
-  "/docs/-8fc": {
+  "/docs/-997": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-a-9-c-d52"
+    "content": "content---docs-eda-124"
   },
-  "/docs/android/flutter-039": {
+  "/docs/android/flutter-bf6": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-android-flutter-239-2ef"
+    "content": "content---docs-android-flutter-5-a-4-806"
   },
-  "/docs/android/overview-409": {
+  "/docs/android/overview-102": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-android-overviewdcf-902"
+    "content": "content---docs-android-overviewc-7-a-b20"
   },
-  "/docs/css-6cb": {
+  "/docs/css-4eb": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-css-4-fd-954"
+    "content": "content---docs-css-213-74e"
   },
-  "/docs/css/animation-a90": {
+  "/docs/css/animation-0e1": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-css-animatione-79-1a2"
+    "content": "content---docs-css-animation-33-b-9b8"
   },
-  "/docs/css/applying-css-86b": {
+  "/docs/css/applying-css-79f": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-css-applying-csscca-32a"
+    "content": "content---docs-css-applying-css-328-776"
   },
-  "/docs/css/box-model-7a1": {
+  "/docs/css/box-model-dee": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-css-box-modelfb-0-4f3"
+    "content": "content---docs-css-box-model-0-eb-1ab"
   },
-  "/docs/css/css-introduction-838": {
+  "/docs/css/css-introduction-054": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-css-css-introductionf-1-a-eda"
+    "content": "content---docs-css-css-introduction-84-a-608"
   },
-  "/docs/css/css-structure-a0f": {
+  "/docs/css/css-structure-65c": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-css-css-structure-652-b4e"
+    "content": "content---docs-css-css-structure-865-af8"
   },
-  "/docs/css/css-task-45b": {
+  "/docs/css/css-task-c21": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-css-css-task-90-c-ace"
+    "content": "content---docs-css-css-task-6-c-2-664"
   },
-  "/docs/css/flexbox-9bb": {
+  "/docs/css/flexbox-111": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-css-flexbox-86-d-e3c"
+    "content": "content---docs-css-flexbox-1-ca-3a1"
   },
-  "/docs/css/float-097": {
+  "/docs/css/float-b0c": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-css-floatbdd-dd8"
+    "content": "content---docs-css-floatb-9-e-17f"
   },
-  "/docs/css/optimization-b04": {
+  "/docs/css/optimization-fbf": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-css-optimization-986-62d"
+    "content": "content---docs-css-optimization-0-bd-936"
   },
-  "/docs/git-d2f": {
+  "/docs/git-528": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-gite-03-8f1"
+    "content": "content---docs-git-302-7d3"
   },
-  "/docs/html-e14": {
+  "/docs/html-dc0": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-html-881-30b"
+    "content": "content---docs-html-0-e-2-c9c"
   },
-  "/docs/html/body-tags-a49": {
+  "/docs/html/body-tags-ed7": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-html-body-tags-456-1e9"
+    "content": "content---docs-html-body-tags-9-cf-3f5"
   },
-  "/docs/html/css-properties-179": {
+  "/docs/html/css-properties-934": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-html-css-properties-1-b-7-136"
+    "content": "content---docs-html-css-properties-139-f60"
   },
-  "/docs/html/emmet-646": {
+  "/docs/html/emmet-e94": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-html-emmet-145-d24"
+    "content": "content---docs-html-emmet-37-a-9a2"
   },
-  "/docs/html/forms-7c8": {
+  "/docs/html/forms-b19": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-html-formsca-7-c90"
+    "content": "content---docs-html-formse-63-6c7"
   },
-  "/docs/html/history-248": {
+  "/docs/html/history-a67": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-html-historyd-65-bcb"
+    "content": "content---docs-html-historyfd-0-ec1"
   },
-  "/docs/html/html-apis-3bb": {
+  "/docs/html/html-apis-b91": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-html-html-apisf-75-5f0"
+    "content": "content---docs-html-html-apis-587-44a"
   },
-  "/docs/html/html-tags-966": {
+  "/docs/html/html-tags-fc1": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-html-html-tags-1-bd-dfa"
+    "content": "content---docs-html-html-tags-3-bc-528"
   },
-  "/docs/html/html-task-e94": {
+  "/docs/html/html-task-f28": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-html-html-task-502-eee"
+    "content": "content---docs-html-html-taskec-3-aa1"
   },
-  "/docs/html/modernizer-579": {
+  "/docs/html/modernizer-655": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-html-modernizer-849-953"
+    "content": "content---docs-html-modernizerd-83-edb"
   },
-  "/docs/html/structure-b0b": {
+  "/docs/html/structure-a06": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-html-structured-29-466"
+    "content": "content---docs-html-structureebd-8ea"
   },
-  "/docs/html/tags-26a": {
+  "/docs/html/tags-135": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-html-tags-4-c-9-86a"
+    "content": "content---docs-html-tags-8-ea-3cd"
   },
-  "/docs/js-da2": {
+  "/docs/js-b97": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-jsae-9-531"
+    "content": "content---docs-js-51-e-c83"
   },
-  "/docs/js/arrays-f22": {
+  "/docs/js/arrays-10f": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-js-arraysa-58-43a"
+    "content": "content---docs-js-arrays-670-e31"
   },
-  "/docs/js/async-541": {
+  "/docs/js/async-b31": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-js-asyncf-00-a1c"
+    "content": "content---docs-js-async-32-e-6fa"
   },
-  "/docs/js/browser-api-f2a": {
+  "/docs/js/browser-api-c1f": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-js-browser-api-4-bf-0da"
+    "content": "content---docs-js-browser-api-8-f-6-0fa"
   },
-  "/docs/js/bugs-efb": {
+  "/docs/js/bugs-9e0": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-js-bugs-74-d-437"
+    "content": "content---docs-js-bugs-497-8d6"
   },
-  "/docs/js/conditional-flow-a6e": {
+  "/docs/js/conditional-flow-293": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-js-conditional-flow-57-c-6ba"
+    "content": "content---docs-js-conditional-flow-3-ba-11e"
   },
-  "/docs/js/dom-eb6": {
+  "/docs/js/dom-a09": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-js-dom-071-d57"
+    "content": "content---docs-js-dom-54-e-d9b"
   },
-  "/docs/js/events-51b": {
+  "/docs/js/events-800": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-js-events-709-288"
+    "content": "content---docs-js-events-13-f-21e"
   },
-  "/docs/js/forms-ed7": {
+  "/docs/js/forms-875": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-js-forms-60-e-f18"
+    "content": "content---docs-js-forms-5-ce-b53"
   },
-  "/docs/js/functions-4b8": {
+  "/docs/js/functions-3e3": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-js-functionsdfa-b2e"
+    "content": "content---docs-js-functions-5-cd-615"
   },
-  "/docs/js/functions-deep-6cb": {
+  "/docs/js/functions-deep-281": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-js-functions-deep-4-d-9-a00"
+    "content": "content---docs-js-functions-deepeb-6-be3"
   },
-  "/docs/js/http-c31": {
+  "/docs/js/http-b41": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-js-http-670-ec6"
+    "content": "content---docs-js-http-381-11d"
   },
-  "/docs/js/introduction-173": {
+  "/docs/js/introduction-8bf": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-js-introductione-61-b66"
+    "content": "content---docs-js-introduction-2-e-4-570"
   },
-  "/docs/js/js-in-broswer-528": {
+  "/docs/js/js-in-broswer-87f": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-js-js-in-broswerb-59-376"
+    "content": "content---docs-js-js-in-broswer-37-e-dfa"
   },
-  "/docs/js/loops-101": {
+  "/docs/js/loops-c3c": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-js-loops-7-d-2-a22"
+    "content": "content---docs-js-loops-3-cd-106"
   },
-  "/docs/js/modules-214": {
+  "/docs/js/modules-e6e": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-js-modulesb-0-d-bf1"
+    "content": "content---docs-js-modulescff-299"
   },
-  "/docs/js/objects-28a": {
+  "/docs/js/objects-399": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-js-objectsfa-3-09b"
+    "content": "content---docs-js-objects-795-f99"
   },
-  "/docs/js/regex-5e5": {
+  "/docs/js/regex-2ab": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-js-regex-517-c8b"
+    "content": "content---docs-js-regexbae-ee4"
   },
-  "/docs/js/structure-925": {
+  "/docs/js/structure-6c5": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-js-structurecfb-b85"
+    "content": "content---docs-js-structurec-32-967"
   },
-  "/docs/js/syntax-e20": {
+  "/docs/js/syntax-73a": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-js-syntax-4-c-0-93b"
+    "content": "content---docs-js-syntax-23-c-da6"
   },
-  "/docs/ui/articles-dfd": {
+  "/docs/ui/articles-52d": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-ui-articles-97-f-6ca"
+    "content": "content---docs-ui-articlesc-05-f58"
   },
-  "/docs/ui/figma-077": {
+  "/docs/ui/figma-3ec": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-ui-figmab-4-e-61c"
+    "content": "content---docs-ui-figmab-0-f-647"
   },
-  "/docs/ui/overview-37a": {
+  "/docs/ui/overview-136": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-ui-overview-294-472"
+    "content": "content---docs-ui-overview-1-ad-241"
   },
-  "/docs/ui/videos-8da": {
+  "/docs/ui/videos-f8d": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-ui-videos-864-625"
+    "content": "content---docs-ui-videosc-03-bf1"
   }
 }

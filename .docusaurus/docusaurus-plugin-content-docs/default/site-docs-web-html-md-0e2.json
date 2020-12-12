@@ -1,0 +1,21 @@
+{
+  "unversionedId": "web/html",
+  "id": "web/html",
+  "isDocsHomePage": false,
+  "title": "A Brief Introduction.",
+  "description": "Course contents",
+  "source": "@site/docs\\web\\html.md",
+  "slug": "/html",
+  "permalink": "/docs/html",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/web/html.md",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Web Development",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "History and future of HTML",
+    "permalink": "/docs/html/history"
+  }
+}
