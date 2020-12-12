@@ -21,6 +21,7 @@ export const Highlight = ({children, color}) => ( <span style={{
 
 If you’ve ever wanted to pursue a career in design, learn the ins-and-outs of the design process, or just want to improve your relationships with the designers in your life, you’ve come to the right place [_Continue Learning..._](https://www.figma.com/resources/learn-design/getting-started/)
 
+
 ### 2. **What is Graphic Design?**
 
 A common misconception is that design is merely making things pretty. It’s true, there is an element of design that is purely aesthetics, but it’s not inclusive of everything that design is. Here is a non-exhaustive list of some of the things that design is [_Continue Learning..._](https://www.figma.com/resources/learn-design/what-is-design/)

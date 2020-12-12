@@ -44,83 +44,47 @@ export default [
 },
 {
   path: '/blog',
-<<<<<<< HEAD
-  component: ComponentCreator('/blog','d89'),
-=======
-  component: ComponentCreator('/blog','433'),
->>>>>>> 5533723991d58d0b512279a541afbbe0b0b69145
+  component: ComponentCreator('/blog','709'),
   exact: true,
 },
 {
   path: '/blog/hello-world',
-<<<<<<< HEAD
-  component: ComponentCreator('/blog/hello-world','2ff'),
-=======
-  component: ComponentCreator('/blog/hello-world','0ea'),
->>>>>>> 5533723991d58d0b512279a541afbbe0b0b69145
+  component: ComponentCreator('/blog/hello-world','88e'),
   exact: true,
 },
 {
   path: '/blog/hola',
-<<<<<<< HEAD
-  component: ComponentCreator('/blog/hola','de6'),
-=======
-  component: ComponentCreator('/blog/hola','266'),
->>>>>>> 5533723991d58d0b512279a541afbbe0b0b69145
+  component: ComponentCreator('/blog/hola','175'),
   exact: true,
 },
 {
   path: '/blog/tags',
-<<<<<<< HEAD
-  component: ComponentCreator('/blog/tags','fc2'),
-=======
-  component: ComponentCreator('/blog/tags','0ae'),
->>>>>>> 5533723991d58d0b512279a541afbbe0b0b69145
+  component: ComponentCreator('/blog/tags','b30'),
   exact: true,
 },
 {
   path: '/blog/tags/docusaurus',
-<<<<<<< HEAD
-  component: ComponentCreator('/blog/tags/docusaurus','ee4'),
-=======
-  component: ComponentCreator('/blog/tags/docusaurus','d01'),
->>>>>>> 5533723991d58d0b512279a541afbbe0b0b69145
+  component: ComponentCreator('/blog/tags/docusaurus','9c5'),
   exact: true,
 },
 {
   path: '/blog/tags/facebook',
-<<<<<<< HEAD
-  component: ComponentCreator('/blog/tags/facebook','b55'),
-=======
-  component: ComponentCreator('/blog/tags/facebook','0de'),
->>>>>>> 5533723991d58d0b512279a541afbbe0b0b69145
+  component: ComponentCreator('/blog/tags/facebook','2be'),
   exact: true,
 },
 {
   path: '/blog/tags/hello',
-<<<<<<< HEAD
-  component: ComponentCreator('/blog/tags/hello','337'),
-=======
-  component: ComponentCreator('/blog/tags/hello','0dd'),
->>>>>>> 5533723991d58d0b512279a541afbbe0b0b69145
+  component: ComponentCreator('/blog/tags/hello','8f8'),
   exact: true,
 },
 {
   path: '/blog/tags/hola',
-<<<<<<< HEAD
-  component: ComponentCreator('/blog/tags/hola','46d'),
-=======
-  component: ComponentCreator('/blog/tags/hola','9a1'),
->>>>>>> 5533723991d58d0b512279a541afbbe0b0b69145
+  component: ComponentCreator('/blog/tags/hola','f36'),
   exact: true,
 },
 {
   path: '/blog/welcome',
-<<<<<<< HEAD
-  component: ComponentCreator('/blog/welcome','1b1'),
-=======
-  component: ComponentCreator('/blog/welcome','a25'),
->>>>>>> 5533723991d58d0b512279a541afbbe0b0b69145
+  component: ComponentCreator('/blog/welcome','542'),
   exact: true,
 },
 {

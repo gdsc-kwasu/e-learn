@@ -8,13 +8,8 @@
           "versionPath": "/docs",
           "isLast": true,
           "routePriority": -1,
-<<<<<<< HEAD
-          "sidebarFilePath": "/home/ctrlaltfix/Desktop/DSC/e-learn/sidebars.js",
-          "docsDirPath": "/home/ctrlaltfix/Desktop/DSC/e-learn/docs",
-=======
-          "sidebarFilePath": "/home/wolvecode/dsc/e-learn/sidebars.js",
-          "docsDirPath": "/home/wolvecode/dsc/e-learn/docs",
->>>>>>> 5533723991d58d0b512279a541afbbe0b0b69145
+          "sidebarFilePath": "/home/iamclement/e-learn/sidebars.js",
+          "docsDirPath": "/home/iamclement/e-learn/docs",
           "mainDocId": "web",
           "sidebars": {
             "docs": [
