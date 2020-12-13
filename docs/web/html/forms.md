@@ -45,7 +45,6 @@ There are different types of form controls that you can use to collect data usin
 - Hidden Controls
 - Clickable Buttons
 - Submit and Reset Button
-- Text Input Controls
 
 #### There are three types of text input used on forms −
 
@@ -158,7 +157,7 @@ Radio buttons are used when out of many options, just one option is required to 
 
 ```html
 <form>
-  <input type=""radio" name="subject" value="csc" />CSC
+  <input type="radio" name="subject" value="csc" />CSC
   <input type="radio" name="subject" value="gns" /> GNS
 </form>
 ```
