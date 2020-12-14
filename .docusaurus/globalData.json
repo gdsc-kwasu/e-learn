@@ -36,13 +36,13 @@
               "sidebar": "docs"
             },
             {
-              "id": "ui/overview/user-experience",
-              "path": "/docs/ui/overview/user-experience",
+              "id": "ui/ui-overview/experience",
+              "path": "/docs/ui/ui-overview/experience",
               "sidebar": "docs"
             },
             {
-              "id": "ui/overview/user-interface",
-              "path": "/docs/ui/overview/user-interface",
+              "id": "ui/ui-overview/interface",
+              "path": "/docs/ui/ui-overview/interface",
               "sidebar": "docs"
             },
             {

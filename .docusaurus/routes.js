@@ -8,41 +8,6 @@ export default [
   exact: true,
 },
 {
-  path: '/__docusaurus/debug',
-  component: ComponentCreator('/__docusaurus/debug','3d6'),
-  exact: true,
-},
-{
-  path: '/__docusaurus/debug/config',
-  component: ComponentCreator('/__docusaurus/debug/config','914'),
-  exact: true,
-},
-{
-  path: '/__docusaurus/debug/content',
-  component: ComponentCreator('/__docusaurus/debug/content','c28'),
-  exact: true,
-},
-{
-  path: '/__docusaurus/debug/globalData',
-  component: ComponentCreator('/__docusaurus/debug/globalData','3cf'),
-  exact: true,
-},
-{
-  path: '/__docusaurus/debug/metadata',
-  component: ComponentCreator('/__docusaurus/debug/metadata','31b'),
-  exact: true,
-},
-{
-  path: '/__docusaurus/debug/registry',
-  component: ComponentCreator('/__docusaurus/debug/registry','0da'),
-  exact: true,
-},
-{
-  path: '/__docusaurus/debug/routes',
-  component: ComponentCreator('/__docusaurus/debug/routes','244'),
-  exact: true,
-},
-{
   path: '/blog',
   component: ComponentCreator('/blog','bd0'),
   exact: true,
@@ -89,7 +54,7 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','e41'),
+  component: ComponentCreator('/docs','b0c'),
   
   routes: [
 {
@@ -333,13 +298,13 @@ export default [
   exact: true,
 },
 {
-  path: '/docs/ui/overview/user-experience',
-  component: ComponentCreator('/docs/ui/overview/user-experience','eed'),
+  path: '/docs/ui/ui-overview/experience',
+  component: ComponentCreator('/docs/ui/ui-overview/experience','499'),
   exact: true,
 },
 {
-  path: '/docs/ui/overview/user-interface',
-  component: ComponentCreator('/docs/ui/overview/user-interface','174'),
+  path: '/docs/ui/ui-overview/interface',
+  component: ComponentCreator('/docs/ui/ui-overview/interface','9e8'),
   exact: true,
 },
 {

@@ -68,8 +68,8 @@ module.exports = {
         type: "category",
         label: "Overview",
         items: [
-          "ui/overview/user-interface",
-          "ui/overview/user-experience",
+          "ui/ui-overview/interface",
+          "ui/ui-overview/experience",
         ]
       }, {
         type: "category",

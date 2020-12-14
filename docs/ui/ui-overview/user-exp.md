@@ -1,5 +1,5 @@
 ---
-id: user-experience
+id: experience
 title: User Interface and User Experience
 sidebar_label: User Experience
 ---

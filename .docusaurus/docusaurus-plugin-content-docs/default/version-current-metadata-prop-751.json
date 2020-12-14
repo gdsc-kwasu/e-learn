@@ -261,12 +261,12 @@
               {
                 "type": "link",
                 "label": "User Interface",
-                "href": "/docs/ui/overview/user-interface"
+                "href": "/docs/ui/ui-overview/interface"
               },
               {
                 "type": "link",
                 "label": "User Experience",
-                "href": "/docs/ui/overview/user-experience"
+                "href": "/docs/ui/ui-overview/experience"
               }
             ]
           },
@@ -343,8 +343,8 @@
     "/docs/git": "docs",
     "/docs/ui/articles/articles": "docs",
     "/docs/ui/articles/figma": "docs",
-    "/docs/ui/overview/user-experience": "docs",
-    "/docs/ui/overview/user-interface": "docs",
+    "/docs/ui/ui-overview/experience": "docs",
+    "/docs/ui/ui-overview/interface": "docs",
     "/docs/ui/videos/figma-intro": "docs",
     "/docs/ui/videos/videos": "docs",
     "/docs/": "docs",

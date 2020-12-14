@@ -225,11 +225,11 @@
                     "items": [
                       {
                         "type": "doc",
-                        "id": "ui/overview/user-interface"
+                        "id": "ui/ui-overview/interface"
                       },
                       {
                         "type": "doc",
-                        "id": "ui/overview/user-experience"
+                        "id": "ui/ui-overview/experience"
                       }
                     ]
                   },
@@ -299,8 +299,8 @@
             "/docs/git": "docs",
             "/docs/ui/articles/articles": "docs",
             "/docs/ui/articles/figma": "docs",
-            "/docs/ui/overview/user-experience": "docs",
-            "/docs/ui/overview/user-interface": "docs",
+            "/docs/ui/ui-overview/experience": "docs",
+            "/docs/ui/ui-overview/interface": "docs",
             "/docs/ui/videos/figma-intro": "docs",
             "/docs/ui/videos/videos": "docs",
             "/docs/": "docs",
@@ -454,21 +454,21 @@
               }
             },
             {
-              "unversionedId": "ui/overview/user-experience",
-              "id": "ui/overview/user-experience",
+              "unversionedId": "ui/ui-overview/experience",
+              "id": "ui/ui-overview/experience",
               "isDocsHomePage": false,
               "title": "User Interface and User Experience",
               "description": "User Experience",
-              "source": "@site/docs/ui/overview/user-exp.md",
-              "slug": "/ui/overview/user-experience",
-              "permalink": "/docs/ui/overview/user-experience",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/overview/user-exp.md",
+              "source": "@site/docs/ui/ui-overview/user-exp.md",
+              "slug": "/ui/ui-overview/experience",
+              "permalink": "/docs/ui/ui-overview/experience",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/ui-overview/user-exp.md",
               "version": "current",
               "sidebar_label": "User Experience",
               "sidebar": "docs",
               "previous": {
                 "title": "User Interface and User Experience",
-                "permalink": "/docs/ui/overview/user-interface"
+                "permalink": "/docs/ui/ui-overview/interface"
               },
               "next": {
                 "title": "Videos Overview",
@@ -476,15 +476,15 @@
               }
             },
             {
-              "unversionedId": "ui/overview/user-interface",
-              "id": "ui/overview/user-interface",
+              "unversionedId": "ui/ui-overview/interface",
+              "id": "ui/ui-overview/interface",
               "isDocsHomePage": false,
               "title": "User Interface and User Experience",
               "description": "User Interface",
-              "source": "@site/docs/ui/overview/user-interface.md",
-              "slug": "/ui/overview/user-interface",
-              "permalink": "/docs/ui/overview/user-interface",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/overview/user-interface.md",
+              "source": "@site/docs/ui/ui-overview/user-interface.md",
+              "slug": "/ui/ui-overview/interface",
+              "permalink": "/docs/ui/ui-overview/interface",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/ui-overview/user-interface.md",
               "version": "current",
               "sidebar_label": "User Interface",
               "sidebar": "docs",
@@ -494,7 +494,7 @@
               },
               "next": {
                 "title": "User Interface and User Experience",
-                "permalink": "/docs/ui/overview/user-experience"
+                "permalink": "/docs/ui/ui-overview/experience"
               }
             },
             {
@@ -533,7 +533,7 @@
               "sidebar": "docs",
               "previous": {
                 "title": "User Interface and User Experience",
-                "permalink": "/docs/ui/overview/user-experience"
+                "permalink": "/docs/ui/ui-overview/experience"
               },
               "next": {
                 "title": "Video content on Figma",
@@ -1124,7 +1124,7 @@
               },
               "next": {
                 "title": "User Interface and User Experience",
-                "permalink": "/docs/ui/overview/user-interface"
+                "permalink": "/docs/ui/ui-overview/interface"
               }
             },
             {
