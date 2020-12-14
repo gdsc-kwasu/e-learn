@@ -1,0 +1,22 @@
+{
+  "unversionedId": "ui/videos/figma-intro",
+  "id": "ui/videos/figma-intro",
+  "isDocsHomePage": false,
+  "title": "Video content on Figma",
+  "description": "Getting Started with Figma",
+  "source": "@site/docs/ui/videos/figma-intro.md",
+  "slug": "/ui/videos/figma-intro",
+  "permalink": "/docs/ui/videos/figma-intro",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/videos/figma-intro.md",
+  "version": "current",
+  "sidebar_label": "Intro to Figma",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Videos Overview",
+    "permalink": "/docs/ui/videos/videos"
+  },
+  "next": {
+    "title": "Articles",
+    "permalink": "/docs/ui/articles/articles"
+  }
+}

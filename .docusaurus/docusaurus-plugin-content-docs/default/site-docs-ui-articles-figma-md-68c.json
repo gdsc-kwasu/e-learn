@@ -1,0 +1,22 @@
+{
+  "unversionedId": "ui/articles/figma",
+  "id": "ui/articles/figma",
+  "isDocsHomePage": false,
+  "title": "FIGMA",
+  "description": "Course contents",
+  "source": "@site/docs/ui/articles/figma.md",
+  "slug": "/ui/articles/figma",
+  "permalink": "/docs/ui/articles/figma",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/articles/figma.md",
+  "version": "current",
+  "sidebar_label": "FIGMA",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Articles",
+    "permalink": "/docs/ui/articles/articles"
+  },
+  "next": {
+    "title": "Mobile App Development",
+    "permalink": "/docs/android/overview"
+  }
+}

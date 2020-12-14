@@ -1,0 +1,21 @@
+{
+  "unversionedId": "ui/videos/videos",
+  "id": "ui/videos/videos",
+  "isDocsHomePage": false,
+  "title": "Videos Overview",
+  "description": "Course contents",
+  "source": "@site/docs/ui/videos/videos.md",
+  "slug": "/ui/videos/videos",
+  "permalink": "/docs/ui/videos/videos",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/videos/videos.md",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "User Interface and User Experience",
+    "permalink": "/docs/ui/ui-overview/experience"
+  },
+  "next": {
+    "title": "Video content on Figma",
+    "permalink": "/docs/ui/videos/figma-intro"
+  }
+}

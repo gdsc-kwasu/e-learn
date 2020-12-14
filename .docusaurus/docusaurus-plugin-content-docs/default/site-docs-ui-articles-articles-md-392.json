@@ -1,0 +1,22 @@
+{
+  "unversionedId": "ui/articles/articles",
+  "id": "ui/articles/articles",
+  "isDocsHomePage": false,
+  "title": "Articles",
+  "description": "Industry Overview",
+  "source": "@site/docs/ui/articles/articles.md",
+  "slug": "/ui/articles/articles",
+  "permalink": "/docs/ui/articles/articles",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/articles/articles.md",
+  "version": "current",
+  "sidebar_label": "General Articles",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Video content on Figma",
+    "permalink": "/docs/ui/videos/figma-intro"
+  },
+  "next": {
+    "title": "FIGMA",
+    "permalink": "/docs/ui/articles/figma"
+  }
+}

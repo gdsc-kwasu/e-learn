@@ -12,8 +12,8 @@
   "sidebar_label": "Overview",
   "sidebar": "docs",
   "previous": {
-    "title": "Articles",
-    "permalink": "/docs/ui/articles"
+    "title": "FIGMA",
+    "permalink": "/docs/ui/articles/figma"
   },
   "next": {
     "title": "Mobile App with Flutter",

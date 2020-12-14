@@ -33,3 +33,7 @@
     font-size: 2rem !important;
   }
 }
+
+html[data-theme="dark"] .navbar .navbar__logo {
+  content: url(/static/img/logo.png);
+}

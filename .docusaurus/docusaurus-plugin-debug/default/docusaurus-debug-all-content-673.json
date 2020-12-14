@@ -8,8 +8,8 @@
           "versionPath": "/docs",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/iamclement/e-learn/sidebars.js",
-          "docsDirPath": "/home/iamclement/e-learn/docs",
+          "sidebarFilePath": "/home/seven/Documents/codes/projects/kwasudsc/e-learn/sidebars.js",
+          "docsDirPath": "/home/seven/Documents/codes/projects/kwasudsc/e-learn/docs",
           "mainDocId": "web",
           "sidebars": {
             "docs": [
@@ -219,20 +219,49 @@
                 "label": "UI/UX",
                 "items": [
                   {
-                    "type": "doc",
-                    "id": "ui/overview"
+                    "collapsed": true,
+                    "type": "category",
+                    "label": "UI Overview",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "ui/ui-overview/interface"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "ui/ui-overview/experience"
+                      }
+                    ]
                   },
                   {
-                    "type": "doc",
-                    "id": "ui/figma"
+                    "collapsed": true,
+                    "type": "category",
+                    "label": "Videos",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "ui/videos/videos"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "ui/videos/figma-intro"
+                      }
+                    ]
                   },
                   {
-                    "type": "doc",
-                    "id": "ui/videos"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "ui/articles"
+                    "collapsed": true,
+                    "type": "category",
+                    "label": "Articles",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "ui/articles/articles"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "ui/articles/figma"
+                      }
+                    ]
                   }
                 ]
               },
@@ -268,10 +297,12 @@
             "/docs/android/flutter": "docs",
             "/docs/android/overview": "docs",
             "/docs/git": "docs",
-            "/docs/ui/articles": "docs",
-            "/docs/ui/figma": "docs",
-            "/docs/ui/overview": "docs",
-            "/docs/ui/videos": "docs",
+            "/docs/ui/articles/articles": "docs",
+            "/docs/ui/articles/figma": "docs",
+            "/docs/ui/ui-overview/experience": "docs",
+            "/docs/ui/ui-overview/interface": "docs",
+            "/docs/ui/videos/figma-intro": "docs",
+            "/docs/ui/videos/videos": "docs",
             "/docs/": "docs",
             "/docs/css": "docs",
             "/docs/css/applying-css": "docs",
@@ -353,8 +384,8 @@
               "sidebar_label": "Overview",
               "sidebar": "docs",
               "previous": {
-                "title": "Articles",
-                "permalink": "/docs/ui/articles"
+                "title": "FIGMA",
+                "permalink": "/docs/ui/articles/figma"
               },
               "next": {
                 "title": "Mobile App with Flutter",
@@ -379,20 +410,43 @@
               }
             },
             {
-              "unversionedId": "ui/articles",
-              "id": "ui/articles",
+              "unversionedId": "ui/articles/articles",
+              "id": "ui/articles/articles",
               "isDocsHomePage": false,
               "title": "Articles",
               "description": "Industry Overview",
-              "source": "@site/docs/ui/articles.md",
-              "slug": "/ui/articles",
-              "permalink": "/docs/ui/articles",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/articles.md",
+              "source": "@site/docs/ui/articles/articles.md",
+              "slug": "/ui/articles/articles",
+              "permalink": "/docs/ui/articles/articles",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/articles/articles.md",
               "version": "current",
+              "sidebar_label": "General Articles",
               "sidebar": "docs",
               "previous": {
-                "title": "Videos",
-                "permalink": "/docs/ui/videos"
+                "title": "Video content on Figma",
+                "permalink": "/docs/ui/videos/figma-intro"
+              },
+              "next": {
+                "title": "FIGMA",
+                "permalink": "/docs/ui/articles/figma"
+              }
+            },
+            {
+              "unversionedId": "ui/articles/figma",
+              "id": "ui/articles/figma",
+              "isDocsHomePage": false,
+              "title": "FIGMA",
+              "description": "Course contents",
+              "source": "@site/docs/ui/articles/figma.md",
+              "slug": "/ui/articles/figma",
+              "permalink": "/docs/ui/articles/figma",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/articles/figma.md",
+              "version": "current",
+              "sidebar_label": "FIGMA",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Articles",
+                "permalink": "/docs/ui/articles/articles"
               },
               "next": {
                 "title": "Mobile App Development",
@@ -400,67 +454,90 @@
               }
             },
             {
-              "unversionedId": "ui/figma",
-              "id": "ui/figma",
+              "unversionedId": "ui/ui-overview/experience",
+              "id": "ui/ui-overview/experience",
               "isDocsHomePage": false,
-              "title": "FIGMA",
-              "description": "Course contents",
-              "source": "@site/docs/ui/ui.md",
-              "slug": "/ui/figma",
-              "permalink": "/docs/ui/figma",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/ui.md",
+              "title": "User Interface and User Experience",
+              "description": "User Experience",
+              "source": "@site/docs/ui/ui-overview/user-exp.md",
+              "slug": "/ui/ui-overview/experience",
+              "permalink": "/docs/ui/ui-overview/experience",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/ui-overview/user-exp.md",
               "version": "current",
+              "sidebar_label": "User Experience",
               "sidebar": "docs",
               "previous": {
                 "title": "User Interface and User Experience",
-                "permalink": "/docs/ui/overview"
+                "permalink": "/docs/ui/ui-overview/interface"
               },
               "next": {
-                "title": "Videos",
-                "permalink": "/docs/ui/videos"
+                "title": "Videos Overview",
+                "permalink": "/docs/ui/videos/videos"
               }
             },
             {
-              "unversionedId": "ui/overview",
-              "id": "ui/overview",
+              "unversionedId": "ui/ui-overview/interface",
+              "id": "ui/ui-overview/interface",
               "isDocsHomePage": false,
               "title": "User Interface and User Experience",
               "description": "User Interface",
-              "source": "@site/docs/ui/overview.md",
-              "slug": "/ui/overview",
-              "permalink": "/docs/ui/overview",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/overview.md",
+              "source": "@site/docs/ui/ui-overview/user-interface.md",
+              "slug": "/ui/ui-overview/interface",
+              "permalink": "/docs/ui/ui-overview/interface",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/ui-overview/user-interface.md",
               "version": "current",
-              "sidebar_label": "Overview",
+              "sidebar_label": "User Interface",
               "sidebar": "docs",
               "previous": {
                 "title": "Common Browser APIs",
                 "permalink": "/docs/js/browser-api"
               },
               "next": {
-                "title": "FIGMA",
-                "permalink": "/docs/ui/figma"
+                "title": "User Interface and User Experience",
+                "permalink": "/docs/ui/ui-overview/experience"
               }
             },
             {
-              "unversionedId": "ui/videos",
-              "id": "ui/videos",
+              "unversionedId": "ui/videos/figma-intro",
+              "id": "ui/videos/figma-intro",
               "isDocsHomePage": false,
-              "title": "Videos",
-              "description": "Course contents",
-              "source": "@site/docs/ui/videos.md",
-              "slug": "/ui/videos",
-              "permalink": "/docs/ui/videos",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/videos.md",
+              "title": "Video content on Figma",
+              "description": "Getting Started with Figma",
+              "source": "@site/docs/ui/videos/figma-intro.md",
+              "slug": "/ui/videos/figma-intro",
+              "permalink": "/docs/ui/videos/figma-intro",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/videos/figma-intro.md",
               "version": "current",
+              "sidebar_label": "Intro to Figma",
               "sidebar": "docs",
               "previous": {
-                "title": "FIGMA",
-                "permalink": "/docs/ui/figma"
+                "title": "Videos Overview",
+                "permalink": "/docs/ui/videos/videos"
               },
               "next": {
                 "title": "Articles",
-                "permalink": "/docs/ui/articles"
+                "permalink": "/docs/ui/articles/articles"
+              }
+            },
+            {
+              "unversionedId": "ui/videos/videos",
+              "id": "ui/videos/videos",
+              "isDocsHomePage": false,
+              "title": "Videos Overview",
+              "description": "Course contents",
+              "source": "@site/docs/ui/videos/videos.md",
+              "slug": "/ui/videos/videos",
+              "permalink": "/docs/ui/videos/videos",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/videos/videos.md",
+              "version": "current",
+              "sidebar": "docs",
+              "previous": {
+                "title": "User Interface and User Experience",
+                "permalink": "/docs/ui/ui-overview/experience"
+              },
+              "next": {
+                "title": "Video content on Figma",
+                "permalink": "/docs/ui/videos/figma-intro"
               }
             },
             {
@@ -1047,7 +1124,7 @@
               },
               "next": {
                 "title": "User Interface and User Experience",
-                "permalink": "/docs/ui/overview"
+                "permalink": "/docs/ui/ui-overview/interface"
               }
             },
             {

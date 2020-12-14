@@ -26,23 +26,33 @@
               "sidebar": "docs"
             },
             {
-              "id": "ui/articles",
-              "path": "/docs/ui/articles",
+              "id": "ui/articles/articles",
+              "path": "/docs/ui/articles/articles",
               "sidebar": "docs"
             },
             {
-              "id": "ui/figma",
-              "path": "/docs/ui/figma",
+              "id": "ui/articles/figma",
+              "path": "/docs/ui/articles/figma",
               "sidebar": "docs"
             },
             {
-              "id": "ui/overview",
-              "path": "/docs/ui/overview",
+              "id": "ui/ui-overview/experience",
+              "path": "/docs/ui/ui-overview/experience",
               "sidebar": "docs"
             },
             {
-              "id": "ui/videos",
-              "path": "/docs/ui/videos",
+              "id": "ui/ui-overview/interface",
+              "path": "/docs/ui/ui-overview/interface",
+              "sidebar": "docs"
+            },
+            {
+              "id": "ui/videos/figma-intro",
+              "path": "/docs/ui/videos/figma-intro",
+              "sidebar": "docs"
+            },
+            {
+              "id": "ui/videos/videos",
+              "path": "/docs/ui/videos/videos",
               "sidebar": "docs"
             },
             {

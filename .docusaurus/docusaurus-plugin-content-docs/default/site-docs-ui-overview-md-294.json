@@ -3,7 +3,7 @@
   "id": "ui/overview",
   "isDocsHomePage": false,
   "title": "User Interface and User Experience",
-  "description": "User Interface",
+  "description": "User Experience",
   "source": "@site/docs/ui/overview.md",
   "slug": "/ui/overview",
   "permalink": "/docs/ui/overview",

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "ui/overview/experience",
+  "id": "ui/overview/experience",
+  "isDocsHomePage": false,
+  "title": "User Interface and User Experience",
+  "description": "User Experience",
+  "source": "@site/docs/ui/overview/user-exp.md",
+  "slug": "/ui/overview/experience",
+  "permalink": "/docs/ui/overview/experience",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/overview/user-exp.md",
+  "version": "current",
+  "sidebar_label": "User Experience",
+  "sidebar": "docs",
+  "previous": {
+    "title": "User Interface and User Experience",
+    "permalink": "/docs/ui/overview/interface"
+  },
+  "next": {
+    "title": "Videos Overview",
+    "permalink": "/docs/ui/videos/videos"
+  }
+}
