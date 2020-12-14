@@ -44,83 +44,56 @@ export default [
 },
 {
   path: '/blog',
-<<<<<<< HEAD
   component: ComponentCreator('/blog','709'),
-=======
   component: ComponentCreator('/blog','625'),
->>>>>>> b64ef28350631bb77b3235f2522f9d068e642d11
   exact: true,
 },
 {
   path: '/blog/hello-world',
-<<<<<<< HEAD
   component: ComponentCreator('/blog/hello-world','88e'),
-=======
   component: ComponentCreator('/blog/hello-world','ade'),
->>>>>>> b64ef28350631bb77b3235f2522f9d068e642d11
   exact: true,
 },
 {
   path: '/blog/hola',
-<<<<<<< HEAD
   component: ComponentCreator('/blog/hola','175'),
-=======
   component: ComponentCreator('/blog/hola','d66'),
->>>>>>> b64ef28350631bb77b3235f2522f9d068e642d11
   exact: true,
 },
 {
   path: '/blog/tags',
-<<<<<<< HEAD
   component: ComponentCreator('/blog/tags','b30'),
-=======
   component: ComponentCreator('/blog/tags','3bf'),
->>>>>>> b64ef28350631bb77b3235f2522f9d068e642d11
   exact: true,
 },
 {
   path: '/blog/tags/docusaurus',
-<<<<<<< HEAD
   component: ComponentCreator('/blog/tags/docusaurus','9c5'),
-=======
   component: ComponentCreator('/blog/tags/docusaurus','c83'),
->>>>>>> b64ef28350631bb77b3235f2522f9d068e642d11
   exact: true,
 },
 {
   path: '/blog/tags/facebook',
-<<<<<<< HEAD
   component: ComponentCreator('/blog/tags/facebook','2be'),
-=======
   component: ComponentCreator('/blog/tags/facebook','b7f'),
->>>>>>> b64ef28350631bb77b3235f2522f9d068e642d11
   exact: true,
 },
 {
   path: '/blog/tags/hello',
-<<<<<<< HEAD
   component: ComponentCreator('/blog/tags/hello','8f8'),
-=======
   component: ComponentCreator('/blog/tags/hello','3d9'),
->>>>>>> b64ef28350631bb77b3235f2522f9d068e642d11
   exact: true,
 },
 {
   path: '/blog/tags/hola',
-<<<<<<< HEAD
   component: ComponentCreator('/blog/tags/hola','f36'),
-=======
   component: ComponentCreator('/blog/tags/hola','065'),
->>>>>>> b64ef28350631bb77b3235f2522f9d068e642d11
   exact: true,
 },
 {
   path: '/blog/welcome',
-<<<<<<< HEAD
   component: ComponentCreator('/blog/welcome','542'),
-=======
   component: ComponentCreator('/blog/welcome','f44'),
->>>>>>> b64ef28350631bb77b3235f2522f9d068e642d11
   exact: true,
 },
 {
