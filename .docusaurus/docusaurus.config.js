@@ -3,7 +3,7 @@ export default {
   "tagline": "An e-learning platform to curate learning materials for members of DSC to enhance personalized learning. This is to serve as the first point of reference for students in need of course materials",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
-  "onBrokenLinks": "throw",
+  "onBrokenLinks": "ignore",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/google.png",
   "organizationName": "kwasu-ng",
@@ -49,7 +49,7 @@ export default {
             },
             {
               "label": "UI/UX",
-              "to": "docs/ui/overview"
+              "to": "docs/ui/ui-overview"
             },
             {
               "label": "Mobile App",
