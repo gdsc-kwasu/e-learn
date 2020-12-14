@@ -119,11 +119,8 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-<<<<<<< HEAD
           "sidebarPath": "/home/iamclement/e-learn/sidebars.js",
-=======
           "sidebarPath": "C:\\Users\\UmarFaruq\\Desktop\\dscWork\\e-learn\\sidebars.js",
->>>>>>> b64ef28350631bb77b3235f2522f9d068e642d11
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/"
         },
         "blog": {
@@ -131,11 +128,8 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
         },
         "theme": {
-<<<<<<< HEAD
           "customCss": "/home/iamclement/e-learn/src/css/custom.css"
-=======
           "customCss": "C:\\Users\\UmarFaruq\\Desktop\\dscWork\\e-learn\\src\\css\\custom.css"
->>>>>>> b64ef28350631bb77b3235f2522f9d068e642d11
         }
       }
     ]
