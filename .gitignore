@@ -104,3 +104,6 @@ dist
 .tern-port
 
 build
+
+# ignoring docusaurus config files accross different environments
+.docusaurus
