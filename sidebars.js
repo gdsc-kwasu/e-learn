@@ -63,7 +63,30 @@ module.exports = {
         ]
       }
     ],
-    "UI/UX": ["ui/overview", "ui/figma", "ui/videos", "ui/articles"],
+    "UI/UX": [
+      {
+        type: "category",
+        label: "Overview",
+        items: [
+          "ui/overview/user-interface",
+          "ui/overview/user-experience",
+        ]
+      }, {
+        type: "category",
+        label: "Videos",
+        items: [
+          "ui/videos/videos",
+          "ui/videos/figma-intro"
+        ]
+      }, {
+        type: "category",
+        label: "Articles",
+        items: [
+          "ui/articles/articles",
+          "ui/articles/figma",
+        ]
+      }, 
+    ],
     Android: ["android/overview", "android/flutter"],
     General: ["git"],
   }

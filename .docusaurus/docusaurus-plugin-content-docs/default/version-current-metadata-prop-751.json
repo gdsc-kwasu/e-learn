@@ -254,24 +254,55 @@
         "label": "UI/UX",
         "items": [
           {
-            "type": "link",
+            "collapsed": true,
+            "type": "category",
             "label": "Overview",
-            "href": "/docs/ui/overview"
+            "items": [
+              {
+                "type": "link",
+                "label": "User Interface",
+                "href": "/docs/ui/overview/user-interface"
+              },
+              {
+                "type": "link",
+                "label": "User Experience",
+                "href": "/docs/ui/overview/user-experience"
+              }
+            ]
           },
           {
-            "type": "link",
-            "label": "FIGMA",
-            "href": "/docs/ui/figma"
-          },
-          {
-            "type": "link",
+            "collapsed": true,
+            "type": "category",
             "label": "Videos",
-            "href": "/docs/ui/videos"
+            "items": [
+              {
+                "type": "link",
+                "label": "Videos Overview",
+                "href": "/docs/ui/videos/videos"
+              },
+              {
+                "type": "link",
+                "label": "Intro to Figma",
+                "href": "/docs/ui/videos/figma-intro"
+              }
+            ]
           },
           {
-            "type": "link",
+            "collapsed": true,
+            "type": "category",
             "label": "Articles",
-            "href": "/docs/ui/articles"
+            "items": [
+              {
+                "type": "link",
+                "label": "General Articles",
+                "href": "/docs/ui/articles/articles"
+              },
+              {
+                "type": "link",
+                "label": "FIGMA",
+                "href": "/docs/ui/articles/figma"
+              }
+            ]
           }
         ]
       },
@@ -310,10 +341,12 @@
     "/docs/android/flutter": "docs",
     "/docs/android/overview": "docs",
     "/docs/git": "docs",
-    "/docs/ui/articles": "docs",
-    "/docs/ui/figma": "docs",
-    "/docs/ui/overview": "docs",
-    "/docs/ui/videos": "docs",
+    "/docs/ui/articles/articles": "docs",
+    "/docs/ui/articles/figma": "docs",
+    "/docs/ui/overview/user-experience": "docs",
+    "/docs/ui/overview/user-interface": "docs",
+    "/docs/ui/videos/figma-intro": "docs",
+    "/docs/ui/videos/videos": "docs",
     "/docs/": "docs",
     "/docs/css": "docs",
     "/docs/css/applying-css": "docs",

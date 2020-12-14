@@ -1,6 +1,7 @@
 ---
 id: articles
 title: Articles
+sidebar_label: General Articles
 ---
 
 ### Industry Overview

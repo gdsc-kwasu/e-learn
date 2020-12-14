@@ -1,0 +1,22 @@
+{
+  "unversionedId": "ui/overview/user-interface",
+  "id": "ui/overview/user-interface",
+  "isDocsHomePage": false,
+  "title": "User Interface and User Experience",
+  "description": "User Interface",
+  "source": "@site/docs/ui/overview/user-interface.md",
+  "slug": "/ui/overview/user-interface",
+  "permalink": "/docs/ui/overview/user-interface",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/overview/user-interface.md",
+  "version": "current",
+  "sidebar_label": "User Interface",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Common Browser APIs",
+    "permalink": "/docs/js/browser-api"
+  },
+  "next": {
+    "title": "User Interface and User Experience",
+    "permalink": "/docs/ui/overview/user-experience"
+  }
+}

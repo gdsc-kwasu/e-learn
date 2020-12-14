@@ -1,6 +1,7 @@
 ---
 id: figma
 title: FIGMA
+sidebar_label: FIGMA
 ---
 
 ### Course contents

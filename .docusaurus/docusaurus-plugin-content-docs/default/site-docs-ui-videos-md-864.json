@@ -11,11 +11,11 @@
   "version": "current",
   "sidebar": "docs",
   "previous": {
-    "title": "FIGMA",
-    "permalink": "/docs/ui/figma"
+    "title": "User Interface and User Experience",
+    "permalink": "/docs/ui/overview/user-experience"
   },
   "next": {
-    "title": "Articles",
-    "permalink": "/docs/ui/articles"
+    "title": "Videos",
+    "permalink": "/docs/ui/videos"
   }
 }
