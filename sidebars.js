@@ -66,7 +66,7 @@ module.exports = {
     "UI/UX": [
       {
         type: "category",
-        label: "Overview",
+        label: "UI Overview",
         items: [
           "ui/ui-overview/interface",
           "ui/ui-overview/experience",
