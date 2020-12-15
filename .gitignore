@@ -107,3 +107,4 @@ build
 
 # ignoring docusaurus config files accross different environments
 .docusaurus
+.vscode

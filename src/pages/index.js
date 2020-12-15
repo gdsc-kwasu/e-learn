@@ -30,7 +30,7 @@ const features = [
         experience. UI/UX covers your needs on this.
       </>
     ),
-    path: "docs/ui/ui-overview",
+    path: "docs/ui/ui-overview/interface",
   },
   {
     title: "Mobile App Development",
