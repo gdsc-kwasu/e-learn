@@ -8,8 +8,8 @@
           "versionPath": "/docs",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/seven/Documents/codes/projects/kwasudsc/e-learn/sidebars.js",
-          "docsDirPath": "/home/seven/Documents/codes/projects/kwasudsc/e-learn/docs",
+          "sidebarFilePath": "/home/seven/Documents/code/dsc/e-learn/sidebars.js",
+          "docsDirPath": "/home/seven/Documents/code/dsc/e-learn/docs",
           "mainDocId": "web",
           "sidebars": {
             "docs": [
@@ -423,7 +423,7 @@
               "sidebar_label": "General Articles",
               "sidebar": "docs",
               "previous": {
-                "title": "Video content on Figma",
+                "title": "Video resources on the fundamentals of Figma",
                 "permalink": "/docs/ui/videos/figma-intro"
               },
               "next": {
@@ -471,7 +471,7 @@
                 "permalink": "/docs/ui/ui-overview/interface"
               },
               "next": {
-                "title": "Videos Overview",
+                "title": "Getting started with Figma",
                 "permalink": "/docs/ui/videos/videos"
               }
             },
@@ -501,8 +501,8 @@
               "unversionedId": "ui/videos/figma-intro",
               "id": "ui/videos/figma-intro",
               "isDocsHomePage": false,
-              "title": "Video content on Figma",
-              "description": "Getting Started with Figma",
+              "title": "Video resources on the fundamentals of Figma",
+              "description": "This module contains the fundamental steps of creating amazing products with the design tool, Figma.",
               "source": "@site/docs/ui/videos/figma-intro.md",
               "slug": "/ui/videos/figma-intro",
               "permalink": "/docs/ui/videos/figma-intro",
@@ -511,7 +511,7 @@
               "sidebar_label": "Intro to Figma",
               "sidebar": "docs",
               "previous": {
-                "title": "Videos Overview",
+                "title": "Getting started with Figma",
                 "permalink": "/docs/ui/videos/videos"
               },
               "next": {
@@ -523,20 +523,21 @@
               "unversionedId": "ui/videos/videos",
               "id": "ui/videos/videos",
               "isDocsHomePage": false,
-              "title": "Videos Overview",
-              "description": "Course contents",
+              "title": "Getting started with Figma",
+              "description": "backgroundColor: color,",
               "source": "@site/docs/ui/videos/videos.md",
               "slug": "/ui/videos/videos",
               "permalink": "/docs/ui/videos/videos",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ui/videos/videos.md",
               "version": "current",
+              "sidebar_label": "Figma, getting started",
               "sidebar": "docs",
               "previous": {
                 "title": "User Interface and User Experience",
                 "permalink": "/docs/ui/ui-overview/experience"
               },
               "next": {
-                "title": "Video content on Figma",
+                "title": "Video resources on the fundamentals of Figma",
                 "permalink": "/docs/ui/videos/figma-intro"
               }
             },

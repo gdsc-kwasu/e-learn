@@ -2,8 +2,8 @@
   "unversionedId": "ui/videos/figma-intro",
   "id": "ui/videos/figma-intro",
   "isDocsHomePage": false,
-  "title": "Video content on Figma",
-  "description": "Getting Started with Figma",
+  "title": "Video resources on the fundamentals of Figma",
+  "description": "This module contains the fundamental steps of creating amazing products with the design tool, Figma.",
   "source": "@site/docs/ui/videos/figma-intro.md",
   "slug": "/ui/videos/figma-intro",
   "permalink": "/docs/ui/videos/figma-intro",
@@ -12,7 +12,7 @@
   "sidebar_label": "Intro to Figma",
   "sidebar": "docs",
   "previous": {
-    "title": "Videos Overview",
+    "title": "Getting started with Figma",
     "permalink": "/docs/ui/videos/videos"
   },
   "next": {
