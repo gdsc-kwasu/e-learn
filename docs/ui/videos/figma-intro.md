@@ -1,64 +1,10 @@
 ---
 id: figma-intro
-title: Video resources on the fundamentals of Figma
+title: Introduction to Figma
 sidebar_label: Intro to Figma
 ---
 
 This module contains the fundamental steps of creating amazing products with the design tool, Figma.
-
-### **Explore Ideas**
-
-In this series, we walk you through Figma fundamentals while building an app. This video will cover wireframing and exploring ideas.
-
-In this module, you'll learn:
-Figma for Beginners,
-Create an Account and Team,
-Free Education account,
-Teams and Invite members,
-Wireframe an app and our app idea, Petma,
-The Editor (where you design),
-Frames,
-And many more...
-[_Watch Video..._](https://youtu.be/dXQ7IHkTiMM)
-
-### **Create Designs**
-
-In this series, we walk you through Figma fundamentals while building an app. This video will cover designing in Figma.
-
-In this module, you'll learn:
-
-Create Design
-
-Pages and set up
-Measuring and Layout Grids
-Corner Radius and Place Image
-Text properties and Styles
-Plugins, color, and accessibility
-Auto Layout
-Create Components, and many more... [_Watch Video..._](https://youtu.be/wvFd-z7jSaA)
-
-### **Build Prototype**
-
-In this series, we walk you through Figma fundamentals while building an app. This video will cover building an interactive prototype in Figma.
-
-In this module, you'll learn:
-Prototyping
-Create prototype connections
-Animation
-Feedback
-View comments
-And more... [_Watch Video_](https:/https://youtu.be/EQ_FL6u8EyM/youtu.be/lTIeZ2ahEkQ)
-
-### **Prepare for Handoff**
-
-In this series, we walk you through Figma fundamentals while building an app. This video will cover preparing your files for handoff and exporting assets.
-
-In this module, you'll learn:
-Prepare for Handoff
-Custom thumbnails
-Inviting and Permissions
-Embeds
-And more... [_Watch Video_](https://youtu.be/EQ_FL6u8EyM)
 
 ## Introduction to UI Design
 
