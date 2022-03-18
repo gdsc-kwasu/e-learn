@@ -2,12 +2,12 @@ module.exports = {
   title: "e-learn",
   tagline:
     "An e-learning platform to curate learning materials for members of DSC to enhance personalized learning. This is to serve as the first point of reference for students in need of course materials",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://learn.gdsckwasu.club",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/google.png",
-  organizationName: "kwasu-ng", // Usually your GitHub org/user name.
+  organizationName: "gdsc-kwasu", // Usually your GitHub org/user name.
   projectName: "e-learn", // Usually your repo name.
   themeConfig: {
     navbar: {
@@ -36,7 +36,7 @@ module.exports = {
         {
           items: [
             {
-              html: "DSC KWASU",
+              html: "GDSC KWASU",
             },
             {
               html: `© ${new Date().getFullYear()} | All Rights Reserved.`,
@@ -68,7 +68,7 @@ module.exports = {
           items: [
             {
               label: "Twitter",
-              href: "https://twitter.com/KwasuDsc",
+              href: "https://twitter.com/gdsc_kwasu",
             },
             {
               label: "Discord",
@@ -85,15 +85,15 @@ module.exports = {
           items: [
             {
               label: "Blog",
-              to: "blog",
+              to: "https://blog.gdsckwasu.club",
             },
             {
               label: "Official website",
-              href: "https://dsckwasu.club",
+              href: "https://gdsckwasu.club",
             },
             {
               label: "GitHub",
-              href: "https://github.com/kwasu-ng",
+              href: "https://github.com/gdsc-kwasu",
             },
           ],
         },
