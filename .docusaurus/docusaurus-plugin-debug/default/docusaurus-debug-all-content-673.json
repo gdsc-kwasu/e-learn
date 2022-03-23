@@ -8,8 +8,8 @@
           "versionPath": "/docs",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/seven/Documents/code/dsc/e-learn/sidebars.js",
-          "docsDirPath": "/home/seven/Documents/code/dsc/e-learn/docs",
+          "sidebarFilePath": "/home/seven/Documents/codes/gdsc/e-learn/sidebars.js",
+          "docsDirPath": "/home/seven/Documents/codes/gdsc/e-learn/docs",
           "mainDocId": "web",
           "sidebars": {
             "docs": [

@@ -1,12 +1,12 @@
 export default {
   "title": "e-learn",
-  "tagline": "An e-learning platform to curate learning materials for members of DSC to enhance personalized learning. This is to serve as the first point of reference for students in need of course materials",
-  "url": "https://your-docusaurus-test-site.com",
+  "tagline": "A learning platform to curate learning materials for members of GDSC KWASU to enhance their learning process. This will be a point of reference for students in need of course materials",
+  "url": "https://learn.gdsckwasu.club",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/google.png",
-  "organizationName": "kwasu-ng",
+  "organizationName": "gdsc-kwasu",
   "projectName": "e-learn",
   "themeConfig": {
     "navbar": {
@@ -30,10 +30,10 @@ export default {
         {
           "items": [
             {
-              "html": "DSC KWASU"
+              "html": "GDSC KWASU"
             },
             {
-              "html": "© 2020 | All Rights Reserved."
+              "html": "© 2022 | All Rights Reserved."
             },
             {
               "html": "Learn, Grow and Connect"
@@ -62,7 +62,7 @@ export default {
           "items": [
             {
               "label": "Twitter",
-              "href": "https://twitter.com/KwasuDsc"
+              "href": "https://twitter.com/gdsc_kwasu"
             },
             {
               "label": "Discord",
@@ -79,15 +79,15 @@ export default {
           "items": [
             {
               "label": "Blog",
-              "to": "blog"
+              "to": "https://blog.gdsckwasu.club"
             },
             {
               "label": "Official website",
-              "href": "https://dsckwasu.club"
+              "href": "https://gdsckwasu.club"
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/kwasu-ng"
+              "href": "https://github.com/gdsc-kwasu"
             }
           ]
         }
@@ -119,7 +119,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/home/seven/Documents/code/dsc/e-learn/sidebars.js",
+          "sidebarPath": "/home/seven/Documents/codes/gdsc/e-learn/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/"
         },
         "blog": {
@@ -127,7 +127,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
         },
         "theme": {
-          "customCss": "/home/seven/Documents/code/dsc/e-learn/src/css/custom.css"
+          "customCss": "/home/seven/Documents/codes/gdsc/e-learn/src/css/custom.css"
         }
       }
     ]

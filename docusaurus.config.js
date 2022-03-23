@@ -1,7 +1,7 @@
 module.exports = {
   title: "e-learn",
   tagline:
-    "An e-learning platform to curate learning materials for members of DSC to enhance personalized learning. This is to serve as the first point of reference for students in need of course materials",
+    "A learning platform to curate learning materials for members of GDSC KWASU to enhance their learning process. This will be a point of reference for students in need of course materials",
   url: "https://learn.gdsckwasu.club",
   baseUrl: "/",
   onBrokenLinks: "throw",
