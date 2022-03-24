@@ -115,11 +115,11 @@ function Home() {
         />
         <meta
           name="twitter:card"
-          content="https://learn.gdsckwasu.club/static/img/ogimage.png"
+          content="https://learn.gdsckwasu.club/img/ogimage.png"
         />
         <meta
           property="og:image"
-          content="https://learn.gdsckwasu.club/static/img/ogimage.png"
+          content="https://learn.gdsckwasu.club/img/ogimage.png"
           key="ogimage"
         />
         <meta
