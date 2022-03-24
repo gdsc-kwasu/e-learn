@@ -113,9 +113,23 @@ function Home() {
           content="A platform with curated learning resources for GDSC KWASU Members"
           key="ogdesc"
         />
-        <meta
+        {/* <meta
           name="twitter:image"
           content="https://learn.gdsckwasu.club/static/img/ogimage.png"
+        /> */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@CoderRocketFuel" />
+        <meta
+          name="twitter:title"
+          content="Embed a Twitch Video into a React Website"
+        />
+        <meta
+          name="twitter:description"
+          content="How to embed a Twitch video into a React application or website using the ReactPlayer npm package."
+        />
+        <meta
+          name="twitter:image"
+          content="https://assets.coderrocketfuel.com/twitter-post-with-node-js.png"
         />
         <meta
           property="og:image"
