@@ -114,12 +114,12 @@ function Home() {
           key="ogdesc"
         />
         <meta
-          name="twitter:card"
-          content="https://learn.gdsckwasu.club/img/ogimage.png"
+          name="twitter:image"
+          content="https://learn.gdsckwasu.club/static/img/ogimage.png"
         />
         <meta
           property="og:image"
-          content="https://learn.gdsckwasu.club/img/ogimage.png"
+          content="https://learn.gdsckwasu.club/static/img/ogimage.png"
           key="ogimage"
         />
         <meta
