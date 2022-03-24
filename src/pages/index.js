@@ -8,6 +8,7 @@ import useBaseUrl from "@docusaurus/useBaseUrl";
 import styles from "./styles.module.css";
 import "../css/override.css";
 import Coder from "../../static/img/coder.png";
+import Head from "@docusaurus/Head";
 
 const features = [
   {
@@ -104,6 +105,25 @@ function Home() {
   const { siteConfig = {} } = context;
   return (
     <Layout description="A platform with curated learning resources for GDSC KWASU Members">
+      <Head>
+        <meta name="theme-color" content="#000" />
+        <meta property="og:title" content="Learn | GDSC KWASU" key="ogtitle" />
+        <meta
+          property="og:description"
+          content="A platform with curated learning resources for GDSC KWASU Members"
+          key="ogdesc"
+        />
+        <meta
+          property="og:image"
+          content={`https://learn.gdsckwasu.club/img/ogimage.png`}
+          key="ogimage"
+        />
+        <meta
+          property="og:site_name"
+          content="https://learn.gdsckwasu.club"
+          key="ogsitename"
+        />
+      </Head>
       <header className={clsx("", styles.heroBanner)}>
         <div className="container text-left p-0">
           <div className="row-md align-items-center">
