@@ -118,22 +118,18 @@ function Home() {
           content="https://learn.gdsckwasu.club/static/img/ogimage.png"
         /> */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@CoderRocketFuel" />
-        <meta
-          name="twitter:title"
-          content="Embed a Twitch Video into a React Website"
-        />
+        <meta name="twitter:title" content="e-learn" />
         <meta
           name="twitter:description"
-          content="How to embed a Twitch video into a React application or website using the ReactPlayer npm package."
+          content="A platform with curated learning resources for GDSC KWASU Members"
         />
         <meta
           name="twitter:image"
-          content="https://assets.coderrocketfuel.com/twitter-post-with-node-js.png"
+          content="https://learn.gdsckwasu.club/img/ogimage.png"
         />
         <meta
           property="og:image"
-          content="https://learn.gdsckwasu.club/static/img/ogimage.png"
+          content="https://learn.gdsckwasu.club/img/ogimage.png"
           key="ogimage"
         />
         <meta

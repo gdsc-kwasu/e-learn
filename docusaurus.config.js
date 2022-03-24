@@ -10,6 +10,7 @@ module.exports = {
   organizationName: "gdsc-kwasu", // Usually your GitHub org/user name.
   projectName: "e-learn", // Usually your repo name.
   themeConfig: {
+    image: "/static/img/ogimage.png",
     navbar: {
       logo: {
         alt: "My Site Logo",

@@ -9,6 +9,7 @@ export default {
   "organizationName": "gdsc-kwasu",
   "projectName": "e-learn",
   "themeConfig": {
+    "image": "/static/img/ogimage.png",
     "navbar": {
       "logo": {
         "alt": "My Site Logo",
