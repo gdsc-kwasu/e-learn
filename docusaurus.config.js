@@ -10,6 +10,21 @@ module.exports = {
   organizationName: "gdsc-kwasu", // Usually your GitHub org/user name.
   projectName: "e-learn", // Usually your repo name.
   themeConfig: {
+    metadata: [
+      {
+        name: "twitter:card",
+        content: "https://learn.gdsckwasu.club/static/img/ogimage.png",
+      },
+      {
+        property: "og:site_name",
+        content: "https://learn.gdsckwasu.club",
+        key: "ogsitename",
+      },
+      {
+        property: "og:image",
+        content: "https://learn.gdsckwasu.club/static/img/ogimage.png",
+      },
+    ],
     navbar: {
       logo: {
         alt: "My Site Logo",
@@ -22,12 +37,6 @@ module.exports = {
           label: "Learning Resources",
           position: "right",
         },
-        // { to: "blog", label: "Blog", position: "right" },
-        // {
-        //   href: 'https://github.com/facebook/docusaurus',
-        //   label: 'GitHub',
-        //   position: 'right',
-        // },
       ],
     },
     footer: {

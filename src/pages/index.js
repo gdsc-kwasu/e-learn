@@ -47,28 +47,22 @@ const features = [
 
 const benefits = [
   {
-    item:
-      "Access to great contents that can easily guide you to grasp better understanding of a topic",
+    item: "Access to great contents that can easily guide you to grasp better understanding of a topic",
   },
   {
-    item:
-      "Access to great contents that can easily guide you to grasp better understanding of a topic",
+    item: "Access to great contents that can easily guide you to grasp better understanding of a topic",
   },
   {
-    item:
-      "Access to great contents that can easily guide you to grasp better understanding of a topic",
+    item: "Access to great contents that can easily guide you to grasp better understanding of a topic",
   },
   {
-    item:
-      "Access to great contents that can easily guide you to grasp better understanding of a topic",
+    item: "Access to great contents that can easily guide you to grasp better understanding of a topic",
   },
   {
-    item:
-      "Access to great contents that can easily guide you to grasp better understanding of a topic",
+    item: "Access to great contents that can easily guide you to grasp better understanding of a topic",
   },
   {
-    item:
-      "Access to great contents that can easily guide you to grasp better understanding of a topic",
+    item: "Access to great contents that can easily guide you to grasp better understanding of a topic",
   },
 ];
 
@@ -109,7 +103,7 @@ function Home() {
   const context = useDocusaurusContext();
   const { siteConfig = {} } = context;
   return (
-    <Layout description="Description will go into a meta tag in <head />">
+    <Layout description="A platform with curated learning resources for GDSC KWASU Members">
       <header className={clsx("", styles.heroBanner)}>
         <div className="container text-left p-0">
           <div className="row-md align-items-center">
