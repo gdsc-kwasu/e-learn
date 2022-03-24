@@ -113,11 +113,8 @@ function Home() {
           content="A platform with curated learning resources for GDSC KWASU Members"
           key="ogdesc"
         />
-        <meta
-          property="og:image"
-          content="/static/img/ogimage.png"
-          key="ogimage"
-        />
+        <meta name="twitter:card" content="/image/ogimage.png" />
+        <meta property="og:image" content="/img/ogimage.png" key="ogimage" />
         <meta
           property="og:site_name"
           content="https://learn.gdsckwasu.club"

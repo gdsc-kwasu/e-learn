@@ -9,22 +9,6 @@ export default {
   "organizationName": "gdsc-kwasu",
   "projectName": "e-learn",
   "themeConfig": {
-    "image": "static/img/ogimage.png",
-    "metadata": [
-      {
-        "name": "twitter:card",
-        "content": "https://learn.gdsckwasu.club/static/img/ogimage.png"
-      },
-      {
-        "name": "og:site_name",
-        "content": "https://learn.gdsckwasu.club",
-        "key": "ogsitename"
-      },
-      {
-        "name": "og:image",
-        "content": "static/img/ogimage.png"
-      }
-    ],
     "navbar": {
       "logo": {
         "alt": "My Site Logo",
