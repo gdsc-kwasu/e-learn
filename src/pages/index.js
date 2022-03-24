@@ -115,7 +115,7 @@ function Home() {
         />
         <meta
           property="og:image"
-          content={`https://learn.gdsckwasu.club/img/ogimage.png`}
+          content="/static/img/ogimage.png"
           key="ogimage"
         />
         <meta

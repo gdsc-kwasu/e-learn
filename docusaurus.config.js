@@ -10,22 +10,22 @@ module.exports = {
   organizationName: "gdsc-kwasu", // Usually your GitHub org/user name.
   projectName: "e-learn", // Usually your repo name.
   themeConfig: {
-    image: "img/ogimage.png",
-    // metadata: [
-    //   {
-    //     name: "twitter:card",
-    //     content: "https://learn.gdsckwasu.club/static/img/ogimage.png",
-    //   },
-    //   {
-    //     name: "og:site_name",
-    //     content: "https://learn.gdsckwasu.club",
-    //     key: "ogsitename",
-    //   },
-    //   {
-    //     name: "og:image",
-    //     content: "https://learn.gdsckwasu.club/static/img/ogimage.png",
-    //   },
-    // ],
+    image: "static/img/ogimage.png",
+    metadata: [
+      {
+        name: "twitter:card",
+        content: "https://learn.gdsckwasu.club/static/img/ogimage.png",
+      },
+      {
+        name: "og:site_name",
+        content: "https://learn.gdsckwasu.club",
+        key: "ogsitename",
+      },
+      {
+        name: "og:image",
+        content: "static/img/ogimage.png",
+      },
+    ],
     navbar: {
       logo: {
         alt: "My Site Logo",
